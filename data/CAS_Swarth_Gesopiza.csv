@@ -1,0 +1,898 @@
+Taxon,Institution,Museum No.,Island,Taxon-Island,Sex,Wing,Tail,Blength,Gonys,Bdepth,Bwidth,Tarsus,MiddleToe
+conirostris,Rotheschild Mus.,1916,Darwin,conirostrisDarwin,Male,78.2,46,19.5,,14,11,25.2,22
+conirostris,Rotheschild Mus.,1918,Darwin,conirostrisDarwin,Male,81.5,53,22.2,,17.2,13.5,26.5,23
+conirostris,Rotheschild Mus.,1931,Darwin,conirostrisDarwin,Male,81,49.5,21.2,,16.2,12.2,23.5,21.5
+conirostris,Rotheschild Mus.,,Darwin,conirostrisDarwin,Male,78,48.8,20,,14.2,11,25.2,22.5
+conirostris,Rotheschild Mus.,1930,Darwin,conirostrisDarwin,Male,84,53.2,22.2,,19.5,14,24.5,24
+conirostris,Rotheschild Mus.,157,Darwin,conirostrisDarwin,Male,82,50,22.8,,19.5,14,25.5,22
+conirostris,Harris,104,Darwin,conirostrisDarwin,Male,82,50.5,22.5,,17,13.8,25.5,19.8
+conirostris,G. W. Hull,105,Darwin,conirostrisDarwin,Male,78.2,47,21.2,,15.2,11.5,24.5,20.2
+conirostris,Rotheschild Mus.,160,Darwin,conirostrisDarwin,Male,80.5,48.5,20.8,,17,12.5,25,22
+conirostris,Rotheschild Mus.,159,Darwin,conirostrisDarwin,Male,81.5,50.5,21,,18,13.2,25.5,20.2
+magnirostris,CAS,37920,Genovesa,magnirostrisGenovesa,Male,86.5,54.5,26,13.2,23,17,25.5,23.5
+magnirostris,CAS,37919,Genovesa,magnirostrisGenovesa,Male,84,52,23.2,12,20,15.5,25,22.5
+magnirostris,CAS,37921,Genovesa,magnirostrisGenovesa,Male,83.2,57.5,25,13.2,22,17,26,23.5
+magnirostris,CAS,37917,Genovesa,magnirostrisGenovesa,Male,81,,25,12,22,16,25,23
+magnirostris,CAS,37925,Santiago,magnirostrisSantiago,Male,80.5,46,22,12,20,15.2,26,22
+magnirostris,CAS,37932,Santiago,magnirostrisSantiago,Male,78.5,47,23.5,12.5,21.2,16,26.5,22.5
+magnirostris,CAS,5105,Santa Cruz,magnirostrisSanta Cruz,Male,81.2,50.5,22.5,12.2,20.5,15.5,25,20.5
+magnirostris,CAS,5316,Santa Cruz,magnirostrisSanta Cruz,Male,83.5,49.5,22.5,11.5,21,16,24.5,22.5
+magnirostris,CAS,5112,Santa Cruz,magnirostrisSanta Cruz,Male,81,50.5,21.5,12,21,16.5,24,21.5
+magnirostris,CAS,5153,Santa Cruz,magnirostrisSanta Cruz,Male,78,53.5,21.5,12,19.8,16,25,22
+magnirostris,CAS,5550,Santa Cruz,magnirostrisSanta Cruz,Male,74,44,20.5,11,17.2,12.5,23,20.8
+magnirostris,CAS,5319,Darwin,magnirostrisDarwin,Male,85,52.2,21.5,12,18.2,14,25.5,23
+magnirostris,CAS,5327,Darwin,magnirostrisDarwin,Male,85.5,54.5,22,12,17.5,13.5,26,21.5
+magnirostris,CAS,5157,Darwin,magnirostrisDarwin,Male,80.2,51.5,23,12.2,18.8,14.2,26,23
+magnirostris,CAS,5318,Wolf,magnirostrisWolf,Male,84,52.5,23,12.5,20,14.5,26,23.5
+magnirostris,CAS,5323,Wolf,magnirostrisWolf,Male,85,53,24,13,20,15,25.5,24
+magnirostris,CAS,5155,Marchena,magnirostrisMarchena,Male,78,47.5,21.8,12,18.8,14.8,26,21.5
+magnirostris,CAS,5102,Marchena,magnirostrisMarchena,Male,78,48,21,11,18.2,14,23,20.5
+magnirostris,Stanford University,1254,Marchena,magnirostrisMarchena,Male,81,48.5,22.2,12,20.8,15.5,24.5,21
+magnirostris,Stanford University,1530,Marchena,magnirostrisMarchena,Male,80.2,51,22.2,11.2,18.2,14,23,19.5
+magnirostris,Stanford University,1162,Pinta,magnirostrisPinta,Male,79,45.2,22,11,19,14.5,25.5,22
+magnirostris,Stanford University,1400,Pinta,magnirostrisPinta,Male,81,42,21,12.5,20,15.2,24.5,20.5
+magnirostris,Stanford University,1261,Pinta,magnirostrisPinta,Male,80,47.5,22.5,12.5,20.5,15,25.2,20
+magnirostris,Stanford University,1110,Pinta,magnirostrisPinta,Male,78,49,22.5,12.2,19.5,15,26,22.2
+magnirostris,CAS,5322,Pinta,magnirostrisPinta,Male,81.2,51,21,12.2,19.2,15.2,23.5,21
+magnirostris,CAS,5137,Pinta,magnirostrisPinta,Male,77,49,23.5,12.2,20.2,15.5,25,22
+magnirostris,CAS,5123,Pinta,magnirostrisPinta,Male,80,50.5,21.2,12,20,15,24.2,21
+magnirostris,CAS,5124,Pinta,magnirostrisPinta,Male,79.5,52,22.5,12,21,16.5,25,22.5
+magnirostris,CAS,5134,Pinta,magnirostrisPinta,Male,81.2,50.5,23,12.2,20,14.5,25.5,22
+magnirostris,CAS,5141,Pinta,magnirostrisPinta,Male,83,52.2,23,12.5,22,16.2,25,22
+magnirostris,CAS,5324,Santiago,magnirostrisSantiago,Male,84.5,51.5,24,13.5,20,14.5,26,23
+magnirostris,CAS,5321,Santiago,magnirostrisSantiago,Male,85.5,53.5,21,11.2,20,15,24,22.5
+magnirostris,CAS,5099,Santiago,magnirostrisSantiago,Male,81,48,22.5,12.8,21,16.2,25,23
+magnirostris,CAS,5110,Santiago,magnirostrisSantiago,Male,82,47.8,22,12.5,22,16.2,24.5,20.2
+magnirostris,CAS,5315,Santiago,magnirostrisSantiago,Male,82.2,50,23,12,21,16.2,25,22.5
+magnirostris,CAS,5313,Santiago,magnirostrisSantiago,Male,81.8,51.2,22,12.5,21.2,15.5,26,23.5
+magnirostris,CAS,5111,Santiago,magnirostrisSantiago,Male,81,47,22.5,12,22,16,25,22
+magnirostris,CAS,5311,Santiago,magnirostrisSantiago,Male,83.5,51.5,23,12,22,15,24.5,22.5
+magnirostris,CAS,5109,Santiago,magnirostrisSantiago,Male,78.5,49.5,23,12.5,21.2,15.2,25,22
+magnirostris,CAS,5104,Santiago,magnirostrisSantiago,Male,83,50,24,13,22,16.2,25.2,22
+magnirostris,CAS,5320,Rabida,magnirostrisRabida,Male,83,51.5,22.2,12,19.2,14,24,22.8
+magnirostris,CAS,5329,Rabida,magnirostrisRabida,Male,80,48.5,21.5,11.8,18.5,14,24,23
+magnirostris,CAS,5332,Rabida,magnirostrisRabida,Male,83.5,52.5,20.2,12,17.5,13.5,23.5,23
+magnirostris,CAS,5333,Rabida,magnirostrisRabida,Male,77.5,48,20.8,11.5,18,13,24,22.2
+magnirostris,CAS,5325,Rabida,magnirostrisRabida,Male,80,51,21.5,11.2,17.2,13.5,24,23
+magnirostris,CAS,5331,Rabida,magnirostrisRabida,Male,81.2,50,20,11.5,18.5,14,23.5,22
+magnirostris,CAS,5334,Rabida,magnirostrisRabida,Male,81,54,21,11.5,18,14,23.5,22.3
+magnirostris,CAS,5328,Rabida,magnirostrisRabida,Male,81,50.5,21,11.5,18,14,23.5,22
+magnirostris,CAS,5330,Rabida,magnirostrisRabida,Male,83,51,21.5,12,20,14,24.5,23.5
+magnirostris,CAS,5337,Rabida,magnirostrisRabida,Male,77,48,19,11,17,12.5,21,20
+fortis,Stanford University,5073,Pinta,fortisPinta,Male,64.5,37,16,8.5,11,9,20.2,18
+fortis,Stanford University,5203,Pinta,fortisPinta,Male,64.8,42,17,9,12,10,20.5,18.5
+fortis,CAS,5409,Pinta,fortisPinta,Male,71,44.5,16.5,9,12.5,10.5,21.5,19
+fortis,CAS,5181,Pinta,fortisPinta,Male,62,39.5,15,8.5,10.2,8.5,19,17
+fortis,CAS,5184,Pinta,fortisPinta,Male,61,37.5,15.2,8.5,11,9,19.2,16.5
+fortis,CAS,5183,Pinta,fortisPinta,Male,65.5,40.2,15,7.5,11.5,9.5,19.8,18
+fortis,CAS,5180,Pinta,fortisPinta,Male,62,41.8,16,8.5,11.5,9.2,20,17
+fortis,CAS,5188,Pinta,fortisPinta,Male,67,39,16,9,12,9.2,20.2,18
+fortis,CAS,5186,Pinta,fortisPinta,Male,67,40,15.2,8.5,11,9,20.2,17.2
+fortis,CAS,5187,Pinta,fortisPinta,Male,65.5,41.8,16,8.5,12.5,10,20,17.2
+fortis,Stanford University,5223,Marchena,fortisMarchena,Male,64,38,16.8,8.5,12.2,9.8,20,17
+fortis,Stanford University,5256,Marchena,fortisMarchena,Male,66,39,16.8,9,12.2,9,19,17
+fortis,CAS,5178,Marchena,fortisMarchena,Male,65,39.5,16,8,12,9.2,20.2,18
+fortis,CAS,5179,Marchena,fortisMarchena,Male,65.5,40.5,16,8.5,11.5,9.2,20,17.5
+fortis,CAS,5177,Marchena,fortisMarchena,Male,65.8,41.8,16,9,12,9.5,19.5,17
+fortis,CAS,5407,Marchena,fortisMarchena,Male,65.5,39,17.2,9.2,12.8,9,19.5,16.5
+fortis,CAS,6768,Marchena,fortisMarchena,Male,68,42.5,16,8.2,12.2,9.2,20.5,18
+fortis,CAS,5406,Marchena,fortisMarchena,Male,65.2,41.2,15.8,8.5,12,9,19,16.5
+fortis,CAS,5182,Marchena,fortisMarchena,Male,66,40.5,15.2,8.5,11.5,9.2,19.5,17.2
+fortis,CAS,5190,Marchena,fortisMarchena,Male,67,39,16.5,9,11.8,9.2,20,16.5
+fortis,CAS,5309,Fernandina,fortisFernandina,Male,69.5,45,15.2,9,11.5,9,20,19
+fortis,CAS,5403,Fernandina,fortisFernandina,Male,69.5,44,17,9,12,9,21,18.5
+fortis,CAS,5357,Fernandina,fortisFernandina,Male,68,43,17,8.5,12,9.2,21,19.5
+fortis,CAS,5404,Fernandina,fortisFernandina,Male,72,42.2,16.5,9.5,13,10,22.2,19
+fortis,Stanford University,3933,Fernandina,fortisFernandina,Male,67,41.5,15.5,8.8,12.2,9.8,20.5,18
+fortis,Stanford University,3950,Fernandina,fortisFernandina,Male,68,39,16.5,9,11,9.2,20.5,19
+fortis,Stanford University,4006,Fernandina,fortisFernandina,Male,72,39.5,14.8,8.2,12.2,9.2,21,17.5
+fortis,Stanford University,4459,Fernandina,fortisFernandina,Male,70.5,43,17.2,9.2,12.5,9.5,20.8,17.5
+fortis,Stanford University,4440,Fernandina,fortisFernandina,Male,67,38,15.8,8.8,12,9,22,17.5
+fortis,Stanford University,4463,Fernandina,fortisFernandina,Male,71,41,16.2,8.5,12,9.8,21.8,18
+fortis,CAS,5237,Isabela,fortisIsabela,Male,68,39.5,14.8,7.8,11.2,8.8,21.5,17.2
+fortis,CAS,5292,Isabela,fortisIsabela,Male,66.5,40.8,15.8,8.5,12.2,9.2,21,18
+fortis,CAS,5225,Isabela,fortisIsabela,Male,66,41,15,8.5,11,8.5,20,18.2
+fortis,CAS,5411,Isabela,fortisIsabela,Male,71,41,15.5,8.2,12,10,22,18
+fortis,CAS,5212,Isabela,fortisIsabela,Male,66,38.5,16,8.5,11.5,9,21,17
+fortis,CAS,5208,Isabela,fortisIsabela,Male,69.5,43,15.5,8,11.2,9,20.5,18
+fortis,CAS,5200,Isabela,fortisIsabela,Male,69.5,44,16,8.5,12.5,9.2,21.5,19
+fortis,CAS,5468,Isabela,fortisIsabela,Male,74,48,18.5,10.5,14.5,12,22.8,20.5
+fortis,Stanford University,4008,Isabela,fortisIsabela,Male,74,47,17.5,9.5,13.5,9.8,21.5,20.5
+fortis,Stanford University,4201,Isabela,fortisIsabela,Male,71.5,43,16.5,8.2,12.2,9.5,21.5,19.2
+fortis,CAS,5340,Isabela,fortisIsabela,Male,77.2,47.8,19.5,11,16.2,11.5,24.5,22.8
+fortis,CAS,5202,Isabela,fortisIsabela,Male,72.5,42.2,17.5,9.2,14,11.5,21.5,20.5
+fortis,CAS,5211,Isabela,fortisIsabela,Male,74,43,18,10,14,11.2,21.5,20
+fortis,CAS,5379,Isabela,fortisIsabela,Male,71,44,15.8,8.5,12.8,10,21,18
+fortis,CAS,5453,Isabela,fortisIsabela,Male,74,49,19,10,14.2,11.2,23.2,19.8
+fortis,CAS,5233,Isabela,fortisIsabela,Male,73,44.2,18.5,10,15,11,24,20.5
+fortis,CAS,5376,Isabela,fortisIsabela,Male,74,44.2,19.5,10.2,15.5,11.2,22.2,21.5
+fortis,CAS,5342,Isabela,fortisIsabela,Male,75.5,46,18.8,10.2,14.2,11.2,21.8,19.8
+fortis,CAS,5217,Isabela,fortisIsabela,Male,77,47,18,9.5,13.5,11.5,23.2,20.2
+fortis,CAS,5366,Isabela,fortisIsabela,Male,73.5,46.5,17,9,12.2,9,21.5,19.2
+fortis,Stanford University,4535,Santiago,fortisSantiago,Male,69.2,43,17.5,9.2,13.2,10,21,19
+fortis,CAS,5302,Santiago,fortisSantiago,Male,68,41.5,16,8.8,12,9.8,21,19.2
+fortis,CAS,5353,Santiago,fortisSantiago,Male,71.5,42,16.2,9,14,10.2,22,19.2
+fortis,CAS,5268,Santiago,fortisSantiago,Male,69,41,17,8.5,13,10,22,19
+fortis,CAS,5261,Santiago,fortisSantiago,Male,70,45,17,8.8,13,10.2,21,19
+fortis,CAS,5383,Santiago,fortisSantiago,Male,70.8,44.2,16,8.2,12.5,9.8,22,18
+fortis,CAS,5400,Santiago,fortisSantiago,Male,70,43.2,15.5,8.8,12.5,9.5,21,19
+fortis,CAS,5245,Santiago,fortisSantiago,Male,68,41,17,8.8,13,9.5,22,18.5
+fortis,CAS,6905,Santiago,fortisSantiago,Male,72,43.2,15,8,10,8,23.5,21
+fortis,CAS,5451,Santiago,fortisSantiago,Male,70,44,15.5,8.5,11.5,9.2,21.5,17.5
+fortis,CAS,5418,Pinzon,fortisPinzon,Male,68,44.2,14,7.5,10.8,8.2,20.5,18.2
+fortis,CAS,5779,Pinzon,fortisPinzon,Male,67,43.2,15,8,10,8,19.5,18.2
+fortis,CAS,5234,Pinzon,fortisPinzon,Male,64.2,40.8,15,8.2,10.2,8.5,20.5,19
+fortis,CAS,6777,Pinzon,fortisPinzon,Male,67,40.5,14.8,7.8,11.2,8.5,20.2,18.5
+fortis,CAS,5219,Pinzon,fortisPinzon,Male,70.8,40.5,15,8,12,9,21,20
+fortis,CAS,5385,Pinzon,fortisPinzon,Male,68,43,14.8,8,12,9,22,19
+fortis,CAS,5213,Pinzon,fortisPinzon,Male,71.5,42.5,15.5,8.5,12,9,23,21
+fortis,CAS,5248,Pinzon,fortisPinzon,Male,69,40,16.5,8.8,13,9,21.8,19.5
+fortis,CAS,5232,Pinzon,fortisPinzon,Male,69.2,41.2,14.8,8,11,8.2,21.2,19
+fortis,CAS,5257,Pinzon,fortisPinzon,Male,69,44.8,15,8,10,8,21.2,17.5
+fortis,CAS,5413,Daphne,fortisDaphne,Male,66,41,15.8,8.5,11,8.8,20,19
+fortis,CAS,5416,Daphne,fortisDaphne,Male,68,42,15.5,8.2,10.2,8.2,21,18
+fortis,CAS,5420,Daphne,fortisDaphne,Male,63.2,40,14,8,10.8,8,21,16.5
+fortis,CAS,5421,Daphne,fortisDaphne,Male,64,40,13,8,9,7.5,21.2,17
+fortis,CAS,5423,Daphne,fortisDaphne,Male,67,40,13,8.5,9.5,8,21,18
+fortis,CAS,6773,Daphne,fortisDaphne,Male,64,38,15,8,12,8.2,20,17
+fortis,CAS,5415,Daphne,fortisDaphne,Male,66.5,42.5,15,8.8,10.5,8.5,21,19
+fortis,CAS,5417,Daphne,fortisDaphne,Male,66.5,41,13.5,8.2,10.5,8,21,18.5
+fortis,CAS,5422,Daphne,fortisDaphne,Male,65.5,39,14,7.5,10,7.5,20,17.5
+fortis,CAS,5275,Daphne,fortisDaphne,Male,67.5,40.2,15,8.2,10.5,8.2,21,18
+fortis,CAS,5196,Baltra,fortisBaltra,Male,73,45.5,16,9.2,12,9.5,21.2,19
+fortis,CAS,5384,Baltra,fortisBaltra,Male,70,43,15.5,8.5,12,9,22,20
+fortis,CAS,6778,Baltra,fortisBaltra,Male,68.5,41.5,17,9.2,12,9.2,21.5,18.5
+fortis,CAS,5222,Baltra,fortisBaltra,Male,68,44.5,16,8.8,11.8,9.5,21.5,18.5
+fortis,CAS,6782,Baltra,fortisBaltra,Male,66,44,15.2,8,10.2,8.5,20.5,17.8
+fortis,CAS,5198,Baltra,fortisBaltra,Male,68,42.5,15.2,8,11.5,9,21.5,19
+fortis,CAS,5762,Baltra,fortisBaltra,Male,69.2,43,15,8.2,10.8,8.2,21.8,20
+fortis,CAS,5218,Baltra,fortisBaltra,Male,72.2,42.5,16,9,12.8,10,21.5,19.5
+fortis,CAS,6776,Baltra,fortisBaltra,Male,70,45.5,16.5,8.5,12.5,10,22,18.5
+fortis,CAS,5257,Baltra,fortisBaltra,Male,71.2,45.2,16,9.2,13,10,21.2,18
+fortis,Stanford University,4668,Santa Cruz,fortisSanta Cruz,Male,63.5,40,16,9,11,9,20,18.5
+fortis,Stanford University,4702,Santa Cruz,fortisSanta Cruz,Male,69.5,41,16,8.5,12,9,21.2,19.5
+fortis,CAS,5247,Santa Cruz,fortisSanta Cruz,Male,70,44,16,8.5,12,9.2,21,18.5
+fortis,CAS,5392,Santa Cruz,fortisSanta Cruz,Male,70,43.5,16.2,8.5,11.2,9.2,20.5,19
+fortis,CAS,5301,Santa Cruz,fortisSanta Cruz,Male,70.5,42,16.5,8.5,12,9.5,22,19.2
+fortis,CAS,5509,Santa Cruz,fortisSanta Cruz,Male,66,41,17,9.2,12.2,10,22,18
+fortis,Stanford University,4667,Santa Cruz,fortisSanta Cruz,Male,68,40,17,8.5,12,8.5,22,17.8
+fortis,CAS,5475,Santa Cruz,fortisSanta Cruz,Male,68.5,43.5,17,9.2,13,10.2,22,19.2
+fortis,Stanford University,4707,Santa Cruz,fortisSanta Cruz,Male,68.5,40,17.5,9,12.5,10,22,20
+fortis,CAS,5295,Santa Cruz,fortisSanta Cruz,Male,72,44.5,17.5,9.2,13,10.8,21.2,19
+fortis,CAS,6780,Santa Cruz,fortisSanta Cruz,Male,74.2,46,18,9.5,15,12,22.5,20.5
+fortis,CAS,5462,Santa Cruz,fortisSanta Cruz,Male,76,44.5,18.5,9.5,14.2,11,23,20.5
+fortis,CAS,5336,Santa Cruz,fortisSanta Cruz,Male,77,47,19,10,15.5,12,23.5,21
+fortis,CAS,5258,Santa Cruz,fortisSanta Cruz,Male,76,44.5,19.5,10,15,11.2,22.5,20.5
+fortis,CAS,5223,Santa Cruz,fortisSanta Cruz,Male,79,47,19.5,11,16.5,12.5,24.5,20
+fortis,CAS,5392,Santa Cruz,fortisSanta Cruz,Male,70,43.5,16.2,8.5,11.2,9.2,20.5,19
+fortis,CAS,5295,Santa Cruz,fortisSanta Cruz,Male,72,44.5,17.5,9.2,13,10.8,21.2,19
+fortis,CAS,5247,Santa Cruz,fortisSanta Cruz,Male,70,44,16,9.5,12,9.2,21,18.5
+fortis,CAS,5301,Santa Cruz,fortisSanta Cruz,Male,70.5,42,16.5,9.5,12,9.5,22,19.2
+fortis,CAS,5475,Santa Cruz,fortisSanta Cruz,Male,68.5,43.5,17,9.2,13,10.2,22,19.2
+fortis,CAS,5509,Santa Cruz,fortisSanta Cruz,Male,66,41,17,9.2,12.2,10,22,18
+fortis,Stanford University,4707,Santa Cruz,fortisSanta Cruz,Male,68.5,40,17.5,9,12.5,10,22,20
+fortis,Stanford University,4668,Santa Cruz,fortisSanta Cruz,Male,63.5,40,16,9,11,9,20,18.5
+fortis,Stanford University,4667,Santa Cruz,fortisSanta Cruz,Male,68,40,17,8.5,12,8.5,22,17.8
+fortis,Stanford University,4702,Santa Cruz,fortisSanta Cruz,Male,69.5,41,16,8.5,12,9,21.2,19.5
+fortis,CAS,5341,San Cristobal,fortisSan Cristobal,Male,75.2,45.5,19,10,14.8,11.5,22.5,20
+fortis,CAS,5169,San Cristobal,fortisSan Cristobal,Male,76,44.8,18,10,14,11.2,22,19.5
+fortis,CAS,5171,San Cristobal,fortisSan Cristobal,Male,74,46.5,19,10,16.2,12.5,23.2,19
+fortis,CAS,5339,San Cristobal,fortisSan Cristobal,Male,75.2,44.8,18,9.5,14,11.5,23,19.5
+fortis,CAS,5377,San Cristobal,fortisSan Cristobal,Male,76,45.5,18.5,10,14.2,12.2,23.2,19.2
+fortis,CAS,5344,San Cristobal,fortisSan Cristobal,Male,72.2,46,18.5,9.8,14.8,12,23,19
+fortis,CAS,5352,San Cristobal,fortisSan Cristobal,Male,74.5,46.8,17.2,9,15.2,11,22.2,18.5
+fortis,CAS,5170,San Cristobal,fortisSan Cristobal,Male,73,45.5,17,9.2,14,11,23.2,19
+fortis,CAS,5172,San Cristobal,fortisSan Cristobal,Male,74.2,47,17.8,10,15,12,23,21
+fortis,CAS,5173,San Cristobal,fortisSan Cristobal,Male,72.5,47,18,10,15.5,11.5,22.2,20
+fortis,CAS,5259,San Cristobal,fortisSan Cristobal,Male,72.5,44.5,17,9,13.5,11,22,19
+fortis,CAS,6772,San Cristobal,fortisSan Cristobal,Male,68,40,17,9,11.8,9.5,21,18.2
+fortis,CAS,5277,San Cristobal,fortisSan Cristobal,Male,70.5,41,17.2,9,14,11,22.5,18
+fortis,CAS,5370,San Cristobal,fortisSan Cristobal,Male,72.8,44,17.5,9.5,13.2,10.2,21.5,18.5
+fortis,CAS,5229,San Cristobal,fortisSan Cristobal,Male,70,45,17.5,9.5,12.5,9.5,22.2,20
+fortis,CAS,5350,San Cristobal,fortisSan Cristobal,Male,71.5,45.5,17,9.2,13,10,23,21
+fortis,CAS,5360,San Cristobal,fortisSan Cristobal,Male,69.2,41.2,17,9,13,11,22,19.2
+fortis,CAS,5354,San Cristobal,fortisSan Cristobal,Male,72,46,17.5,9.5,13.5,11,21.5,19
+fortis,CAS,5355,San Cristobal,fortisSan Cristobal,Male,71.5,44,17,9.5,12,9.5,21.5,19.5
+fortis,CAS,5362,San Cristobal,fortisSan Cristobal,Male,73,44,17,9.2,13,10.5,22,19
+fortis,CAS,5349,San Cristobal,fortisSan Cristobal,Male,72.5,43,17,10,13.2,10.2,22.5,20
+fortis,CAS,5347,San Cristobal,fortisSan Cristobal,Male,74.5,46,17,9.2,14.5,12,22.2,18.5
+fortis,CAS,5391,San Cristobal,fortisSan Cristobal,Male,70,47,16.5,9,12.5,9.5,21,19.5
+fortis,CAS,5394,San Cristobal,fortisSan Cristobal,Male,74,44,17,9.2,12.2,10,21.2,19.5
+fortis,CAS,5405,San Cristobal,fortisSan Cristobal,Male,72,45.5,17,9,13.5,10,21,18
+fortis,CAS,5216,Floreana,fortisFloreana,Male,73,43,14,7.5,11,,,
+fortis,CAS,5265,Floreana,fortisFloreana,Male,72,44.5,15,8.2,11,,,
+fortis,CAS,5412,Floreana,fortisFloreana,Male,70,44.5,15,8.2,11,,,
+fortis,CAS,5419,Floreana,fortisFloreana,Male,71,42,15,8.2,11.2,8.5,22,18
+fortis,CAS,5231,Floreana,fortisFloreana,Male,68,41,15.5,8.2,11.2,8.5,22,18.5
+fortis,CAS,5401,Floreana,fortisFloreana,Male,73,43.5,15,9,11.5,9.5,22,19
+fortis,CAS,5359,Floreana,fortisFloreana,Male,70.5,40,15.5,8.5,11,9,21.5,17.2
+fortis,CAS,5393,Floreana,fortisFloreana,Male,72.5,45.5,15.5,9,12,9.5,22,19
+fortis,CAS,5358,Floreana,fortisFloreana,Male,71,44,15,8.5,11.5,9,20.2,19
+fortis,CAS,5397,Floreana,fortisFloreana,Male,68.5,44,15,8.5,11,9,21,18.5
+fortis,CAS,5199,Floreana,fortisFloreana,Male,70,45,16,8.5,12,9.8,21,19
+fortis,CAS,5255,Floreana,fortisFloreana,Male,71.2,41.5,16,8.8,12.2,9.5,22.2,18.5
+fortis,CAS,5298,Floreana,fortisFloreana,Male,70.2,43,17,9.2,11.8,9.8,22.5,19.5
+fortis,CAS,5214,Floreana,fortisFloreana,Male,74,48.5,18,10,14,11.2,22.2,20.2
+fortis,CAS,5260,Floreana,fortisFloreana,Male,73.2,48.5,19,10.5,15,11,23,20
+fortis,CAS,5227,Floreana,fortisFloreana,Male,74.5,42,19.8,10,15,11.8,23,20.5
+fortis,CAS,5371,Floreana,fortisFloreana,Male,75.2,47,19.8,10,14,11.2,23.5,21
+fortis,CAS,5161,Floreana,fortisFloreana,Male,78,48,20.2,11,16,12,23,21.5
+fortis,CAS,5269,Floreana,fortisFloreana,Male,74,44.2,17.5,10,13,10,24,20
+fortis,CAS,5351,Floreana,fortisFloreana,Male,73.5,44,18,10.5,14.2,10.5,23,19.5
+fortis,CAS,5243,Floreana,fortisFloreana,Male,74,48.5,18.2,10.2,15,12,24,19
+fortis,CAS,5346,Floreana,fortisFloreana,Male,75,46.5,17.8,10,13,11.5,23,20.2
+fortis,CAS,5345,Floreana,fortisFloreana,Male,75.5,44.5,17.5,10,14.5,11,23,20
+fuliginosa,CAS,5431,Pinta,fuliginosaPinta,Male,60,37,11,6.2,7.2,6,18,14.5
+fuliginosa,CAS,5932,Pinta,fuliginosaPinta,Male,58.5,38,11.2,6.5,8,6.2,19,14.5
+fuliginosa,Stanford University,5251,Pinta,fuliginosaPinta,Male,55.2,34,12,7,8.2,6.5,17.5,15.5
+fuliginosa,Stanford University,5195,Pinta,fuliginosaPinta,Male,58,34.5,10.5,6.2,7,6,17,16
+fuliginosa,Stanford University,5158,Pinta,fuliginosaPinta,Male,58.5,35.5,11.2,6.2,7.5,6.2,18.5,15.2
+fuliginosa,CAS,5935,Pinta,fuliginosaPinta,Male,57.2,36.8,11.5,6.2,7,6,18.5,15
+fuliginosa,CAS,5939,Pinta,fuliginosaPinta,Male,57.5,34.8,10,6,6.5,6,18,15
+fuliginosa,CAS,5931,Pinta,fuliginosaPinta,Male,58.8,39,11.2,6.2,7.5,6,19,15.2
+fuliginosa,CAS,5934,Pinta,fuliginosaPinta,Male,57.8,35.2,11.2,6.5,7.5,6.2,17.2,15.2
+fuliginosa,CAS,5930,Pinta,fuliginosaPinta,Male,58,36.5,11.5,6.2,7.5,6.2,17.5,16
+fuliginosa,CAS,6859,Marchena,fuliginosaMarchena,Male,59.2,36,10.2,6.5,7,6,18,14.2
+fuliginosa,CAS,5927,Marchena,fuliginosaMarchena,Male,57.8,36,11.2,6.2,7.2,6.2,18.2,15.5
+fuliginosa,CAS,5928,Marchena,fuliginosaMarchena,Male,59,35.8,11.8,6,6.8,6,18,15
+fuliginosa,CAS,5432,Marchena,fuliginosaMarchena,Male,57.5,36,11.5,6.2,7.8,6.5,18.2,16
+fuliginosa,CAS,5929,Marchena,fuliginosaMarchena,Male,59,37,11,6,7.2,6,18.2,15
+fuliginosa,CAS,5933,Marchena,fuliginosaMarchena,Male,59.2,36.8,11,6.2,7.2,5.8,18,15
+fuliginosa,Stanford University,5128,Marchena,fuliginosaMarchena,Male,55.2,36.2,11,6.5,6.5,5.8,18,14.5
+fuliginosa,Stanford University,5165,Marchena,fuliginosaMarchena,Male,57.8,37,11,6,7,6,18,16
+fuliginosa,Stanford University,5117,Marchena,fuliginosaMarchena,Male,56,37,11.2,6.5,6.2,6,19,16
+fuliginosa,Stanford University,4119,Fernandina,fuliginosaFernandina,Male,62.5,37.5,11,6.2,7.5,6.2,18.2,15.8
+fuliginosa,Stanford University,4164,Fernandina,fuliginosaFernandina,Male,63,38,11,6,7.5,6.2,20.5,17
+fuliginosa,Stanford University,4151,Fernandina,fuliginosaFernandina,Male,62,37.8,11.2,6.2,7.5,6,18.5,16
+fuliginosa,Stanford University,4159,Fernandina,fuliginosaFernandina,Male,63,38.2,10.5,6.2,7.8,6.5,20,16.5
+fuliginosa,Stanford University,4426,Fernandina,fuliginosaFernandina,Male,62.2,38,11.5,6.2,7.5,6.2,20,16.5
+fuliginosa,Stanford University,4009,Fernandina,fuliginosaFernandina,Male,61.5,38,10,6,7.5,6.5,18.5,16
+fuliginosa,Stanford University,4465,Fernandina,fuliginosaFernandina,Male,62,38,11.2,6.2,7.2,6.2,18.2,17
+fuliginosa,Stanford University,4413,Fernandina,fuliginosaFernandina,Male,62,40,11.2,6.2,7.2,6.2,20,15.5
+fuliginosa,Stanford University,4460,Fernandina,fuliginosaFernandina,Male,62.2,37,11.2,6.5,8,7,20,16
+fuliginosa,Stanford University,4045,Fernandina,fuliginosaFernandina,Male,65,36,11,6,8,6.5,20,16
+fuliginosa,CAS,5684,Isabela,fuliginosaIsabela,Male,63.2,38.5,12.5,7,8.2,7,19,16.5
+fuliginosa,CAS,5629,Isabela,fuliginosaIsabela,Male,65.2,40.8,11.2,7,8,6.8,19.8,16
+fuliginosa,CAS,5687,Isabela,fuliginosaIsabela,Male,66.5,41,11.5,6.8,8,7,20,17.2
+fuliginosa,CAS,5647,Isabela,fuliginosaIsabela,Male,63.2,41,11,6.5,7.8,6.2,19.2,16
+fuliginosa,CAS,5694,Isabela,fuliginosaIsabela,Male,63.8,39.8,12.5,7,9,6.5,20,17.2
+fuliginosa,CAS,5427,Isabela,fuliginosaIsabela,Male,62,42.5,12,6.8,8.5,7,20.5,17
+fuliginosa,CAS,5691,Isabela,fuliginosaIsabela,Male,64,43,13,7.2,8.2,7,20,17
+fuliginosa,CAS,5674,Isabela,fuliginosaIsabela,Male,65,41.5,11.5,6.5,8.2,6.5,20,17
+fuliginosa,CAS,5650,Isabela,fuliginosaIsabela,Male,64,40.2,11.2,6.5,7.2,6.5,20,16.2
+fuliginosa,CAS,5615,Isabela,fuliginosaIsabela,Male,65.5,41,11.5,6.2,8.8,7,19.5,17.5
+fuliginosa,CAS,5677,Santiago,fuliginosaSantiago,Male,63,35.2,11.5,6.5,8,6.5,18.5,15
+fuliginosa,CAS,6820,Santiago,fuliginosaSantiago,Male,64.2,39,12,6.2,8,6.5,20,16.5
+fuliginosa,CAS,5764,Santiago,fuliginosaSantiago,Male,58,33.5,11,6.5,8,7,18.5,15.5
+fuliginosa,CAS,5707,Santiago,fuliginosaSantiago,Male,61.5,37.2,11.5,6.5,7.5,6.5,19.2,16.5
+fuliginosa,CAS,5724,Santiago,fuliginosaSantiago,Male,62,42,10.2,6.8,7.5,6.2,18.8,17
+fuliginosa,Stanford University,4534,Santiago,fuliginosaSantiago,Male,62.2,39.2,12,6.8,8,6.2,20,16.5
+fuliginosa,CAS,5815,Santiago,fuliginosaSantiago,Male,61.5,37,11,6.2,8,6.5,20,17
+fuliginosa,CAS,5772,Rabida,fuliginosaRabida,Male,62.2,36,12,6.2,9,7,20,17.2
+fuliginosa,CAS,5701,Rabida,fuliginosaRabida,Male,61,36.2,11,6.8,7.2,6.2,19,17.5
+fuliginosa,CAS,5665,Rabida,fuliginosaRabida,Male,62.2,39.8,12,6.8,7.5,6.5,19.8,17
+fuliginosa,CAS,5787,Rabida,fuliginosaRabida,Male,61,39,12,6.8,7.5,6.2,19,16
+fuliginosa,CAS,6818,Rabida,fuliginosaRabida,Male,62,38,12,7,8,6.2,19.8,16.5
+fuliginosa,CAS,5668,Pinzon,fuliginosaPinzon,Male,63.5,39,12.2,7.5,7.8,7,20.5,16.2
+fuliginosa,CAS,5688,Pinzon,fuliginosaPinzon,Male,60.8,38,11,6.5,8,6.5,20.2,17
+fuliginosa,CAS,5700,Pinzon,fuliginosaPinzon,Male,60,37,11.5,7,8,6.5,19,17.2
+fuliginosa,CAS,5715,Pinzon,fuliginosaPinzon,Male,64.5,37,11,6.2,7.5,6.8,20,17
+fuliginosa,CAS,5663,Pinzon,fuliginosaPinzon,Male,63.2,40,12,7,8.2,6.2,21,15.5
+fuliginosa,CAS,5655,Pinzon,fuliginosaPinzon,Male,62.2,37,11,6.5,8,6.5,19.8,16.8
+fuliginosa,CAS,5654,Pinzon,fuliginosaPinzon,Male,63.5,38.5,11.5,6.8,7.5,7,20,16.5
+fuliginosa,CAS,5430,Pinzon,fuliginosaPinzon,Male,62,38.2,13,6.8,8.5,7,19,17
+fuliginosa,CAS,5431,Pinzon,fuliginosaPinzon,Male,60,37,11,6.2,7.5,6.5,19.2,16
+fuliginosa,CAS,5429,Pinzon,fuliginosaPinzon,Male,64,37.5,12.5,7,8,7,20,16.5
+fuliginosa,CAS,5620,Santa Cruz,fuliginosaSanta Cruz,Male,62.5,39.5,12,6.2,8.2,7,20.5,17
+fuliginosa,CAS,6368,Santa Cruz,fuliginosaSanta Cruz,Male,64.5,38,11,7,7.5,6.5,20.5,17
+fuliginosa,CAS,5666,Santa Cruz,fuliginosaSanta Cruz,Male,62,39.2,12,7,8,6.5,20,17
+fuliginosa,CAS,5649,Santa Cruz,fuliginosaSanta Cruz,Male,60.5,41.5,11,6.2,7.2,6,19,16
+fuliginosa,CAS,5656,Santa Cruz,fuliginosaSanta Cruz,Male,63.2,39.5,11,6.5,7.2,6,20,16
+fuliginosa,CAS,5673,Santa Cruz,fuliginosaSanta Cruz,Male,62.2,37.5,11,6.5,7.8,6.2,20,16
+fuliginosa,CAS,5709,Santa Cruz,fuliginosaSanta Cruz,Male,62.5,39.2,11.5,6.2,7.8,6.2,19,15.5
+fuliginosa,CAS,5669,Santa Cruz,fuliginosaSanta Cruz,Male,62.2,37.5,12,6.8,7.5,6,19.5,16.5
+fuliginosa,CAS,5679,Santa Cruz,fuliginosaSanta Cruz,Male,62,39.5,12,6,7.2,6.5,19,15.2
+fuliginosa,CAS,5699,Santa Cruz,fuliginosaSanta Cruz,Male,62,37.8,11.5,6.5,8,6.2,20.2,16.2
+fuliginosa,CAS,5614,Santa Fe,fuliginosaSanta Fe,Male,61.2,37,12.5,7,7.5,6.2,19,16
+fuliginosa,CAS,6821,Santa Fe,fuliginosaSanta Fe,Male,61.2,38,10.5,6,7,6,21,16.5
+fuliginosa,CAS,5618,Santa Fe,fuliginosaSanta Fe,Male,64,39.2,13,7,8.2,6.8,18.5,15.8
+fuliginosa,CAS,5645,Santa Fe,fuliginosaSanta Fe,Male,63,38.8,11.5,7,8,6.5,19.8,17
+fuliginosa,CAS,5633,Santa Fe,fuliginosaSanta Fe,Male,61.5,39.2,12.2,7,8.2,7,20,16
+fuliginosa,CAS,5617,Santa Fe,fuliginosaSanta Fe,Male,62.2,38,12,6.5,7.5,6.5,19.2,16
+fuliginosa,CAS,5622,Santa Fe,fuliginosaSanta Fe,Male,60.5,38,12,6.8,8.2,6.5,19.5,16.8
+fuliginosa,CAS,5619,Santa Fe,fuliginosaSanta Fe,Male,60.2,37,12,7,8,6.5,18.5,16.5
+fuliginosa,CAS,5611,Santa Fe,fuliginosaSanta Fe,Male,64.5,39.8,12.2,7,8.2,6.5,19,17
+fuliginosa,CAS,5726,Santa Fe,fuliginosaSanta Fe,Male,62,38,12,7,8.2,6.5,20,16.5
+fuliginosa,CAS,5874,San Cristobal,fuliginosaSan Cristobal,Male,65,40.5,13.2,7.5,8,6.5,19,17.5
+fuliginosa,CAS,5887,San Cristobal,fuliginosaSan Cristobal,Male,63.5,40,12.5,7,8.2,6.5,20.2,17.5
+fuliginosa,CAS,5894,San Cristobal,fuliginosaSan Cristobal,Male,63.2,39,12,7,7.5,6.5,20,16.5
+fuliginosa,CAS,5896,San Cristobal,fuliginosaSan Cristobal,Male,65,41,12.5,7.2,8.5,7,20,17
+fuliginosa,CAS,5870,San Cristobal,fuliginosaSan Cristobal,Male,63.2,38.5,11.5,7,8,7,20.2,17.5
+fuliginosa,CAS,5428,San Cristobal,fuliginosaSan Cristobal,Male,63.2,42,13,7.2,9,7.2,20.2,17.5
+fuliginosa,CAS,5866,San Cristobal,fuliginosaSan Cristobal,Male,64,41,12,7,8.2,6.5,20.2,18
+fuliginosa,CAS,5868,San Cristobal,fuliginosaSan Cristobal,Male,63,39,12,7,8.5,7,20,17
+fuliginosa,CAS,5882,San Cristobal,fuliginosaSan Cristobal,Male,62.5,36.5,11.5,7.2,7.5,6.5,19.5,16.5
+fuliginosa,CAS,5897,San Cristobal,fuliginosaSan Cristobal,Male,61,39,10.8,7,7,6.5,20.2,16
+fuliginosa,CAS,6854,San Cristobal,fuliginosaSan Cristobal,Male,61,37,10.5,6,7.2,6,19,16
+fuliginosa,CAS,5895,San Cristobal,fuliginosaSan Cristobal,Male,63,37,10,6,7,5.5,20,15
+fuliginosa,CAS,5869,San Cristobal,fuliginosaSan Cristobal,Male,60,38,11.2,6.2,7.2,6.2,19,15.5
+fuliginosa,CAS,5891,San Cristobal,fuliginosaSan Cristobal,Male,63.5,36.5,10.8,6,7.2,6,20,16
+fuliginosa,CAS,6852,San Cristobal,fuliginosaSan Cristobal,Male,61.5,36.8,10.5,6,7.2,5.8,18,15.2
+fuliginosa,CAS,5901,San Cristobal,fuliginosaSan Cristobal,Male,60.5,37,10.5,6,7.5,6,20.5,15
+fuliginosa,CAS,5908,San Cristobal,fuliginosaSan Cristobal,Male,60.2,37,10,6,7,6,20,16
+fuliginosa,CAS,5905,San Cristobal,fuliginosaSan Cristobal,Male,62.2,38,10.5,5.8,7,6,19,16
+fuliginosa,CAS,5915,San Cristobal,fuliginosaSan Cristobal,Male,62,36.5,10.2,6,7,5.5,19.2,15.2
+fuliginosa,CAS,5922,San Cristobal,fuliginosaSan Cristobal,Male,57,34,10.5,6.2,7,6,18,16
+fuliginosa,CAS,5689,Floreana,fuliginosaFloreana,Male,65,42.2,10.8,7,8.5,7,20,16
+fuliginosa,CAS,5634,Floreana,fuliginosaFloreana,Male,63.5,41,11.2,6.5,8,7,19.5,17.2
+fuliginosa,CAS,5754,Floreana,fuliginosaFloreana,Male,60.5,38,10,6.2,7.5,6.2,19.5,16.2
+fuliginosa,CAS,5639,Floreana,fuliginosaFloreana,Male,61.2,37.5,11,6.5,7.2,6,19,17.5
+fuliginosa,CAS,5640,Floreana,fuliginosaFloreana,Male,61.5,39.2,12.2,6.5,8,6.5,20,17.5
+fuliginosa,CAS,5708,Floreana,fuliginosaFloreana,Male,61,40,11.5,7,7.5,6.5,20,17.5
+fuliginosa,CAS,5779,Floreana,fuliginosaFloreana,Male,60.5,41,12,7,7.8,6.5,20,16
+fuliginosa,CAS,5697,Floreana,fuliginosaFloreana,Male,63,37.8,11,6.8,8,6.5,20,17.5
+fuliginosa,CAS,5661,Floreana,fuliginosaFloreana,Male,61,38.5,10.5,6.5,7.2,6,20,17.5
+fuliginosa,CAS,5729,Floreana,fuliginosaFloreana,Male,65,39,12.2,7,8,6.8,20,16.5
+fuliginosa,CAS,5690,Espanola,fuliginosaEspanola,Male,64,41,11.5,7,7.5,6.5,20.2,17.2
+fuliginosa,CAS,5696,Espanola,fuliginosaEspanola,Male,62.2,39,12,7.2,7.5,6.8,21,17.2
+fuliginosa,CAS,5704,Espanola,fuliginosaEspanola,Male,64,39.5,12,7,7.5,7,19.8,16
+fuliginosa,CAS,5637,Espanola,fuliginosaEspanola,Male,63.5,40,11.5,6.5,7.5,6.5,19.2,16
+fuliginosa,CAS,5659,Espanola,fuliginosaEspanola,Male,63.2,39.5,12,6.5,7.2,6.5,18.5,16.2
+fuliginosa,CAS,5681,Espanola,fuliginosaEspanola,Male,63,38.8,12,6.5,8,6.5,20,17.8
+fuliginosa,CAS,5712,Espanola,fuliginosaEspanola,Male,65,41,12,7.2,8,6.5,20.5,17
+fuliginosa,CAS,5612,Espanola,fuliginosaEspanola,Male,63.2,38.8,12.5,7,8.5,6.5,20,17
+fuliginosa,CAS,5613,Espanola,fuliginosaEspanola,Male,63,40.5,12,7,8,6.5,20,17
+fuliginosa,CAS,5638,Espanola,fuliginosaEspanola,Male,63.5,41,11.5,7.2,7.2,6.5,20,16.2
+difficilis,CAS,6981,Darwin,difficilisDarwin,Male,71.5,49,15.5,8,9,7.8,22,18.5
+difficilis,CAS,6982,Darwin,difficilisDarwin,Male,72,47,16,9,9,7.2,23.2,20
+difficilis,CAS,6983,Darwin,difficilisDarwin,Male,71.2,47,14.5,8.8,8.2,6.8,23,20
+difficilis,CAS,6984,Darwin,difficilisDarwin,Male,72,48,16.2,9.2,9.2,8,23,20.5
+difficilis,CAS,6985,Darwin,difficilisDarwin,Male,72,48,16,9,8.8,7.2,23,20
+difficilis,CAS,6986,Darwin,difficilisDarwin,Male,72,48,16.2,9.5,9,7.8,23.2,20.5
+difficilis,CAS,6992,Darwin,difficilisDarwin,Male,73,49,15,9,9,7.5,23.5,20
+difficilis,Stanford University,5406,Darwin,difficilisDarwin,Male,72,47,15,8.2,9,7.2,23,18
+difficilis,Stanford University,5408,Darwin,difficilisDarwin,Male,70,46,15,8.8,8.5,7,22,20.5
+difficilis,Stanford University,5412,Darwin,difficilisDarwin,Male,73,50,17,9.2,9.2,8,23,20.2
+difficilis,CAS,6947,Wolf,difficilisWolf,Male,68,45.5,14,8.2,7.5,7,22,18.2
+difficilis,CAS,6948,Wolf,difficilisWolf,Male,74,48,13.2,8.5,8.8,7,23,19
+difficilis,CAS,6949,Wolf,difficilisWolf,Male,71.5,47.5,14,8,8,6.8,23,20.5
+difficilis,CAS,6950,Wolf,difficilisWolf,Male,72,47,14,8.5,7.5,7,22,18.5
+difficilis,CAS,6951,Wolf,difficilisWolf,Male,72,45.5,13.5,8.2,8,6.5,21.2,19
+difficilis,CAS,6952,Wolf,difficilisWolf,Male,71.2,48,13.5,8.2,7.5,7,21.5,18
+difficilis,Stanford University,3857,Wolf,difficilisWolf,Male,70,44.5,15,8.8,8.5,7.2,22.5,20
+difficilis,Stanford University,3863,Wolf,difficilisWolf,Male,72,44.5,15,9.5,8,7,22,20
+difficilis,Stanford University,3864,Wolf,difficilisWolf,Male,71,44,14.2,8.5,8.5,7.2,22.2,18
+difficilis,Stanford University,3873,Wolf,difficilisWolf,Male,69.5,43.5,14.5,8.5,8,6.8,22,19
+difficilis,Stanford University,5254,Pinta,difficilisPinta,Male,62.2,39.2,14.5,8.5,8,6,20.5,18.5
+difficilis,Stanford University,5192,Pinta,difficilisPinta,Male,60.5,35,14.5,8,8.2,6.5,21,19
+difficilis,Stanford University,5279,Pinta,difficilisPinta,Male,62.2,,13.8,7.5,8.5,6.8,21,19
+difficilis,Stanford University,5216,Pinta,difficilisPinta,Male,60.5,38,14.5,7.5,8.5,7,20.5,19
+difficilis,Stanford University,5246,Pinta,difficilisPinta,Male,61,38,14.5,7.5,8,6.5,21,19.5
+difficilis,Stanford University,5095,Pinta,difficilisPinta,Male,60.5,37.5,14.2,7.5,8.2,7,21.2,19
+difficilis,CAS,5943,Genovesa,difficilisGenovesa,Male,61,36,12.5,7,8,6,18.8,16
+difficilis,CAS,5944,Genovesa,difficilisGenovesa,Male,64,40,12.5,7.2,8,6.5,19.2,16.2
+difficilis,CAS,5945,Genovesa,difficilisGenovesa,Male,65,41.2,12.5,7,8,6.2,19,16.2
+difficilis,CAS,5951,Genovesa,difficilisGenovesa,Male,65,40,12.8,7.2,7.5,6.5,19.2,17
+difficilis,CAS,5947,Genovesa,difficilisGenovesa,Male,61.5,40,12,7,7.2,6.2,18.2,15
+difficilis,CAS,5948,Genovesa,difficilisGenovesa,Male,61,38.5,12.8,7.8,8,6.8,18.5,16.5
+difficilis,CAS,5950,Genovesa,difficilisGenovesa,Male,62,39,12.2,7.5,8,6.8,19.2,16
+difficilis,CAS,5942,Genovesa,difficilisGenovesa,Male,61.5,36.5,11.5,7,7.8,6.2,18.8,16.5
+difficilis,CAS,5946,Genovesa,difficilisGenovesa,Male,61.2,39.5,12.2,7,7.5,6.2,20,16
+difficilis,CAS,5949,Genovesa,difficilisGenovesa,Male,61.2,37,12.8,7,8,6.2,19,16
+difficilis,CAS,6888,Santiago,difficilisSantiago,Male,71.2,40.2,15.2,8,9.5,8,23.2,19
+difficilis,CAS,6889,Santiago,difficilisSantiago,Male,70.5,41.5,14.5,8.2,10.2,7.5,23,20.8
+difficilis,CAS,6890,Santiago,difficilisSantiago,Male,72.5,45,15,8,9.5,8,24,21.2
+difficilis,CAS,6902,Santiago,difficilisSantiago,Male,72.5,40.5,14.5,7.5,9,7.8,23.2,20
+difficilis,CAS,6903,Santiago,difficilisSantiago,Male,71.5,45,15,8,9.5,7.8,23,20
+difficilis,CAS,6906,Santiago,difficilisSantiago,Male,68.5,40.5,14,7.2,9,7.5,24,21.2
+difficilis,CAS,6909,Santiago,difficilisSantiago,Male,68.5,39.5,15.8,8.5,9.5,7.2,24,21
+difficilis,CAS,6910,Santiago,difficilisSantiago,Male,69,40,15,8,9.5,7.8,26,22.2
+difficilis,CAS,6911,Santiago,difficilisSantiago,Male,68.2,40.5,14.2,7.8,8.5,7.5,24,20.2
+difficilis,CAS,6913,Santiago,difficilisSantiago,Male,70.2,39.5,15.2,8.2,9.5,8,24.2,21.5
+difficilis,CAS,6876,Santa Cruz,difficilisSanta Cruz,Male,66.5,40,13.8,8,8.2,7.2,21.8,20
+difficilis,CAS,6878,Santa Cruz,difficilisSanta Cruz,Male,69,41.5,14.2,7.5,8.5,7.2,20.5,19.8
+difficilis,CAS,6879,Santa Cruz,difficilisSanta Cruz,Male,67.5,39.5,15,7.5,9.2,7.2,22,19
+difficilis,CAS,6880,Santa Cruz,difficilisSanta Cruz,Male,68,39,14,7.5,8.2,7.2,23.5,18
+difficilis,CAS,6872,Santa Cruz,difficilisSanta Cruz,Male,68,44.5,14,7.5,8.5,7.2,22.5,19.5
+difficilis,CAS,6874,Santa Cruz,difficilisSanta Cruz,Male,68.2,40.5,14.2,7,9,7.5,22.5,20
+difficilis,CAS,6875,Santa Cruz,difficilisSanta Cruz,Male,69,44.2,14.5,7,8.5,7,21.5,19
+difficilis,CAS,6881,Santa Cruz,difficilisSanta Cruz,Male,67,41,14.5,7.5,9.2,7.5,23,19
+difficilis,CAS,6917,Santa Cruz,difficilisSanta Cruz,Male,67.2,41,14.5,7.5,8.2,7.2,22,20
+difficilis,CAS,6918,Santa Cruz,difficilisSanta Cruz,Male,66,41.5,14.2,7.5,8,7,22,19.2
+scandens,CAS,7226,Marchena,scandensMarchena,Male,69.5,42.5,20,11.5,10.5,8.8,22.5,19.5
+scandens,CAS,7227,Marchena,scandensMarchena,Male,73,43.5,18.5,11.5,9.8,8.2,22,19
+scandens,CAS,7228,Marchena,scandensMarchena,Male,71.2,44,18,11,9.5,7.5,22,19
+scandens,CAS,7229,Marchena,scandensMarchena,Male,75,44,21,12,11.5,9.5,23.5,21
+scandens,Stanford University,5237,Marchena,scandensMarchena,Male,69,43.5,18,11.2,10.5,8,21,18
+scandens,Stanford University,5145,Marchena,scandensMarchena,Male,67.5,41,21,12,10,7.5,21.5,19.2
+scandens,Stanford University,5146,Marchena,scandensMarchena,Male,71.2,43,20.2,11.5,11,9,21,19.8
+scandens,Stanford University,5122,Marchena,scandensMarchena,Male,69,43.5,18,11,10,8,21.5,19.2
+scandens,CAS,7223,Pinta,scandensPinta,Male,71,47.2,18.5,11,10,8.5,22.5,20
+scandens,CAS,7222,Pinta,scandensPinta,Male,73,48,19.8,11.2,9.5,8.5,22,20
+scandens,CAS,7224,Pinta,scandensPinta,Male,69,43,18.5,11,10,8.2,22.2,19.5
+scandens,CAS,7225,Pinta,scandensPinta,Male,70.5,45,18.5,10.5,9,8,21,19.5
+scandens,CAS,7221,Pinta,scandensPinta,Male,71,46,18,11,9,7.2,22,19.5
+scandens,CAS,7206,Isabela,scandensIsabela,Male,72,43.5,17.5,10.8,9.2,7.5,21.2,19.5
+scandens,CAS,7207,Isabela,scandensIsabela,Male,73.5,42,19.2,11.2,9.5,8,23,20.2
+scandens,CAS,7210,Isabela,scandensIsabela,Male,71.5,43.2,18,10.5,9,8,22.2,20
+scandens,CAS,7211,Isabela,scandensIsabela,Male,68.5,44,18.5,12,9,8,23,19.5
+scandens,CAS,7213,Isabela,scandensIsabela,Male,70.2,42.2,19.5,12,10,8.2,22,18.5
+scandens,CAS,7208,Isabela,scandensIsabela,Male,72.5,41.2,19.8,11.5,10,7.8,23,20.5
+scandens,CAS,7212,Isabela,scandensIsabela,Male,71.5,42.5,18,10.8,9,8,22.2,19
+scandens,CAS,7205,Isabela,scandensIsabela,Male,74,40,19.8,12,9.8,8.5,23.2,21
+scandens,CAS,7209,Isabela,scandensIsabela,Male,71,43.8,17.5,10.8,9,7.5,22.2,20.8
+scandens,Stanford University,5098,Isabela,scandensIsabela,Male,70,43.2,17.5,10.5,9,8,21.5,20.2
+scandens,CAS,7018,Santiago,scandensSantiago,Male,70.5,43.5,17.2,10.5,8.8,7.5,21.5,19.5
+scandens,CAS,7290,Santiago,scandensSantiago,Male,69.5,42,16.5,10,8,7,20.5,20
+scandens,Stanford University,4518,Santiago,scandensSantiago,Male,68.5,41.5,16,10,9,7.2,20.2,19
+scandens,Stanford University,4592,Santiago,scandensSantiago,Male,70.2,43,17.5,10.2,8.2,7.5,21,18.5
+scandens,Stanford University,4543,Santiago,scandensSantiago,Male,69,41.2,17.2,10.5,8,7,20.5,18
+scandens,Stanford University,4594,Santiago,scandensSantiago,Male,71,43,17,10.5,9,7.5,22,19
+scandens,Stanford University,4595,Santiago,scandensSantiago,Male,67.5,40,17.2,10,8.5,7.2,20.2,19.2
+scandens,Stanford University,4596,Santiago,scandensSantiago,Male,68,41.2,17,10.2,9,7.2,22.2,18
+scandens,Stanford University,4597,Santiago,scandensSantiago,Male,68,42,17.8,10.5,9,8,22.5,19.2
+scandens,CAS,7200,Pinzon,scandensPinzon,Male,70,43,18.5,12,9,7.2,21.5,19.2
+scandens,CAS,7201,Pinzon,scandensPinzon,Male,70,41,19.5,10.5,9.5,8,21.2,21
+scandens,CAS,7202,Pinzon,scandensPinzon,Male,70.2,43,18.2,10.5,9.5,7.5,22.2,19.2
+scandens,CAS,7203,Pinzon,scandensPinzon,Male,70,42,19.5,11,10,8,23,21
+scandens,CAS,7204,Pinzon,scandensPinzon,Male,69,40.5,18.2,10.5,9.5,8,22.8,19.5
+scandens,CAS,7153,Santa Cruz,scandensSanta Cruz,Male,72.5,43.2,21,12.5,10,7.5,22.5,19
+scandens,CAS,7147,Santa Cruz,scandensSanta Cruz,Male,71,42,19.8,12.2,9,8,22.5,19
+scandens,CAS,7146,Santa Cruz,scandensSanta Cruz,Male,73,43,20.2,12,10,8,23,19.2
+scandens,CAS,7148,Santa Cruz,scandensSanta Cruz,Male,70,43,19.5,11.8,9.2,8,23,20
+scandens,CAS,7151,Santa Cruz,scandensSanta Cruz,Male,72,42.8,21,12,10,8.2,22.5,20
+scandens,CAS,7251,Santa Cruz,scandensSanta Cruz,Male,70,43.2,20.5,11.5,10,8.2,22,20.5
+scandens,CAS,7162,Santa Cruz,scandensSanta Cruz,Male,70.5,41.5,19.8,11,9.2,8,22,20
+scandens,CAS,7149,Santa Cruz,scandensSanta Cruz,Male,72.5,43.5,20.2,12.5,10,8.2,22.5,20
+scandens,CAS,7150,Santa Cruz,scandensSanta Cruz,Male,70.5,44,19.5,10.5,9.5,7.8,22,19.8
+scandens,CAS,7165,Santa Cruz,scandensSanta Cruz,Male,70,41.5,20,12,9.5,8,21.5,21
+scandens,CAS,7195,Rabida,scandensRabida,Male,70.5,43.5,17.2,11,9,6.2,21,20
+scandens,CAS,7196,Rabida,scandensRabida,Male,71,42,19,11.5,9,8,21,19
+scandens,CAS,7197,Rabida,scandensRabida,Male,71,45,19.5,11.2,8.5,7.5,22,19.2
+scandens,CAS,7198,Rabida,scandensRabida,Male,72.2,43,16.5,10,8.5,7.2,21,19
+scandens,CAS,7199,Rabida,scandensRabida,Male,72.5,45,18,11,9,7.5,21,18.5
+scandens,CAS,7124,Santa Fe,scandensSanta Fe,Male,68.2,39,17.5,11,9.8,8.2,22,19.5
+scandens,CAS,7113,Santa Fe,scandensSanta Fe,Male,67.2,42.5,18,10.5,9,8,22.5,20
+scandens,CAS,7114,Santa Fe,scandensSanta Fe,Male,73,44.2,20,11.2,10,8,23,22
+scandens,CAS,7123,Santa Fe,scandensSanta Fe,Male,72,45.2,18.2,11,9.5,8,23.2,20
+scandens,CAS,7125,Santa Fe,scandensSanta Fe,Male,69.8,43.1,17.2,10.5,9.8,7.5,22.2,20
+scandens,CAS,7129,Santa Fe,scandensSanta Fe,Male,70,43.2,18,11,10.2,8.5,22,19.2
+scandens,CAS,7116,Santa Fe,scandensSanta Fe,Male,67,43.5,18,11,9.8,8.5,22.5,21
+scandens,CAS,7117,Santa Fe,scandensSanta Fe,Male,71.5,46.5,17,10.5,9,7.8,22.2,20
+scandens,CAS,7118,Santa Fe,scandensSanta Fe,Male,69.5,43,18.5,11,10,8.2,22,21
+scandens,CAS,7119,Santa Fe,scandensSanta Fe,Male,70,44.5,19.8,11.2,10,8.2,23.2,20.2
+scandens,CAS,7039,Floreana,scandensFloreana,Male,69,43.5,17,10,8.5,7.5,22.5,20
+scandens,CAS,7042,Floreana,scandensFloreana,Male,71.2,44.5,17,10.5,9.2,7.5,22,20
+scandens,CAS,7026,Floreana,scandensFloreana,Male,70.5,41.5,18.2,11.2,9.2,7.5,22.5,20.5
+scandens,CAS,7057,Floreana,scandensFloreana,Male,68.5,44,18,11.2,9,7.5,22,20.2
+scandens,CAS,7020,Floreana,scandensFloreana,Male,72,44,18.2,11,9.2,8,23,21
+scandens,CAS,7022,Floreana,scandensFloreana,Male,71.5,45.5,18.5,11.5,9.2,8,22,20
+scandens,CAS,7041,Floreana,scandensFloreana,Male,66.8,41.5,17.2,11,9,7.5,21,19.5
+scandens,CAS,7021,Floreana,scandensFloreana,Male,71.8,43.5,17.5,11,9.5,8,21.5,18.5
+scandens,CAS,7038,Floreana,scandensFloreana,Male,68.5,45,18,10.5,9.2,7.5,22,21
+scandens,CAS,7054,Floreana,scandensFloreana,Male,71.5,42,18,11,9.5,7.5,23,21
+conirostris,CAS,4987,Genovesa,conirostrisGenovesa,Male,77,48.5,19.5,11,12.2,9.5,23,20.2
+conirostris,Stanford University,5005,Genovesa,conirostrisGenovesa,Male,74,46,20.5,11.2,13.5,10,23,20.2
+conirostris,Stanford University,5233,Genovesa,conirostrisGenovesa,Male,72.5,46.5,18.2,10.5,12,9.5,23.5,21
+conirostris,Stanford University,5109,Genovesa,conirostrisGenovesa,Male,73,43,18,10.5,12.2,9.5,25,23
+conirostris,Stanford University,5171,Genovesa,conirostrisGenovesa,Male,73,46.8,20,11,13,10,25,20.5
+conirostris,Stanford University,5129,Genovesa,conirostrisGenovesa,Male,74.5,46.5,18.8,10,13.2,10,23,21.5
+conirostris,Stanford University,5214,Genovesa,conirostrisGenovesa,Male,77,48,20,11.2,13.8,10.5,24.5,21
+conirostris,Stanford University,5281,Genovesa,conirostrisGenovesa,Male,77,48.5,20.5,11.2,14,10.5,24.2,21.5
+conirostris,CAS,4988,Genovesa,conirostrisGenovesa,Male,73,43,20.5,11.2,12,9.5,25.5,22.2
+conirostris,CAS,4992,Espanola,conirostrisEspanola,Male,77.5,50,19,11.2,14.5,11,23.2,22.5
+conirostris,CAS,5007,Espanola,conirostrisEspanola,Male,83.5,47.5,23.5,12.8,18.5,13,24.2,23
+conirostris,CAS,5010,Espanola,conirostrisEspanola,Male,79,48.2,22.8,12.5,17.2,12.5,24,22.8
+conirostris,CAS,5011,Espanola,conirostrisEspanola,Male,80.8,51.8,22,12.5,18,13,24,23
+conirostris,CAS,5016,Espanola,conirostrisEspanola,Male,74,45.5,20.5,11.8,15.2,11.5,23.5,23
+conirostris,CAS,5021,Espanola,conirostrisEspanola,Male,77,44.5,21,11.2,15.2,11.8,23,23
+conirostris,CAS,5024,Espanola,conirostrisEspanola,Male,77.2,46,20,11.8,16,12.5,24,22.2
+conirostris,CAS,5025,Espanola,conirostrisEspanola,Male,79,50,21.5,12.5,17,13,24.2,24
+conirostris,CAS,5030,Espanola,conirostrisEspanola,Male,78.5,46.5,22.2,12.2,16.5,12.8,23.8,23
+conirostris,CAS,5031,Espanola,conirostrisEspanola,Male,76,47,21,11.2,15.8,11,22.5,22
+conirostris,CAS,4996,Gardner,conirostrisGardner,Male,79,48.5,18.5,11,14,10,23,21.2
+conirostris,CAS,4998,Gardner,conirostrisGardner,Male,77,49.5,19.8,11.2,14.2,10.8,23.2,20.8
+conirostris,CAS,5005,Gardner,conirostrisGardner,Male,79.5,51,18.5,10.5,14,11,22.5,21.8
+conirostris,CAS,5013,Gardner,conirostrisGardner,Male,78,45.5,19,11,13.5,11,22.2,21.2
+conirostris,CAS,5015,Gardner,conirostrisGardner,Male,75.2,45.5,19.8,10.8,15.5,11.2,23,22.5
+conirostris,CAS,5046,Gardner,conirostrisGardner,Male,79.2,48,21,12.5,15.2,11.5,23.5,21.5
+conirostris,CAS,5044,Gardner,conirostrisGardner,Male,74.5,46,19.5,11.2,14,10.8,23,22.2
+conirostris,CAS,4999,Gardner,conirostrisGardner,Male,79,45.8,20,11.2,15.2,11.2,23.2,22
+conirostris,CAS,4990,Gardner,conirostrisGardner,Male,74,47,18,9.5,12.5,9.2,22,20
+conirostris,CAS,5098,Gardner,conirostrisGardner,Male,75.2,48,22,12.2,16.2,12.2,24,23.5
+conirostris,Rothschild Museum,1937,Darwin,conirostrisDarwin,Female,78,51.2,21,,16,12,24.5,21.5
+conirostris,Rothschild Museum,1938,Darwin,conirostrisDarwin,Female,78,48.2,21.5,,17.5,13,24.8,21.5
+conirostris,Rothschild Museum,1939,Darwin,conirostrisDarwin,Female,77.5,49.2,21.2,,17.5,13.2,23.5,18.5
+conirostris,Rothschild Museum,1932,Darwin,conirostrisDarwin,Female,77.2,50,24,,18,12.8,24.2,22.2
+magnirostris,CAS,5960,Genovesa,magnirostrisGenovesa,Female,80.5,48.5,24,12,20.5,16,24.8,22
+magnirostris,CAS,5963,Genovesa,magnirostrisGenovesa,Female,79,49.5,24,13.5,20.5,15.5,24,21.5
+magnirostris,CAS,5958,Genovesa,magnirostrisGenovesa,Female,83,49,23.2,12,23,16,24.8,22
+magnirostris,CAS,5979,Genovesa,magnirostrisGenovesa,Female,77.2,45.5,23.2,12.2,20.2,15,23.5,23.2
+magnirostris,CAS,5792,Genovesa,magnirostrisGenovesa,Female,78.5,48,23.5,12.2,20.5,15,25,23
+magnirostris,Stanford University,5239,Genovesa,magnirostrisGenovesa,Female,80,51,25,12.2,23.5,16.8,25.8,22.5
+magnirostris,Stanford University,5213,Genovesa,magnirostrisGenovesa,Female,81.5,52.8,24.2,12.5,22,16.2,25,23.2
+magnirostris,CAS,6316,Isabela,magnirostrisIsabela,Female,75.5,46,20,10.5,16.5,12.5,22.5,21.2
+magnirostris,CAS,6196,Isabela,magnirostrisIsabela,Female,75,42,18.2,9.5,14.5,12.5,23,20
+magnirostris,CAS,6320,Isabela,magnirostrisIsabela,Female,76.2,47.2,18.2,10,15.5,11.2,22.2,20
+magnirostris,CAS,5964,Pinta,magnirostrisPinta,Female,78.8,47,23.2,11.5,20.5,16,24,23.2
+magnirostris,CAS,5970,Pinta,magnirostrisPinta,Female,77,47.5,22.2,12.2,18.8,14,24.5,21
+magnirostris,CAS,5976,Pinta,magnirostrisPinta,Female,77,45,22.2,12.2,19.5,16,24.5,23
+magnirostris,CAS,5978,Pinta,magnirostrisPinta,Female,79,49,21.5,12,19.2,14,24,22.5
+magnirostris,CAS,5975,Pinta,magnirostrisPinta,Female,77.8,49,20.2,11.5,19,13.5,23.5,21.5
+magnirostris,CAS,5981,Pinta,magnirostrisPinta,Female,76.2,45.5,22.5,11.5,19,14.5,23.5,22.5
+magnirostris,CAS,5997,Pinta,magnirostrisPinta,Female,74,43,22,11.2,19,14.5,23.2,22.2
+magnirostris,CAS,5984,Pinta,magnirostrisPinta,Female,75.5,46,22.2,12,19,14.5,23,20.5
+magnirostris,CAS,5990,Pinta,magnirostrisPinta,Female,78,46.5,21,11.5,20,15,23.8,21
+magnirostris,CAS,5987,Pinta,magnirostrisPinta,Female,78,46.5,22,11.5,19,14.5,23.5,21.8
+magnirostris,CAS,5985,Santiago,magnirostrisSantiago,Female,80.5,49.5,23.5,12.5,21.5,15,24.5,20
+magnirostris,CAS,5986,Santiago,magnirostrisSantiago,Female,78,48.5,24,12.2,20,15.5,27,21
+magnirostris,CAS,5988,Santiago,magnirostrisSantiago,Female,78,48,23,12.5,21.5,15.5,25,21.8
+magnirostris,CAS,6000,Santiago,magnirostrisSantiago,Female,77.5,46,21.2,11.5,19,14.8,23,20.8
+magnirostris,CAS,5999,Santiago,magnirostrisSantiago,Female,77.5,46.5,22,12.2,19,14.2,24,21.2
+magnirostris,CAS,5996,Santiago,magnirostrisSantiago,Female,76.5,42.2,22.8,12.8,21,15,24.2,22
+magnirostris,CAS,5983,Santiago,magnirostrisSantiago,Female,82,,22,12,20.2,15.2,25.2,21
+magnirostris,CAS,5992,Santiago,magnirostrisSantiago,Female,78,49.5,22,11.5,19.5,16,24,21
+magnirostris,CAS,5980,Santiago,magnirostrisSantiago,Female,79.5,47.5,22,12.2,19,16,23,21
+magnirostris,Stanford University,4529,Santiago,magnirostrisSantiago,Female,82,49.5,22.8,12,19.8,15.5,25,21
+magnirostris,CAS,5966,Rabida,magnirostrisRabida,Female,79.2,47,20.2,11,18,14,23.2,22.2
+magnirostris,CAS,5991,Rabida,magnirostrisRabida,Female,81,49,22,11.5,20,14,24.2,21.5
+magnirostris,CAS,5969,Rabida,magnirostrisRabida,Female,80,49,22.2,12.5,20,15,24.2,21.2
+magnirostris,CAS,5973,Rabida,magnirostrisRabida,Female,80.5,46,21,11,18.5,13.5,24,22.5
+magnirostris,CAS,5994,Rabida,magnirostrisRabida,Female,79,50,20.2,12,17.2,12.5,24,21
+magnirostris,CAS,6045,Rabida,magnirostrisRabida,Female,78,47,20.2,10.5,17,12.5,24,22
+magnirostris,CAS,5957,Rabida,magnirostrisRabida,Female,77.5,46,21,11.5,16.5,12.5,22.5,21.2
+magnirostris,CAS,5959,Rabida,magnirostrisRabida,Female,78,48,21,11.8,18.5,14,24.2,22
+magnirostris,CAS,5041,Rabida,magnirostrisRabida,Female,77.5,49,19.5,11,16.5,13,24,20.5
+magnirostris,CAS,5965,Rabida,magnirostrisRabida,Female,78.5,46,21,12.2,18.5,13,23.2,20.8
+magnirostris,CAS,5967,Santa Cruz,magnirostrisSanta Cruz,Female,75.2,49.5,21.5,12,19.2,14.5,24.2,19.8
+magnirostris,CAS,6002,Santa Cruz,magnirostrisSanta Cruz,Female,77.2,48,22.2,12.5,19.5,15,24.8,22.8
+magnirostris,CAS,5982,Santa Cruz,magnirostrisSanta Cruz,Female,77.2,46.2,20.8,11.2,19.5,15,24,21
+magnirostris,CAS,6164,Baltra,magnirostrisBaltra,Female,76,46,20.2,11,15.5,12.5,23,21
+magnirostris,CAS,5995,Baltra,magnirostrisBaltra,Female,72.5,42.5,21,11.2,17.8,13,22.2,21.2
+magnirostris,CAS,5968,Baltra,magnirostrisBaltra,Female,78,51.5,21.5,12,19.8,14.5,23,20.2
+fortis,CAS,6017,Pinta,fortisPinta,Female,61.8,32.5,13.5,8,9.5,7.2,19,16
+fortis,CAS,6024,Pinta,fortisPinta,Female,57.2,36.5,14.8,8.2,11.2,8.2,18.2,16.2
+fortis,CAS,6023,Pinta,fortisPinta,Female,60.5,40,15,8.2,10.5,8.8,19,17.5
+fortis,CAS,6187,Pinta,fortisPinta,Female,60,40,14.5,8.2,10.2,8.5,19,17
+fortis,CAS,6021,Pinta,fortisPinta,Female,60,36,15.8,8.5,11.5,9,19,17.8
+fortis,CAS,6020,Pinta,fortisPinta,Female,65.5,40.8,15,7.8,11,9,18.5,17
+fortis,CAS,6022,Pinta,fortisPinta,Female,62,39.8,15.5,8.5,11.2,9.2,19.5,16.2
+fortis,CAS,6028,Pinta,fortisPinta,Female,62,38.2,13.8,8,10.2,9.2,18.2,16.8
+fortis,CAS,6018,Marchena,fortisMarchena,Female,63,38.2,16.5,8.8,12.2,10,19.2,17.2
+fortis,CAS,6027,Marchena,fortisMarchena,Female,63,38.5,16.8,8.5,12,9,18,16.8
+fortis,CAS,6026,Marchena,fortisMarchena,Female,61.8,34.2,15.5,8.2,11.2,8.5,19.2,16
+fortis,CAS,6025,Marchena,fortisMarchena,Female,63,39,16,8.2,12.5,9,19.2,16.5
+fortis,CAS,6019,Marchena,fortisMarchena,Female,63,37.5,15.5,8.5,11.2,9.2,18.5,17.5
+fortis,Stanford University,5118,Marchena,fortisMarchena,Female,62.2,38,15.2,8.5,11,8.5,19.5,17
+fortis,Stanford University,4784,Marchena,fortisMarchena,Female,62,34.5,16,8,12,9,19.5,17.2
+fortis,CAS,6337,Isabela,fortisIsabela,Female,69,42.2,15.5,8.5,11,9,21.5,18.5
+fortis,CAS,6339,Isabela,fortisIsabela,Female,66.5,38,16.8,9,12.2,10.2,22,19
+fortis,CAS,6257,Isabela,fortisIsabela,Female,68,39.2,15.2,8.5,11,9,21.5,19
+fortis,CAS,6066,Isabela,fortisIsabela,Female,63.2,37.5,15.5,8,11,9,21,19.2
+fortis,Stanford University,3958,Isabela,fortisIsabela,Female,68.5,44.5,17.2,9.8,13.5,10.8,22.2,19
+fortis,Stanford University,4028,Isabela,fortisIsabela,Female,70,41,17,9,12,10,21.2,18.5
+fortis,Stanford University,4192,Isabela,fortisIsabela,Female,66.2,42.2,16.2,8.2,13.5,9.2,22.5,19.5
+fortis,Stanford University,4264,Isabela,fortisIsabela,Female,66.5,41,14.5,9,11,8.5,20,18
+fortis,Stanford University,4332,Isabela,fortisIsabela,Female,64.2,41,15.5,8.5,11,9,22,20
+fortis,Stanford University,4407,Isabela,fortisIsabela,Female,70.5,41,17.5,9,13.5,11,21.8,20
+fortis,CAS,6033,Fernandina,fortisFernandina,Female,65.8,41.5,15.5,9,11.8,9,20.2,17
+fortis,CAS,6258,Fernandina,fortisFernandina,Female,68.2,45,15.5,8.5,11.5,9.2,21,17.2
+fortis,CAS,6308,Fernandina,fortisFernandina,Female,70,43.5,17.2,9,13.8,9.8,20.5,19
+fortis,CAS,6180,S. Isabela,fortisS. Isabela,Female,68,42,17.5,10,13.2,10,21,18.5
+fortis,CAS,6061,S. Isabela,fortisS. Isabela,Female,72,42,18.2,9.5,14,10,22,19.8
+fortis,CAS,6336,S. Isabela,fortisS. Isabela,Female,72,42.8,18,10.2,14.2,11.2,22.2,20.8
+fortis,CAS,6295,S. Isabela,fortisS. Isabela,Female,70,44.5,18,9.5,13,11,23.2,19
+fortis,CAS,6202,S. Isabela,fortisS. Isabela,Female,69,42.2,16.5,9.8,12.5,10.2,22.5,18.5
+fortis,CAS,6280,S. Isabela,fortisS. Isabela,Female,73,46,16.8,10,13.8,10.5,21.5,17.8
+fortis,CAS,6081,S. Isabela,fortisS. Isabela,Female,71,44.5,16.5,8.8,13,10.2,21.5,18
+fortis,CAS,6082,S. Isabela,fortisS. Isabela,Female,75.5,47.2,18.2,10.5,14.8,11,21.8,20
+fortis,CAS,6080,S. Isabela,fortisS. Isabela,Female,73.2,44.5,18,9.8,13.2,10.8,21.2,20
+fortis,CAS,6054,S. Isabela,fortisS. Isabela,Female,72.5,46.5,18,10,14.8,11.8,22,20
+fortis,CAS,6209,Santiago,fortisSantiago,Female,69,41,16,8.5,12.5,9.8,21.5,17.8
+fortis,CAS,6043,Santiago,fortisSantiago,Female,66,39.2,15.5,8.5,11.2,8.5,21.5,17.5
+fortis,CAS,6190,Santiago,fortisSantiago,Female,68,40.5,15,8.2,11,9,20.5,18
+fortis,CAS,6276,Santiago,fortisSantiago,Female,69,42,17,9,12.2,9.5,19.5,16.8
+fortis,CAS,6296,Santiago,fortisSantiago,Female,65.8,40.5,14.8,8,10.2,8.8,21,17.2
+fortis,CAS,6176,Santiago,fortisSantiago,Female,67.5,40,15.8,8.5,11.5,8.5,20,18.5
+fortis,CAS,6278,Santiago,fortisSantiago,Female,64,38.2,15.5,8.5,11,8.2,19,16.5
+fortis,CAS,6297,Santiago,fortisSantiago,Female,68.8,42.5,15.5,8.5,12,9.8,20.5,17.5
+fortis,CAS,6263,Santiago,fortisSantiago,Female,74.5,43,17,9.5,14,11,22.2,19.2
+fortis,CAS,6185,Santiago,fortisSantiago,Female,67.2,42,16.5,8.5,12,9.5,20,17
+fortis,CAS,6204,Pinzon,fortisPinzon,Female,64,39.5,15.2,8.2,10,8.5,20.8,16.5
+fortis,CAS,6183,Pinzon,fortisPinzon,Female,65,42,15.5,8.2,10.5,8.5,20,16.8
+fortis,CAS,6200,Pinzon,fortisPinzon,Female,63,37,14.5,7.2,10.2,8,20,16.5
+fortis,CAS,6218,Pinzon,fortisPinzon,Female,65,38.2,15.8,8.8,11,8.5,20,18.5
+fortis,CAS,6205,Pinzon,fortisPinzon,Female,62,35.2,14.5,8.5,10.2,8.2,20,17.8
+fortis,CAS,6052,Pinzon,fortisPinzon,Female,67,37,14.2,8,10.5,8,20,18.5
+fortis,CAS,6198,Pinzon,fortisPinzon,Female,66,40,14.5,8.2,10.5,7.8,19.5,16.5
+fortis,CAS,6192,Pinzon,fortisPinzon,Female,66,42,15.2,8.2,11,8.2,19.8,18.5
+fortis,CAS,6199,Pinzon,fortisPinzon,Female,68.8,40.5,16,8.2,11,8.5,21,18
+fortis,CAS,6169,Pinzon,fortisPinzon,Female,65.8,39.8,15,8,11.2,8.5,21,17.5
+fortis,CAS,6309,Santa Cruz,fortisSanta Cruz,Female,67,40.5,17.2,10,12,9.8,20.8,19.5
+fortis,CAS,3279,Santa Cruz,fortisSanta Cruz,Female,67.2,37.5,15.2,8,11.2,9.2,20.5,18.2
+fortis,CAS,6269,Santa Cruz,fortisSanta Cruz,Female,66,40.8,16,8.5,12,9.2,21.2,18.8
+fortis,CAS,6275,Santa Cruz,fortisSanta Cruz,Female,65.5,39.5,16,9,11.5,9,22.2,18.5
+fortis,CAS,6058,Santa Cruz,fortisSanta Cruz,Female,72.5,43,17.8,9.2,13.5,10.8,22.2,18.5
+fortis,CAS,6274,Santa Cruz,fortisSanta Cruz,Female,64.2,39,15.5,8.2,11.2,9,22,18.8
+fortis,CAS,6277,Santa Cruz,fortisSanta Cruz,Female,72.2,41.5,17.2,9.5,13.8,11.8,22.5,19.8
+fortis,CAS,6265,Santa Cruz,fortisSanta Cruz,Female,64,39.2,14.5,8.2,11,9,18.5,18.2
+fortis,CAS,6090,Santa Cruz,fortisSanta Cruz,Female,67.2,40,15.8,8.5,10.8,9,20,19
+fortis,CAS,6168,Santa Cruz,fortisSanta Cruz,Female,63.5,41,15,9,11,8.5,20.2,18
+fortis,CAS,6144,San Cristobal,fortisSan Cristobal,Female,66.5,41.5,15.2,9,11,9,21.5,18.5
+fortis,CAS,6129,San Cristobal,fortisSan Cristobal,Female,67,42,17,9.2,12.5,10,21.5,18
+fortis,CAS,6089,San Cristobal,fortisSan Cristobal,Female,66,41,15,8.5,11.2,9,21.2,18.5
+fortis,CAS,6011,San Cristobal,fortisSan Cristobal,Female,73,44.5,19.2,10.5,15.5,11.8,24,21
+fortis,CAS,6012,San Cristobal,fortisSan Cristobal,Female,73,44,19,9.8,15,12,22.5,20
+fortis,CAS,6302,San Cristobal,fortisSan Cristobal,Female,67,41,15.2,8,11.5,9,22,18.5
+fortis,CAS,6294,San Cristobal,fortisSan Cristobal,Female,67,39.5,16.8,9,12.5,9,21.5,18.2
+fortis,CAS,6120,San Cristobal,fortisSan Cristobal,Female,71.2,44,16,8.2,13,11.8,22,17.8
+fortis,CAS,6014,San Cristobal,fortisSan Cristobal,Female,67,41,17.8,9.5,14.5,11.2,23,20.5
+fortis,CAS,6056,San Cristobal,fortisSan Cristobal,Female,67.2,39,17.5,9.5,12.2,10,21.8,20
+fortis,CAS,6338,Floreana,fortisFloreana,Female,68,39,14.2,8,10.2,8.5,21.8,19.5
+fortis,CAS,6053,Floreana,fortisFloreana,Female,68,38,15,8.2,10.5,8.5,22,19.5
+fortis,CAS,6212,Floreana,fortisFloreana,Female,67.5,42.2,18.5,10,13.8,10.5,23,21.5
+fortis,CAS,6070,Floreana,fortisFloreana,Female,67,41.2,15.5,9,12,8.8,21,18.5
+fortis,CAS,6221,Floreana,fortisFloreana,Female,68.5,41,15.5,8.5,11.2,8.5,20.8,18.8
+fortis,CAS,6077,Floreana,fortisFloreana,Female,67.5,40,16.8,9.5,11.8,9,21,19.8
+fortis,CAS,6076,Floreana,fortisFloreana,Female,69,43,15.5,9,12,9.2,21,17.8
+fortis,CAS,6321,Floreana,fortisFloreana,Female,74,46.5,18,10.2,15,11.5,23,19.8
+fortis,CAS,6065,Floreana,fortisFloreana,Female,67,46,18.8,10.2,14,11,22.5,20
+fortis,CAS,6007,Floreana,fortisFloreana,Female,67,41,18,9.5,14,10.8,22.2,21.5
+fuliginosa,CAS,6674,Pinta,fuliginosaPinta,Female,60.2,39,10.8,6.2,7.2,6,18.5,16.5
+fuliginosa,CAS,6666,Pinta,fuliginosaPinta,Female,56.2,33.8,11,6.2,7.5,6.5,18.2,14.5
+fuliginosa,CAS,6663,Pinta,fuliginosaPinta,Female,56.5,36.5,10.8,6.2,7.2,6,18,16
+fuliginosa,CAS,6664,Pinta,fuliginosaPinta,Female,55.5,35,11,6.2,7.5,6.2,18.5,15
+fuliginosa,CAS,6671,Pinta,fuliginosaPinta,Female,57.2,37.5,11.2,6.2,7.2,6,17.2,16
+fuliginosa,CAS,6670,Pinta,fuliginosaPinta,Female,59.2,39,11.5,6.2,7.5,6.2,18.8,16.5
+fuliginosa,CAS,6665,Pinta,fuliginosaPinta,Female,57.8,36,11.5,6.2,7.2,6,18,15
+fuliginosa,CAS,6668,Pinta,fuliginosaPinta,Female,58,37.8,11.5,6.2,7.8,6.2,19,16
+fuliginosa,CAS,6667,Pinta,fuliginosaPinta,Female,54.5,34.2,11,6.2,7.2,6,16.8,14
+fuliginosa,CAS,6566,Wolf,fuliginosaWolf,Female,67.5,37.5,12.2,6.5,8.2,7,20,16.2
+fuliginosa,CAS,6380,Wolf,fuliginosaWolf,Female,60.8,38.5,11.2,6,7.5,6.5,19.2,15.8
+fuliginosa,CAS,6523,Wolf,fuliginosaWolf,Female,57.8,37,11.5,6,7.2,6.2,20.5,17
+fuliginosa,CAS,6669,Marchena,fuliginosaMarchena,Female,56.5,32.5,9,5.8,6.5,5.5,16.5,13
+fuliginosa,CAS,6672,Marchena,fuliginosaMarchena,Female,54.8,31,11.5,6.2,7.5,6,17.5,14.5
+fuliginosa,Stanford University,3988,Fernandina,fuliginosaFernandina,Female,63.5,37,10.5,6,7.5,6,20.2,16.2
+fuliginosa,Stanford University,4051,Fernandina,fuliginosaFernandina,Female,60.8,36.5,11.2,6.5,8,6,20,16.5
+fuliginosa,Stanford University,4004,Fernandina,fuliginosaFernandina,Female,62.5,38,10.5,6.8,7.2,6.2,19,16
+fuliginosa,Stanford University,3885,Fernandina,fuliginosaFernandina,Female,62.5,39.5,11.5,7,8,6,20.2,16.5
+fuliginosa,Stanford University,4154,Fernandina,fuliginosaFernandina,Female,58,38,10.5,6.2,7.8,6.2,18.5,16.8
+fuliginosa,Stanford University,4448,Fernandina,fuliginosaFernandina,Female,62.5,40,11.8,6.5,8.2,6.8,19.5,16.5
+fuliginosa,Stanford University,4439,Fernandina,fuliginosaFernandina,Female,59.5,35,11.5,7,8.2,6,18.5,17
+fuliginosa,Stanford University,4436,Fernandina,fuliginosaFernandina,Female,59,39,11.5,6,8,6.2,19,15.8
+fuliginosa,CAS,6451,Isabela,fuliginosaIsabela,Female,61.5,39.2,12,6.2,8,6.2,19.5,16.8
+fuliginosa,CAS,6427,Isabela,fuliginosaIsabela,Female,60.5,36.8,11,6.8,7.8,6.5,20,16.2
+fuliginosa,CAS,6459,Isabela,fuliginosaIsabela,Female,63.2,37,12.2,7.2,7.5,6.5,19.2,17
+fuliginosa,CAS,6424,Isabela,fuliginosaIsabela,Female,59,38.2,12,6.5,8,6.2,20,17
+fuliginosa,CAS,6469,Isabela,fuliginosaIsabela,Female,58.2,35,10.2,6.2,8,6,20,17
+fuliginosa,CAS,6511,Isabela,fuliginosaIsabela,Female,56.2,35,11.5,6.5,8,6.5,19.2,16.2
+fuliginosa,CAS,6497,Isabela,fuliginosaIsabela,Female,61,37,10.2,7,7.5,6.2,19.5,17
+fuliginosa,CAS,6558,Isabela,fuliginosaIsabela,Female,63.2,40,12.8,7.2,8.5,6.8,20.2,18
+fuliginosa,CAS,6559,Isabela,fuliginosaIsabela,Female,59,36.2,11,6.2,7.2,6,19.2,16.5
+fuliginosa,CAS,6541,Isabela,fuliginosaIsabela,Female,59,35,10.5,6,8.2,6.5,20,16.5
+fuliginosa,CAS,6550,Santiago,fuliginosaSantiago,Female,60.2,39.8,12,7,8.2,6.8,19.5,16.2
+fuliginosa,CAS,6371,Santiago,fuliginosaSantiago,Female,61,36.5,12.2,6.5,8,6.5,18.2,16.2
+fuliginosa,CAS,6370,Santiago,fuliginosaSantiago,Female,60.5,38.5,12.5,7,8,6.5,20,16.5
+fuliginosa,Stanford University,4508,Santiago,fuliginosaSantiago,Female,61.2,36,12.5,7,8,6.5,19,16.5
+fuliginosa,Stanford University,4556,Santiago,fuliginosaSantiago,Female,60,36.8,12,7,8,6.2,18.8,17.2
+fuliginosa,Stanford University,4580,Santiago,fuliginosaSantiago,Female,62,36.5,11.8,6.2,7.5,6,17.8,15.2
+fuliginosa,CAS,6533,Rabida,fuliginosaRabida,Female,60.5,34.5,11.2,6.2,7.8,6.5,18.2,15.5
+fuliginosa,CAS,6494,Rabida,fuliginosaRabida,Female,61,35.5,12.5,6.5,8,6.5,19.2,16
+fuliginosa,CAS,6422,Santa Fe,fuliginosaSanta Fe,Female,61.5,36.5,12,6.2,8,6.5,19.5,16.2
+fuliginosa,CAS,6369,Santa Fe,fuliginosaSanta Fe,Female,58.5,36,11.2,7,7.2,6.5,18.2,16.5
+fuliginosa,CAS,6391,Santa Fe,fuliginosaSanta Fe,Female,61,37,12.5,6.5,8,6.5,18,17
+fuliginosa,CAS,6400,Santa Fe,fuliginosaSanta Fe,Female,58.8,34.2,12,7,8,6.2,18.2,16.5
+fuliginosa,Stanford University,4936,Santa Fe,fuliginosaSanta Fe,Female,57.2,34,12,6.2,7.8,6.2,18,17.2
+fuliginosa,Stanford University,4946,Santa Fe,fuliginosaSanta Fe,Female,57.2,32.5,12.5,6.5,7.8,6.5,19.8,17.5
+fuliginosa,CAS,6532,Pinzon,fuliginosaPinzon,Female,58,35,12.8,7,8,6.2,19.2,15.2
+fuliginosa,CAS,6378,Pinzon,fuliginosaPinzon,Female,59.5,34.2,12.5,7,7.2,6.2,20,16
+fuliginosa,CAS,6534,Pinzon,fuliginosaPinzon,Female,61.5,36.8,12,7,7.2,6.5,20.5,17.2
+fuliginosa,CAS,6383,Pinzon,fuliginosaPinzon,Female,63,38.5,12,7,7.8,6.8,20.5,17.2
+fuliginosa,CAS,6537,Pinzon,fuliginosaPinzon,Female,62.2,37.2,12.2,6.2,8,6.8,20,16
+fuliginosa,CAS,6473,Pinzon,fuliginosaPinzon,Female,60,37,12.5,6.2,7.5,6.5,20.2,17
+fuliginosa,CAS,6465,Pinzon,fuliginosaPinzon,Female,58,34.5,12.2,7,8,6.8,19,17.5
+fuliginosa,CAS,6468,Pinzon,fuliginosaPinzon,Female,60,35.2,11.2,6.2,7,6,18.5,17.2
+fuliginosa,CAS,6372,Pinzon,fuliginosaPinzon,Female,61.5,36.5,12.2,6.2,8,6.8,20,16.5
+fuliginosa,CAS,6374,Pinzon,fuliginosaPinzon,Female,59.2,34.5,11.2,6.2,7.8,6.8,19,16
+fuliginosa,CAS,6501,Santa Cruz,fuliginosaSanta Cruz,Female,59.2,35.5,12,6.5,8.2,6.2,20,17.5
+fuliginosa,CAS,6527,Santa Cruz,fuliginosaSanta Cruz,Female,59.8,38,11.2,6.5,7.2,6.2,19.2,17
+fuliginosa,CAS,6546,Santa Cruz,fuliginosaSanta Cruz,Female,60.2,39.5,12.5,6.8,7.8,6.5,20,16.2
+fuliginosa,CAS,6555,Santa Cruz,fuliginosaSanta Cruz,Female,59.5,35.5,12.5,7,8.2,6.5,19.5,17.5
+fuliginosa,CAS,6526,Santa Cruz,fuliginosaSanta Cruz,Female,59,37,13,7,8.2,6.5,19.5,16.5
+fuliginosa,CAS,6567,Santa Cruz,fuliginosaSanta Cruz,Female,59.8,38.5,12,6.2,8,6.5,19,17.5
+fuliginosa,CAS,6554,Santa Cruz,fuliginosaSanta Cruz,Female,61,37.2,11.5,7,7.2,6.2,19,16.8
+fuliginosa,CAS,6381,Santa Cruz,fuliginosaSanta Cruz,Female,58.5,37,11.5,7,7.2,6.2,19.5,16.8
+fuliginosa,CAS,6544,Santa Cruz,fuliginosaSanta Cruz,Female,58.8,35,12.2,6.5,8,6.5,19.5,17.5
+fuliginosa,CAS,6386,Santa Cruz,fuliginosaSanta Cruz,Female,57.2,33,12.2,7,8.2,6.2,19,17.5
+fuliginosa,CAS,6604,San Cristobal,fuliginosaSan Cristobal,Female,59.5,37,11.2,7,8,6.5,19.8,17.5
+fuliginosa,CAS,6607,San Cristobal,fuliginosaSan Cristobal,Female,58.2,38.2,11.8,7,7.5,6.2,19,16.2
+fuliginosa,CAS,6628,San Cristobal,fuliginosaSan Cristobal,Female,61.2,37.2,12,6.8,8,6.5,20.5,17
+fuliginosa,CAS,6600,San Cristobal,fuliginosaSan Cristobal,Female,61,35.5,12,6.8,7.2,6.2,19.8,16.5
+fuliginosa,CAS,6588,San Cristobal,fuliginosaSan Cristobal,Female,59,37.2,12,7,7.2,6.2,19,17.5
+fuliginosa,CAS,6624,San Cristobal,fuliginosaSan Cristobal,Female,58.5,36,11.5,7,7.5,6,19,16.8
+fuliginosa,CAS,6630,San Cristobal,fuliginosaSan Cristobal,Female,60,36,11,6.2,7.2,6.2,19.2,16.5
+fuliginosa,CAS,6631,San Cristobal,fuliginosaSan Cristobal,Female,61.2,36,11.2,6.2,7.5,6.2,20.5,17
+fuliginosa,CAS,6613,San Cristobal,fuliginosaSan Cristobal,Female,61,37.5,11,6.8,7.5,6.5,20,16.5
+fuliginosa,CAS,6585,San Cristobal,fuliginosaSan Cristobal,Female,59.5,37,11.5,6.2,7.2,6,19.2,16.2
+fuliginosa,CAS,6613,San Cristobal,fuliginosaSan Cristobal,Female,61.2,35.5,11.5,6.8,7.8,6.2,19.8,16
+fuliginosa,CAS,6585,San Cristobal,fuliginosaSan Cristobal,Female,60,37.2,12.5,6.8,7.8,6,19.2,17
+fuliginosa,CAS,6622,San Cristobal,fuliginosaSan Cristobal,Female,60,37,13.2,7,8.8,7,20,17
+fuliginosa,CAS,6646,San Cristobal,fuliginosaSan Cristobal,Female,61,37.8,12.5,6.5,7.8,6.5,19.8,17
+fuliginosa,CAS,6582,San Cristobal,fuliginosaSan Cristobal,Female,60.5,38,12.5,7,8,6.2,18.5,17.2
+fuliginosa,CAS,6591,San Cristobal,fuliginosaSan Cristobal,Female,57.8,38,12.2,7,7.8,6.5,20,17.5
+fuliginosa,CAS,6629,San Cristobal,fuliginosaSan Cristobal,Female,61.5,39,12.2,6.5,7.8,6.5,19.5,17
+fuliginosa,CAS,6642,San Cristobal,fuliginosaSan Cristobal,Female,62,38,12.5,7,8.2,6.5,20,17.5
+fuliginosa,CAS,6616,San Cristobal,fuliginosaSan Cristobal,Female,62,38.5,12.5,6.5,8,6.5,19,16.5
+fuliginosa,CAS,6610,San Cristobal,fuliginosaSan Cristobal,Female,61.8,36.5,14,7.8,7.8,6.5,19.2,17.2
+fuliginosa,CAS,6656,San Cristobal,fuliginosaSan Cristobal,Female,62,32.2,10.5,6,7.2,5.8,19.8,17.5
+fuliginosa,CAS,6651,San Cristobal,fuliginosaSan Cristobal,Female,59,35,10,6,7,6,19,16
+fuliginosa,CAS,6658,San Cristobal,fuliginosaSan Cristobal,Female,56.2,35,10.2,6,6.8,5.8,18.8,15.8
+fuliginosa,CAS,6652,San Cristobal,fuliginosaSan Cristobal,Female,54,34.5,10,6,7.2,5.5,18.5,15
+fuliginosa,CAS,6641,San Cristobal,fuliginosaSan Cristobal,Female,59.5,38,10.5,6,7,5.5,19,15
+fuliginosa,CAS,6655,San Cristobal,fuliginosaSan Cristobal,Female,58.5,36.5,11,6,7,5.8,19,16
+fuliginosa,CAS,6653,San Cristobal,fuliginosaSan Cristobal,Female,60,37.2,11,6,7,6,19,16.5
+fuliginosa,CAS,6662,San Cristobal,fuliginosaSan Cristobal,Female,61,37.2,10.5,6,6.8,5.5,18.2,16
+fuliginosa,CAS,6659,San Cristobal,fuliginosaSan Cristobal,Female,57,35,9.5,6,6.5,5.2,18.2,15.5
+fuliginosa,CAS,6657,San Cristobal,fuliginosaSan Cristobal,Female,61,36,10,6,6.5,5.2,18.2,15
+fuliginosa,CAS,6373,Floreana,fuliginosaFloreana,Female,60.5,35.8,11.5,7,7.5,6,18.2,17
+fuliginosa,CAS,6453,Floreana,fuliginosaFloreana,Female,60.2,36.5,12.8,6.8,7.8,6.2,20,17
+fuliginosa,CAS,6495,Floreana,fuliginosaFloreana,Female,61.5,36.2,11,6.2,8,6.2,19.5,18.2
+fuliginosa,CAS,6452,Floreana,fuliginosaFloreana,Female,61,34.5,11.5,6.5,7.8,6.2,19.5,18
+fuliginosa,CAS,6571,Floreana,fuliginosaFloreana,Female,60,35,11.5,6.5,7.5,6.2,19.2,16.5
+fuliginosa,CAS,6502,Floreana,fuliginosaFloreana,Female,60.5,38,11.2,6.5,7.5,6.2,19.8,16.2
+fuliginosa,CAS,6425,Floreana,fuliginosaFloreana,Female,60.2,37,12.5,7.2,8,6.2,19.5,17.5
+fuliginosa,CAS,6509,Floreana,fuliginosaFloreana,Female,59.5,34.2,12,7.2,7.2,6.5,18.5,16.2
+fuliginosa,CAS,6508,Floreana,fuliginosaFloreana,Female,59.5,38.5,12,7,7.2,6.2,20,17.8
+fuliginosa,CAS,6409,Floreana,fuliginosaFloreana,Female,59.5,36.2,12,7,7,6.2,18.5,17
+fuliginosa,CAS,6412,Espanola,fuliginosaEspanola,Female,61.2,37.5,11.5,6.2,7.2,6.2,20,17
+fuliginosa,CAS,6431,Espanola,fuliginosaEspanola,Female,60,41,11,6.8,7,6,17.2,15.5
+fuliginosa,CAS,6411,Espanola,fuliginosaEspanola,Female,59.8,38.2,11.5,6.5,7.2,6.2,19,15.2
+fuliginosa,CAS,6417,Espanola,fuliginosaEspanola,Female,62.5,37.8,12.2,7,7.5,6.2,20.2,17
+fuliginosa,CAS,6408,Espanola,fuliginosaEspanola,Female,60,38,11,7,7.2,6.5,19,16.5
+fuliginosa,CAS,6413,Espanola,fuliginosaEspanola,Female,62.2,39.2,11.5,6.8,8,6.5,19,17.8
+fuliginosa,CAS,6399,Espanola,fuliginosaEspanola,Female,61.5,38.8,12.5,7,7.8,6.5,19.5,17.2
+fuliginosa,CAS,6398,Espanola,fuliginosaEspanola,Female,62.2,36.5,12.5,7,7.5,6.2,19.8,16.8
+fuliginosa,CAS,6402,Espanola,fuliginosaEspanola,Female,58.2,34.2,12.2,7,8.5,6.5,19.8,17.2
+fuliginosa,CAS,6375,Espanola,fuliginosaEspanola,Female,61.5,39,12.2,7,8.5,6.8,20,17
+difficilis,CAS,6994,Wolf,difficilisWolf,Female,66,43.5,15,9,7.2,6.5,21,18.5
+difficilis,CAS,6995,Wolf,difficilisWolf,Female,67.5,46.5,13.5,8,7.5,7,21,17.5
+difficilis,CAS,6996,Wolf,difficilisWolf,Female,68,46.2,14.5,8.8,8,6.5,21.5,17.2
+difficilis,CAS,6997,Wolf,difficilisWolf,Female,67,44.5,14.5,8.5,8,6.5,21,18.5
+difficilis,CAS,7008,Wolf,difficilisWolf,Female,68,46,13.5,8.2,7.5,6.2,20.5,18.2
+difficilis,CAS,7009,Wolf,difficilisWolf,Female,68,46.5,14.5,9,8.2,6.8,20.5,18
+difficilis,CAS,7010,Wolf,difficilisWolf,Female,67,44.5,14.2,8.2,7.5,6.5,21,18.5
+difficilis,CAS,7011,Wolf,difficilisWolf,Female,66.5,45.8,14.8,8.5,8,6.2,20.5,18.5
+difficilis,CAS,7012,Wolf,difficilisWolf,Female,66,43,14,8.2,7.5,6.5,21.5,19
+difficilis,CAS,7013,Wolf,difficilisWolf,Female,68,46.5,15,8,7.8,7,21,19
+difficilis,CAS,7016,Darwin,difficilisDarwin,Female,69,47,15,8.8,8,7,21.8,19.5
+difficilis,CAS,7017,Darwin,difficilisDarwin,Female,68.5,46.5,14.5,8.8,8.5,7,21.5,19.8
+difficilis,Stanford University,5410,Darwin,difficilisDarwin,Female,68,46,15,9,8.5,7.2,22.2,19.8
+difficilis,CAS,6677,Genovesa,difficilisGenovesa,Female,60,37.8,12,7,7.2,6,19,15.2
+difficilis,CAS,6679,Genovesa,difficilisGenovesa,Female,60.5,39,11.8,7.5,7.5,6.2,19.2,15.8
+difficilis,CAS,6678,Genovesa,difficilisGenovesa,Female,60.8,36,12.5,7.5,7.2,5.8,17.5,15.2
+difficilis,CAS,6676,Genovesa,difficilisGenovesa,Female,60,35,11.8,6.8,7,5.8,17.5,15
+difficilis,Stanford University,5133,Genovesa,difficilisGenovesa,Female,58.5,35.5,12.5,7.5,7.5,6,18.5,14.8
+difficilis,Stanford University,5265,Genovesa,difficilisGenovesa,Female,60,39.5,12.5,7.8,8,6.2,19,15
+difficilis,CAS,6680,Pinta,difficilisPinta,Female,59,35,14,8,8.5,6.5,21,18
+difficilis,CAS,6681,Pinta,difficilisPinta,Female,59.8,35,14,8,8.2,6.8,20.5,18.5
+difficilis,CAS,6934,Santiago,difficilisSantiago,Female,69,39.2,13.8,7.2,9,7.5,24,18.2
+difficilis,CAS,6939,Santiago,difficilisSantiago,Female,69,38.2,14.8,7.2,9.5,8,23,20
+difficilis,CAS,6942,Santiago,difficilisSantiago,Female,66.5,41,14,8,9.8,7.2,22,21.2
+difficilis,CAS,6933,Santiago,difficilisSantiago,Female,70,38.2,15,8.5,9.2,8,23,20.2
+difficilis,CAS,6935,Santiago,difficilisSantiago,Female,68.2,40,14.5,7.8,9.2,7.5,23.2,19
+difficilis,CAS,6941,Santiago,difficilisSantiago,Female,67.2,39.5,15,7.5,9.8,7.5,23,21.5
+difficilis,CAS,6943,Santiago,difficilisSantiago,Female,66.5,38.8,15,8.2,9,7.5,24,20.5
+difficilis,CAS,6944,Santiago,difficilisSantiago,Female,67,37,15,7.5,9,7.2,24.2,20.5
+difficilis,CAS,6945,Santiago,difficilisSantiago,Female,68.2,40.2,14,7.2,8.5,7,21.5,20
+difficilis,CAS,6946,Santiago,difficilisSantiago,Female,66.5,36,15,7.8,9.2,7.2,23.5,21.2
+difficilis,CAS,6922,Santa Cruz,difficilisSanta Cruz,Female,66.5,40,14,7,9,7,21.2,19
+difficilis,CAS,6924,Santa Cruz,difficilisSanta Cruz,Female,68.5,40.8,14,8,8.5,7,22.5,20.5
+difficilis,CAS,6928,Santa Cruz,difficilisSanta Cruz,Female,65,40.8,13,7,8.2,6.5,21.2,20.2
+difficilis,CAS,6925,Santa Cruz,difficilisSanta Cruz,Female,65,38.5,13.2,7.2,8.5,7,22.8,19
+difficilis,CAS,6930,Santa Cruz,difficilisSanta Cruz,Female,65,38.8,13.5,7.2,8.2,7,22,19.5
+difficilis,CAS,6929,Santa Cruz,difficilisSanta Cruz,Female,67.5,41.2,14.5,7.2,8.8,7.5,23,21
+difficilis,CAS,6927,Santa Cruz,difficilisSanta Cruz,Female,64,40.5,13.5,7.2,9,7.2,22,19
+difficilis,CAS,6926,Santa Cruz,difficilisSanta Cruz,Female,65.2,42.2,13,7.2,8,7,21.5,19.5
+difficilis,CAS,6923,Santa Cruz,difficilisSanta Cruz,Female,68,42.2,13.8,7.2,8.2,7,23,20.2
+scandens,CAS,7397,Pinta,scandensPinta,Female,70.5,43.5,19,11.2,9,7,21.2,20
+scandens,CAS,7398,Pinta,scandensPinta,Female,66.5,42,18,10.8,9,6.8,21,18.2
+scandens,CAS,7400,Pinta,scandensPinta,Female,66.5,42,17.8,11,8.5,7.2,21.2,20
+scandens,CAS,7394,Pinta,scandensPinta,Female,68,43.5,18.8,11,9.2,7.2,21,18
+scandens,CAS,7395,Pinta,scandensPinta,Female,69,42,19,11.2,9.2,7.8,21.2,18
+scandens,CAS,7396,Pinta,scandensPinta,Female,65.5,40.2,20,11.5,9.5,7.5,22.2,20.2
+scandens,CAS,7399,Pinta,scandensPinta,Female,69,44,20.2,11.2,9,7.2,21.8,20.5
+scandens,CAS,7402,Pinta,scandensPinta,Female,65.2,38.5,17.2,10.5,9,7,21.5,18.5
+scandens,Stanford University,4931,Pinta,scandensPinta,Female,72,43.2,20.2,12,10.5,8.2,22.5,20.5
+scandens,Stanford University,4930,Pinta,scandensPinta,Female,68.5,40.2,18.8,10.8,10,8,21,19.5
+scandens,CAS,7401,Marchena,scandensMarchena,Female,68,37.5,20,11,11,9.2,23,20
+scandens,CAS,7404,Marchena,scandensMarchena,Female,68,41,18.8,11,10,8.5,21.5,18.5
+scandens,CAS,7405,Marchena,scandensMarchena,Female,69.5,43.5,19.5,11.5,10,8.5,22.2,20.5
+scandens,CAS,7406,Marchena,scandensMarchena,Female,69,41,20.2,12,9.5,8.5,21.2,19
+scandens,CAS,7407,Marchena,scandensMarchena,Female,70,42,20.2,12.2,10,8.2,22.5,19
+scandens,CAS,5163,Marchena,scandensMarchena,Female,67.2,44.2,19.2,11,9.5,7.8,20.8,19.8
+scandens,CAS,6173,Marchena,scandensMarchena,Female,66,40.5,19.2,10.5,10.2,8.2,21.5,19
+scandens,CAS,6175,Marchena,scandensMarchena,Female,72.5,42,19.2,12,9.5,8,21.8,20
+scandens,CAS,7381,Pinzon,scandensPinzon,Female,70,41.5,20,11,9,8,21.2,19.5
+scandens,CAS,7383,Pinzon,scandensPinzon,Female,69.5,41.2,19.5,11,8.8,8,22,20.2
+scandens,CAS,7386,Pinzon,scandensPinzon,Female,69.5,41.5,19,10.5,9.2,8,22,18.5
+scandens,CAS,7384,Pinzon,scandensPinzon,Female,68.2,40,18.2,11,9.8,7.8,22.2,20
+scandens,CAS,7385,Pinzon,scandensPinzon,Female,67.2,41.2,18.8,11,8.2,7,21.5,19
+scandens,CAS,7382,Pinzon,scandensPinzon,Female,65,37.5,19.5,11,8.5,7,21.5,19
+scandens,CAS,7380,Pinzon,scandensPinzon,Female,68,39.2,19.5,11.5,9.2,7.8,22,19.8
+scandens,CAS,7387,Pinzon,scandensPinzon,Female,67.2,39,16.5,9.2,8.2,7,20.5,17
+scandens,CAS,7388,Isabela,scandensIsabela,Female,70,43,19,11.5,9,7.2,22,20
+scandens,CAS,7389,Isabela,scandensIsabela,Female,72.5,43.5,20,11.5,9,7.2,22,19.2
+scandens,CAS,7391,Isabela,scandensIsabela,Female,66,40.5,17.5,10.2,8.5,7,21.5,18.5
+scandens,CAS,7392,Isabela,scandensIsabela,Female,65,39,17.8,11,8.5,6.5,21,20
+scandens,CAS,7390,Isabela,scandensIsabela,Female,69,41.5,20,11,9.5,7.8,22,20
+scandens,CAS,7379,Rabida,scandensRabida,Female,64,36.5,17,10,8,6.8,21.5,18
+scandens,CAS,7374,Rabida,scandensRabida,Female,68,39.5,20,11.5,9.5,7.5,20.5,19
+scandens,CAS,7377,Rabida,scandensRabida,Female,66.8,40,16.5,9.5,9,7.2,20.5,18.5
+scandens,CAS,7378,Rabida,scandensRabida,Female,66,36,19,11.5,9.2,7.2,21,19
+scandens,CAS,7375,Rabida,scandensRabida,Female,66.5,38.5,18.5,10.5,9,7.5,20.5,19
+scandens,CAS,6029,San Cristobal,scandensSan Cristobal,Female,67.2,42,17,8.8,10.5,9,21.2,19
+scandens,CAS,7326,San Cristobal,scandensSan Cristobal,Female,61.5,38.5,18,10.8,9.2,8,20.5,18
+scandens,CAS,7327,San Cristobal,scandensSan Cristobal,Female,64.5,39,16.8,9.5,9.5,7.2,20,18.2
+scandens,CAS,7257,Santiago,scandensSantiago,Female,68.2,42,18,10.5,8.2,7.2,20.5,19
+scandens,CAS,7342,Santa Cruz,scandensSanta Cruz,Female,69.5,42.5,20.8,11.5,9.8,7.8,23.5,20
+scandens,CAS,7359,Santa Cruz,scandensSanta Cruz,Female,67,40,21.2,12,10,8,21.8,21
+scandens,CAS,7365,Santa Cruz,scandensSanta Cruz,Female,66.5,39.5,19.2,10.5,9.2,8,20.5,19.5
+scandens,CAS,7360,Santa Cruz,scandensSanta Cruz,Female,66.5,39.5,20,11.5,8.5,7.2,20,19
+scandens,CAS,7347,Santa Cruz,scandensSanta Cruz,Female,70.5,41.5,19.5,11.5,9,7.8,21.5,20.5
+scandens,CAS,7355,Santa Cruz,scandensSanta Cruz,Female,69,40,19.8,11.2,9,7.5,22,19.5
+scandens,CAS,7356,Santa Cruz,scandensSanta Cruz,Female,66.5,39.5,18.8,11,9,7.2,20.2,18.5
+scandens,CAS,7352,Santa Cruz,scandensSanta Cruz,Female,70,40.2,19.8,12,9.5,8,21.2,19.5
+scandens,CAS,7358,Santa Cruz,scandensSanta Cruz,Female,70,41.5,19,11,9.2,7.5,22,20
+scandens,CAS,7363,Santa Cruz,scandensSanta Cruz,Female,66,42,19.2,12,9,7.5,21.5,18
+scandens,CAS,7336,Santa Fe,scandensSanta Fe,Female,66,39,20,11.8,10,7.8,22.2,20
+scandens,CAS,7333,Santa Fe,scandensSanta Fe,Female,67.5,39,18.5,11.5,9.8,7.8,20.8,19.2
+scandens,CAS,7334,Santa Fe,scandensSanta Fe,Female,68.2,40,19.5,11.5,10.5,8,21.5,18
+scandens,CAS,7339,Santa Fe,scandensSanta Fe,Female,67.5,44,19.5,12,10.2,8,22,18.5
+scandens,CAS,7329,Santa Fe,scandensSanta Fe,Female,67.5,39.5,18.5,11,9.2,7.5,21.5,19.5
+scandens,CAS,7328,Santa Fe,scandensSanta Fe,Female,64.5,39.8,17.5,10.2,10,7.5,20.8,19
+scandens,CAS,7331,Santa Fe,scandensSanta Fe,Female,66,40,19.2,11,9.5,8,22.5,19
+scandens,CAS,7332,Santa Fe,scandensSanta Fe,Female,70.5,44,18.2,11,8.8,7,21.2,20
+scandens,CAS,7330,Santa Fe,scandensSanta Fe,Female,68,41.5,20,11,10.2,8,22,19.5
+scandens,CAS,7338,Santa Fe,scandensSanta Fe,Female,66,40.2,19.8,11.5,9.2,8.2,22.2,20
+scandens,CAS,7277,Floreana,scandensFloreana,Female,64.2,35.2,16.5,9.2,8.5,7,21,19
+scandens,CAS,7273,Floreana,scandensFloreana,Female,68,44.2,18.5,11,9.5,7.5,21,19
+scandens,CAS,7286,Floreana,scandensFloreana,Female,67,42.5,16.2,9.8,8.5,7,21.5,18.5
+scandens,CAS,7285,Floreana,scandensFloreana,Female,68,42,17,9.5,8.8,7.2,20.8,19
+scandens,CAS,7272,Floreana,scandensFloreana,Female,66.8,42,17.5,10.5,9.2,8,22,20
+scandens,CAS,7265,Floreana,scandensFloreana,Female,63,39,17,9.2,9,7.5,21,20
+scandens,CAS,7291,Floreana,scandensFloreana,Female,70,42.5,18.2,10.5,9.2,8,20.8,19
+scandens,CAS,7289,Floreana,scandensFloreana,Female,68,44.5,17.2,11,9,7.2,22,19
+scandens,CAS,7288,Floreana,scandensFloreana,Female,65.5,41.5,18.2,10,8.5,7.5,21,19
+scandens,CAS,7269,Floreana,scandensFloreana,Female,67.8,42,18,10.5,9.2,7.5,21.2,19.2
+conirostris,CAS,6682,Genovesa,conirostrisGenovesa,Female,71.5,44.2,20,11,12.2,10,23,21.2
+conirostris,CAS,6684,Genovesa,conirostrisGenovesa,Female,71,43.8,18.5,10.5,12,9.2,23.5,21.8
+conirostris,CAS,6685,Genovesa,conirostrisGenovesa,Female,72,44,20,11,12.5,10,22.5,19.2
+conirostris,CAS,6687,Genovesa,conirostrisGenovesa,Female,71.5,42,20,10.5,14,11.2,24.5,21
+conirostris,Stanford University,5244,Genovesa,conirostrisGenovesa,Female,72.2,44.2,19.8,11,12,9.2,24,22
+conirostris,Stanford University,4191,Genovesa,conirostrisGenovesa,Female,,43,21,11,12.2,9,23,21.2
+conirostris,CAS,6744,Espanola,conirostrisEspanola,Female,75.5,42,19.2,11,14,11,23,22
+conirostris,CAS,6737,Espanola,conirostrisEspanola,Female,76.5,45.5,21,12,16.2,11.5,24,23
+conirostris,CAS,6749,Espanola,conirostrisEspanola,Female,72.2,42.5,20,11,14,11,22.2,23
+conirostris,CAS,6727,Espanola,conirostrisEspanola,Female,75,44.2,21,12,16.5,12.2,23.5,21
+conirostris,CAS,6728,Espanola,conirostrisEspanola,Female,78,45,21.2,12.2,16,12.2,23,23
+conirostris,CAS,6730,Espanola,conirostrisEspanola,Female,75,45.2,21,11.2,15.2,11.5,22.5,22.2
+conirostris,CAS,6742,Espanola,conirostrisEspanola,Female,76.2,42,21.2,12,16,12.2,24,23.2
+conirostris,CAS,6748,Espanola,conirostrisEspanola,Female,76,44.2,19.8,11.2,14.5,10.8,22.8,21
+conirostris,CAS,6689,Espanola,conirostrisEspanola,Female,76.5,45.5,18.5,11,13.5,10,23,21.8
+conirostris,CAS,6703,Espanola,conirostrisEspanola,Female,76,46,22.2,13.2,17.2,12.5,24,21.5
+conirostris,CAS,6734,Gardner,conirostrisGardner,Female,74.5,46,19,10.5,13,10,23.2,20.5
+conirostris,CAS,6717,Gardner,conirostrisGardner,Female,72.5,44,17,9.5,12.5,9.2,23,20.2
+conirostris,CAS,6725,Gardner,conirostrisGardner,Female,73.5,47,18,10.2,13.2,10.2,22,20.5
+conirostris,CAS,6726,Gardner,conirostrisGardner,Female,76,48.5,20,11.5,15.5,11.5,22.5,20
+conirostris,CAS,6745,Gardner,conirostrisGardner,Female,73,42,20,11.2,14,10.5,22,20.5
+conirostris,CAS,6747,Gardner,conirostrisGardner,Female,71,44,18.5,11,15,11.2,22,20
+conirostris,CAS,6755,Gardner,conirostrisGardner,Female,75.2,47,17,10,13.5,10,23,22
+conirostris,CAS,6746,Gardner,conirostrisGardner,Female,74,42.8,19,12,14.5,11,22,20.5
+conirostris,CAS,6753,Gardner,conirostrisGardner,Female,73.2,41.2,19.2,11.2,14.5,10.5,21.5,21
+conirostris,CAS,6720,Gardner,conirostrisGardner,Female,76,46,22,12.5,16,12.5,23.2,22
+magnirostris,CAS,37916,Genovesa,magnirostrisGenovesa,Female,83.5,,24.5,12,21.5,16,25.5,23
+magnirostris,CAS,37918,Genovesa,magnirostrisGenovesa,Female,77.5,,23,12.2,21,15,25,20.5
+magnirostris,CAS,37915,Genovesa,magnirostrisGenovesa,Female,79,50.5,23,13,21,16,25,22
+magnirostris,CAS,37926,Santiago,magnirostrisSantiago,Female,81.5,49,24,12.5,21.2,15.5,24,20.5
+magnirostris,CAS,37927,Santiago,magnirostrisSantiago,Female,79.5,49,23,12.2,21.2,16,26,26
+magnirostris,CAS,37930,Santiago,magnirostrisSantiago,Female,77,48,20,11.5,19.5,14.5,22.5,22.5
