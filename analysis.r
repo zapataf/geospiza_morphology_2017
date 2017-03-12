@@ -75,7 +75,7 @@ pca_results <-
             LnBdepth = Bdepth, 
             LnBwidth = Bwidth, 
             LnTarsus = Tarsus ) %>%
-    prcomp(center=T, scale.=F) # PCA using covariance matrix (ie., not scaled)
+    prcomp( center = T, scale. = F ) # PCA using covariance matrix (ie., not scaled)
 
 clean_data_pca <- bind_cols( clean_data, tbl_df( pca_results$x ) ) # Tibble with original data plus values for all PC Axes
 
