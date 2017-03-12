@@ -67,7 +67,7 @@ ggpairs(clean_data, aes( color = Taxon, alpha = 0.7 ),
 pca_results <- 
   clean_data %>%
     #select( Wing:Tarsus ) %>% # Select traits
-    select( Wing:Blength, Bdepth:Tarsus )
+    select( Wing:Blength, Bdepth:Tarsus ) %>%
     mutate_each( funs( log( . ) ) ) %>% # log-transform traits
     rename( LnWing = Wing, 
             LnTail = Tail, 
