@@ -45,7 +45,7 @@ ggplot(clean_data, aes(Tail) ) + # Change trait to be plotted
 
 # Bivariate plots
 ggplot(clean_data) +
-  geom_point(aes( x = Wing, y = Tail) ) + # Change traits to of interest
+  geom_point(aes( x = Wing, y = Tail) ) + # Change to traits of interest
   facet_wrap(~ Taxon) +
   theme_bw()
 
