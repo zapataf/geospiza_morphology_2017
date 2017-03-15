@@ -4,7 +4,7 @@ library(GGally)
 library(clustvarsel)
 
 # Load data -------------------------
-raw_data <- read_csv("./data/CAS_Swarth_Gesopiza.csv")
+raw_data <- read_csv( "./data/CAS_Swarth_Gesopiza.csv" )
 raw_data
 #View(original_finches_data) # View as table - interactive
 
@@ -35,7 +35,7 @@ pca_results <-
             LnBdepth = Bdepth, 
             LnBwidth = Bwidth, 
             LnTarsus = Tarsus ) %>%
-    prcomp( center = T, scale. = F ) %>% # PCA using covariance matrix (ie., not scaled)
+    prcomp( center = T, scale. = F )  # PCA using covariance matrix (ie., not scaled)
 
 clean_data_pca <- bind_cols( clean_data, tbl_df( pca_results$x ) ) # Tibble with original data plus values for all PC Axes
 
@@ -78,7 +78,7 @@ h_lack <-
 #h_lack$models # Uncomment to see details
 #h_lack$bic # Uncomment to see BIC support
 
-# Empirical support for the hypothesis of species limits based on currentl taxonomy -------------------------
+# Empirical support for the hypothesis of species limits based on current taxonomy -------------------------
 h_current_taxonomy <-
   clean_data_pca %>%
     select( PC1:PC4 ) %>%
@@ -91,41 +91,41 @@ h_current_taxonomy <-
 # Plot empirical support for different hypotheses of species limits -------------------------
 
 as_tibble( bic_best_model_per_group ) %>%
-              ggplot( aes( x = seq_along( value ), y = value) ) +
+              ggplot( aes( x = seq_along( value ), y = value ) ) +
                 scale_x_continuous( breaks = 1:30 ) +
                 xlab( "Number of morphological groups" ) +
                 ylab( "Empirical support (BIC)" ) +              
                 geom_point( color = "transparent" ) +
                 #geom_point( subset(as_tibble( bic_best_model_per_group ), value == 3054.508), color="red" ) +
-                geom_vline( xintercept = clean_data_pca_varsel_gmm$G, linetype = "dashed") +
-                geom_vline( xintercept = length(unique(clean_data_pca$Taxon)), linetype = "dashed") +
-                geom_vline( xintercept = length(unique(clean_data_pca$New_Taxonomy)), linetype = "dashed") +
-                theme(axis.line = element_line( color = "black", size = 0.5), 
-                      axis.title = element_text( size = 15 ), 
-                      axis.text = element_text( size = 10 ),
-                      panel.border = element_rect( color = "transparent", fill=NA ),
-                      panel.grid.minor.y = element_line( size = 0.1, color = "grey" ),
-                      panel.background = element_rect( fill = "transparent" ) )  
+                geom_vline( xintercept = clean_data_pca_varsel_gmm$G, linetype = "dashed" ) +
+                geom_vline( xintercept = length(unique(clean_data_pca$Taxon)), linetype = "dashed" ) +
+                geom_vline( xintercept = length(unique(clean_data_pca$New_Taxonomy)), linetype = "dashed" ) +
+                theme( axis.line = element_line( color = "black", size = 0.5), 
+                       axis.title = element_text( size = 15 ), 
+                       axis.text = element_text( size = 10 ),
+                       panel.border = element_rect( color = "transparent", fill = NA ),
+                       panel.grid.minor.y = element_line( size = 0.1, color = "grey" ),
+                       panel.background = element_rect( fill = "transparent" ) )  
 
 # Usueful summaries -------------------------
 
 # Create tibble adding mclust classification result to full data
 
 clean_data_pca_mclust <- 
-  bind_cols( clean_data_pca, tibble(mcluster_classification = clean_data_pca_varsel_gmm$classification) )
+  bind_cols( clean_data_pca, tibble( mcluster_classification = clean_data_pca_varsel_gmm$classification ) )
 
 # Islands per morphological group
 
 clean_data_pca_mclust %>% 
-  group_by(mcluster_classification) %>% 
-  summarise(n_distinct(Island)) #%>% # Uncomment here and below to see median
+  group_by( mcluster_classification ) %>% 
+  summarise( n_distinct( Island ) ) #%>% # Uncomment here and below to see median
   #summarise(median(`n_distinct(Island)`))
 
 # Morphological groups per island
 
 clean_data_pca_mclust %>% 
-  group_by(Island) %>% 
-  summarise(n_distinct(mcluster_classification))
+  group_by( Island ) %>% 
+  summarise(n_distinct( mcluster_classification ) )
 
 # Scatterplots  -------------------------
 
@@ -137,17 +137,17 @@ morphogroups_colors <- c( "#999999",
                           "#F0E442", 
                           "#0072B2", 
                           "#D55E00", 
-                          "#CC79A7") 
+                          "#CC79A7" ) 
 
 # Plot
 clean_data_pca_mclust %>% 
-  ggplot( aes( x = PC1, y = PC2, color = factor(mcluster_classification))) +
+  ggplot( aes( x = PC1, y = PC2, color = factor( mcluster_classification ) ) ) +
     geom_point(size = 3, shape = 21, stroke = 1) +
-    scale_color_manual( values = morphogroups_colors) + 
+    scale_color_manual( values = morphogroups_colors ) + 
     theme(axis.line = element_line( color = "black", size = 0.5),
           axis.title = element_text( size = 15 ), 
           axis.text = element_text( size = 14 ),
-          panel.border = element_rect( color = "transparent", fill=NA ),
+          panel.border = element_rect( color = "transparent", fill = NA ),
           panel.background = element_rect( fill = "transparent" ) )  
                                                                                                                                           
 # TO DO: make this a loop to plot all by all PCs and then loadings.
@@ -157,20 +157,20 @@ clean_data_pca_mclust %>%
 # model and slternative hypotheses -------------------------
 
 clean_data_pca_mclust  %>% 
-  ggplot(aes (mcluster_classification, fill = factor(mcluster_classification))) + 
+  ggplot(aes (mcluster_classification, fill = factor( mcluster_classification ) ) ) + 
     geom_histogram( binwidth = 1 ) + 
     scale_fill_manual( values = morphogroups_colors) +
     scale_x_continuous( breaks = 1:8 ) +
     facet_grid( ~ Taxon) + # Change to New_Taxonomy to generate histrogram for current taxonomy
-    xlab("Morphological groups") +
-    ylab("Specimens") +
+    xlab( "Morphological groups" ) +
+    ylab( "Specimens" ) +
     theme(axis.line = element_line( color = "black", size = 0.3),
           axis.text = element_text( size = 12 ),
           axis.title = element_text( size = 15 ),
-          panel.border = element_rect( color = "transparent", fill=NA ),
+          panel.border = element_rect( color = "transparent", fill = NA ),
           panel.grid.minor.y = element_line( size = 0.1, color = "grey" ),
-          panel.background = element_rect( color = "grey" , fill = NA), 
-          legend.position = "none")
+          panel.background = element_rect( color = "grey" , fill = NA ), 
+          legend.position = "none" )
 
 # Exploratory Data Analysis (EDA) -------------------------
 
@@ -178,12 +178,12 @@ clean_data_pca_mclust  %>%
 clean_data %>%
   ggplot(aes( Tail ) ) + # Change trait to be plotted
     geom_histogram( binwidth = 1 ) + # May need to adjust binwidth if traits changes
-    facet_grid( ~ Taxon) +
+    facet_grid( ~ Taxon ) +
     labs( y = "Specimens" ) +
     theme(axis.line = element_line( color = "black", size = 0.3),
           axis.text = element_text( size = 14 ),
           axis.title = element_text( size = 15 ),
-          panel.border = element_rect( color = "transparent", fill=NA ),
+          panel.border = element_rect( color = "transparent", fill = NA ),
           panel.grid.minor.y = element_line( size = 0.1, color = "grey" ),
           panel.background = element_rect( color = "grey" , fill = NA)) 
 
@@ -191,22 +191,22 @@ clean_data %>%
 clean_data %>%
   ggplot(aes( x = Wing, y = Tail ) ) + # Change to traits of interest
     geom_point() + 
-    facet_wrap(~ Taxon) +
+    facet_wrap( ~ Taxon ) +
     theme_bw() +
-    theme(axis.text = element_text( size = 14 ),
-          axis.title = element_text( size = 15 ))
+    theme( axis.text = element_text( size = 14 ),
+           axis.title = element_text( size = 15 ) )
 
 clean_data %>%
-  ggplot( aes( x = Wing, y = Tail, color = Taxon) ) + # Change to traits of interest
+  ggplot( aes( x = Wing, y = Tail, color = Taxon ) ) + # Change to traits of interest
     geom_point() +
     theme_bw() +
-    theme(axis.text = element_text( size = 14 ),
-          axis.title = element_text( size = 15 ))
+    theme( axis.text = element_text( size = 14 ),
+           axis.title = element_text( size = 15 ) )
 
 # All pairs of traits
 clean_data %>%  
   ggpairs(aes( color = Taxon, alpha = 0.7 ),
-         columns = c("Wing", "Tail", "Blength", "Bdepth", "Bwidth", "Tarsus"),
+         columns = c( "Wing", "Tail", "Blength", "Bdepth", "Bwidth", "Tarsus" ),
          upper = list( continuous = "density" ),
          lower = list( continuous = "points" ),
          axisLabels = "show"
