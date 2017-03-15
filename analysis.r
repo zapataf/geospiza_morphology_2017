@@ -114,14 +114,14 @@ as_tibble( bic_best_model_per_group ) %>%
 clean_data_pca_mclust <- 
   bind_cols( clean_data_pca, tibble( mcluster_classification = clean_data_pca_varsel_gmm$classification ) )
 
-# Islands per morphological group
+# How many islands per morphological group
 
 clean_data_pca_mclust %>% 
   group_by( mcluster_classification ) %>% 
   summarise( n_distinct( Island ) ) #%>% # Uncomment here and below to see median
   #summarise(median(`n_distinct(Island)`))
 
-# Morphological groups per island
+# How many morphological groups per island
 
 clean_data_pca_mclust %>% 
   group_by( Island ) %>% 
