@@ -40,8 +40,8 @@ pca_results <-
 clean_data_pca <- bind_cols( clean_data, tbl_df( pca_results$x ) ) # Tibble with original data plus values for all PC Axes
 
 # Variable Selection using all PC Axes -------------------------
-# (Because "forward" search generated the same subset of variables (see Exploratory Analyses below)
-# here we carry out the analysis with backward search. For detail see ?clustvarsel)
+# (Because "forward" search generated the same subset of variables (see Exploratory Analyses below),
+# we carried out the analyses with backward search. For details see ?clustvarsel)
 
 clean_data_pca_varsel <-
   clean_data_pca %>%
@@ -54,7 +54,7 @@ clean_data_pca_varsel <-
 
 mclust.options() # Check Mclust options
 opt_mc <- mclust.options() # Save default
-mclust.options( hcUse = "VARS" ) # Change default as needed
+mclust.options( hcUse = "VARS" ) # Change default to VARS (ie, original variables), or as needed. For details, see ?mclust.options 
 
 clean_data_pca_varsel_gmm <-
   clean_data_pca %>%
@@ -143,6 +143,8 @@ clean_data_pca_mclust %>%
 
 # Scatterplots  -------------------------
 
+source( "functions.r" ) # Function to create each panel
+
 # Define colors
 morphogroups_colors <- c( "#999999", 
                           "#E69F00", 
@@ -168,7 +170,17 @@ clean_data_pca_mclust %>%
                                                                                                                                           
 # TO DO: make this a loop to plot all by all PCs and then loadings.
 
-g = ggpairs(clean_data_pca_mclust, columns = 15: 18, lower = list(continuous = pairwise_scatterplot))
+pairwise_plots <- list()
+
+dimensions <- c("PC1", "PC2", "PC3", "PC4")
+for (i in 1:nrow(t(combn(dimensions, 2)))){
+  x = t(combn(dimensions, 2))[i,][1]
+  y = t(combn(dimensions, 2))[i,][2]
+  cat(x, y, sep=",")
+  pairwise_plots[[i]] <- pairwise_scatterplot(data = clean_data_pca_mclust, 
+                                              aes( x = x, y = y, color = factor( mcluster_classification ) ) )
+    }
+
 
 # Plot loadings --------------------
 
@@ -197,7 +209,6 @@ as_tibble( pca_results$rotation ) %>%
     theme(axis.line = element_line( color = "transparent"),
           axis.title = element_text( size = 15 ), 
           axis.text = element_text( size = 13, color = "black" ),
-          #axis.line = element_line( color = "transparent"),
           panel.background=element_blank(),
           panel.border=element_blank(),
           panel.grid.major.x = element_line( size = 0.1, color = "grey" ),
@@ -212,7 +223,7 @@ clean_data_pca_mclust  %>%
     geom_histogram( binwidth = 1 ) + 
     scale_fill_manual( values = morphogroups_colors) +
     scale_x_continuous( breaks = 1:8 ) +
-    facet_grid( ~ Taxon) + # Change to Taxon to generate histrogram for Lack's taxonomy
+    facet_grid( ~ New_taxonomy) + # Change to Taxon to generate histrogram for Lack's taxonomy
     xlab( "Morphological groups" ) +
     ylab( "Specimens" ) +
     theme(axis.line = element_line( color = "black", size = 0.3),
