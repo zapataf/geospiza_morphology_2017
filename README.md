@@ -2,7 +2,8 @@
 
 This repository contains the code and data of the analyses presented in:
 
-    Cadena CD, Jiménez I, Zapata F. Atlantean evolution in Darwin’s finches: Issues in species delimitation using phenotypic data.
+    Cadena CD, Jiménez I, Zapata F. Atlantean evolution in Darwin’s finches: 
+    Issues in species delimitation using phenotypic data.
 
 
 # Dependencies
