@@ -40,7 +40,7 @@ pca_results <-
 clean_data_pca <- bind_cols( clean_data, tbl_df( pca_results$x ) ) # Tibble with original data plus values for all PC Axes
 
 # Variable Selection using all PC Axes -------------------------
-# (Because "forward" search generated the same subset of variables (see Supplementary Material)
+# (Because "forward" search generated the same subset of variables (see Exploratory Analyses below)
 # here we carry out the analysis with backward search. For detail see ?clustvarsel)
 
 clean_data_pca_varsel <-
@@ -96,7 +96,7 @@ as_tibble( bic_best_model_per_group ) %>%
                 xlab( "Number of morphological groups" ) +
                 ylab( "Empirical support (BIC)" ) +              
                 geom_point( color = "transparent" ) +
-                #geom_point( subset(as_tibble( bic_best_model_per_group ), value == 3054.508), color="red" ) +
+                geom_point( ) +
                 geom_vline( xintercept = clean_data_pca_varsel_gmm$G, linetype = "dashed" ) +
                 geom_vline( xintercept = length(unique(clean_data_pca$Taxon)), linetype = "dashed" ) +
                 geom_vline( xintercept = length(unique(clean_data_pca$New_Taxonomy)), linetype = "dashed" ) +
@@ -114,18 +114,32 @@ as_tibble( bic_best_model_per_group ) %>%
 clean_data_pca_mclust <- 
   bind_cols( clean_data_pca, tibble( mcluster_classification = clean_data_pca_varsel_gmm$classification ) )
 
-# How many islands per morphological group
+# How many islands per morphological group?
 
 clean_data_pca_mclust %>% 
   group_by( mcluster_classification ) %>% 
   summarise( n_distinct( Island ) ) #%>% # Uncomment here and below to see median
   #summarise(median(`n_distinct(Island)`))
 
-# How many morphological groups per island
+# How many morphological groups per island?
 
 clean_data_pca_mclust %>% 
   group_by( Island ) %>% 
-  summarise(n_distinct( mcluster_classification ) )
+  summarise(n_distinct( mcluster_classification ), n_distinct( `Taxon-Island` ) )
+
+# How many specimens for each species sensu Lack are assigned to different morphological groups?
+
+clean_data_pca_mclust %>% 
+  group_by( Taxon,  mcluster_classification ) %>% 
+  tally() %>%
+  mutate( fraction = n / sum(n))
+
+# How many specimens for each species sensu current taxonomy are assigned to different morphological groups?
+
+clean_data_pca_mclust %>% 
+  group_by( New_Taxonomy,  mcluster_classification ) %>% 
+  tally() %>%
+  mutate( fraction = n / sum(n))
 
 # Scatterplots  -------------------------
 
@@ -142,26 +156,63 @@ morphogroups_colors <- c( "#999999",
 # Plot
 clean_data_pca_mclust %>% 
   ggplot( aes( x = PC1, y = PC2, color = factor( mcluster_classification ) ) ) +
-    geom_point(size = 3, shape = 21, stroke = 1) +
+    geom_point(size = 3, shape = 21, stroke = 1, alpha = 0.8 ) +
+    stat_ellipse( type = "norm", level = 0.95, segments = 1000 ) +
     scale_color_manual( values = morphogroups_colors ) + 
     theme(axis.line = element_line( color = "black", size = 0.5),
           axis.title = element_text( size = 15 ), 
           axis.text = element_text( size = 14 ),
           panel.border = element_rect( color = "transparent", fill = NA ),
-          panel.background = element_rect( fill = "transparent" ) )  
+          panel.background = element_rect( fill = "transparent" ),
+          legend.position = "none" )  
                                                                                                                                           
 # TO DO: make this a loop to plot all by all PCs and then loadings.
 
+g = ggpairs(clean_data_pca_mclust, columns = 15: 18, lower = list(continuous = pairwise_scatterplot))
+
+# Plot loadings --------------------
+
+# Make a circle as it's customary in PCA loadings plots
+angle <- seq( -pi, pi, length = 50 ) 
+circle_df <- data.frame( x = sin( angle ), y = cos( angle ) )
+
+as_tibble( pca_results$rotation ) %>%
+  ggplot() +
+    stat_ellipse( aes( x, y ), 
+                  data = circle_df, 
+                  color = "grey80", 
+                  type = "euclid", 
+                  level = 0.5 ) +
+    xlim(-1,1) +
+    ylim(-1,1) +
+    xlab("Loadings PC3") + 
+    ylab("Loadings PC4") +
+    geom_segment( aes( x = 0, y = 0, xend = PC3*0.9, yend = PC4*0.9 ), 
+                  arrow = arrow( length = unit( 1/2, 'picas' ) ), 
+                  color = "grey50") +
+    geom_text( aes( x = PC3, y = PC4,
+                    label = c("Wing length", "Tail length", "Bill length", "Bill depth", "Bill width", "Tarsus length")), 
+               size = 4.5, 
+               check_overlap = TRUE, color = "black", fontface = "bold") +
+    theme(axis.line = element_line( color = "transparent"),
+          axis.title = element_text( size = 15 ), 
+          axis.text = element_text( size = 13, color = "black" ),
+          #axis.line = element_line( color = "transparent"),
+          panel.background=element_blank(),
+          panel.border=element_blank(),
+          panel.grid.major.x = element_line( size = 0.1, color = "grey" ),
+          panel.grid.major.y = element_line( size = 0.1, color = "grey" ),
+          legend.position = "none" )
 
 # Compare assignment of specimens to groups between the best Mclust 
-# model and slternative hypotheses -------------------------
+# model and alternative hypotheses -------------------------
 
 clean_data_pca_mclust  %>% 
   ggplot(aes (mcluster_classification, fill = factor( mcluster_classification ) ) ) + 
     geom_histogram( binwidth = 1 ) + 
     scale_fill_manual( values = morphogroups_colors) +
     scale_x_continuous( breaks = 1:8 ) +
-    facet_grid( ~ Taxon) + # Change to New_Taxonomy to generate histrogram for current taxonomy
+    facet_grid( ~ Taxon) + # Change to Taxon to generate histrogram for Lack's taxonomy
     xlab( "Morphological groups" ) +
     ylab( "Specimens" ) +
     theme(axis.line = element_line( color = "black", size = 0.3),
@@ -169,7 +220,8 @@ clean_data_pca_mclust  %>%
           axis.title = element_text( size = 15 ),
           panel.border = element_rect( color = "transparent", fill = NA ),
           panel.grid.minor.y = element_line( size = 0.1, color = "grey" ),
-          panel.background = element_rect( color = "grey" , fill = NA ), 
+          panel.background = element_rect( color = "grey" , fill = NA ),
+          strip.text = element_text( face = "italic"),
           legend.position = "none" )
 
 # Exploratory Data Analysis (EDA) -------------------------
@@ -185,7 +237,8 @@ clean_data %>%
           axis.title = element_text( size = 15 ),
           panel.border = element_rect( color = "transparent", fill = NA ),
           panel.grid.minor.y = element_line( size = 0.1, color = "grey" ),
-          panel.background = element_rect( color = "grey" , fill = NA)) 
+          panel.background = element_rect( color = "grey" , fill = NA),
+          strip.text = element_text( face = "italic")) 
 
 # Bivariate plots
 clean_data %>%
@@ -194,7 +247,8 @@ clean_data %>%
     facet_wrap( ~ Taxon ) +
     theme_bw() +
     theme( axis.text = element_text( size = 14 ),
-           axis.title = element_text( size = 15 ) )
+           axis.title = element_text( size = 15 ),
+           strip.text = element_text( face = "italic") )
 
 clean_data %>%
   ggplot( aes( x = Wing, y = Tail, color = Taxon ) ) + # Change to traits of interest
