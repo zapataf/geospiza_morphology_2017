@@ -10,7 +10,7 @@ This repository contains the code and data of the analyses presented in:
 
 The scripts require R and several libraries. See `analysis.r` for details.
 
-The code presented here is written following standard practices in data science using `tiddyverse` syntax. To learn more about this, we stronlgy recommend this excellent resource: [R for Data Science](http://r4ds.had.co.nz). We also provide the same code for analyses in Base R as supplementary online material to our paper. 
+The code presented here is written using the `tidyverse` syntax. To learn more about this, we stronlgy recommend this excellent resource: [R for Data Science](http://r4ds.had.co.nz). We also provide the same code for all analyses in Base R as supplementary online material to our paper. 
 
 # Data
 
