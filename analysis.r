@@ -6,7 +6,7 @@ library(GGally)
 library(clustvarsel)
 
 # Load data -------------------------
-raw_data <- read_csv( "./data/CAS_Swarth_Gesopiza.csv" )
+raw_data <- read_csv( "./data/CAS_Swarth_Geospiza.csv" )
 raw_data
 #View(original_finches_data) # View as table - interactive
 
