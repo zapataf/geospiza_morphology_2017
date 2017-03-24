@@ -1,3 +1,5 @@
+# This code was written collaboratively by C.D. Cadena, I. Jiménez and F. Zapata
+
 library(tidyverse)
 library(magrittr)
 library(GGally)
