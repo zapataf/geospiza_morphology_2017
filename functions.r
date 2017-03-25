@@ -10,7 +10,7 @@ pairwise_scatterplot = function(df, mapping, ...) {
             panel.border = element_rect( color = "transparent", fill = NA ),
             panel.background = element_rect( fill = "transparent" ),
             legend.position = "none" )
-  #p
+  p
 }
 
 

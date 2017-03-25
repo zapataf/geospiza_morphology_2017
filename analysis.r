@@ -70,6 +70,14 @@ clean_data_pca_varsel_gmm <-
 # Extract BIC values for the best model conditional on the number of groups
 bic_best_model_per_group <- apply( clean_data_pca_varsel_gmm$BIC, 1, max, na.rm = T )
 
+# Because model with 7 groups is equally supported, this is the classification of specimens to 7 groups
+
+clean_data_pca_varsel_gmm_7groups <-
+  clean_data_pca %>%
+  select( PC1:PC4 ) %>%
+  Mclust( G = 7 )
+
+
 # Empirical support for the hypothesis of species limits by Lack (1947) -------------------------
 h_lack <-
   clean_data_pca %>%
@@ -110,10 +118,12 @@ as_tibble( bic_best_model_per_group ) %>%
 
 # Usueful summaries -------------------------
 
-# Create tibble adding mclust classification result to full data
+# Create tibble adding best mclust classification result (with 8 and 7 groups) to full data and 
 
 clean_data_pca_mclust <- 
-  bind_cols( clean_data_pca, tibble( mcluster_classification = clean_data_pca_varsel_gmm$classification ) )
+  bind_cols( clean_data_pca, 
+             tibble( mcluster_classification = clean_data_pca_varsel_gmm$classification ), 
+             tibble( mcluster_classification7 = clean_data_pca_varsel_gmm_7groups$classification ) )
 
 # How many islands per morphological group?
 
@@ -144,8 +154,6 @@ clean_data_pca_mclust %>%
 
 # Scatterplots  -------------------------
 
-source( "functions.r" ) # Function to create each panel
-
 # Define colors
 morphogroups_colors <- c( "#999999", 
                           "#E69F00", 
@@ -171,17 +179,63 @@ clean_data_pca_mclust %>%
                                                                                                                                           
 # TO DO: make this a loop to plot all by all PCs and then loadings.
 
-pairwise_plots <- list()
+pairwise_scatterplots <- list( )
+pairwise_loadingsplots <- list( )
+dimensions <- c( "PC1", "PC2", "PC3", "PC4" )
 
-dimensions <- c("PC1", "PC2", "PC3", "PC4")
-for (i in 1:nrow(t(combn(dimensions, 2)))){
-  x = t(combn(dimensions, 2))[i,][1]
-  y = t(combn(dimensions, 2))[i,][2]
-  cat(x, y, sep=",")
-  pairwise_plots[[i]] <- pairwise_scatterplot(data = clean_data_pca_mclust, 
-                                              aes( x = x, y = y, color = factor( mcluster_classification ) ) )
-    }
+for (i in 1:nrow(t(combn( dimensions, 2 ) ) ) ) {
+  xvalue = t( combn( dimensions, 2 ) )[i,][1]
+  yvalue = t( combn( dimensions, 2 ) )[i,][2]
+  angle <- seq( -pi, pi, length = 50 ) 
+  circle_df <- data.frame( x = sin( angle ), y = cos( angle ) )
 
+  pairwise_scatterplots[[i]] <- ggplot( data = clean_data_pca_mclust, 
+                                        mapping = aes_string( x = xvalue, y = yvalue ) ) +
+                                  geom_point( size = 3, 
+                                              shape = 21, 
+                                              stroke = 1, 
+                                              alpha = 0.8, 
+                                              aes( color = factor( mcluster_classification ) ) ) +
+                                  stat_ellipse( type = "norm", 
+                                                level = 0.95, 
+                                                segments = 1000, 
+                                                aes( color = factor( mcluster_classification ) ) ) +
+                                  scale_color_manual( values = morphogroups_colors ) + 
+                                  theme( axis.line = element_line( color = "black", size = 0.5),
+                                         axis.title = element_text( size = 15 ), 
+                                         axis.text = element_text( size = 14 ),
+                                         panel.border = element_rect( color = "transparent", fill = NA ),
+                                         panel.background = element_rect( fill = "transparent" ),
+                                         legend.position = "none" )  
+        
+  pairwise_loadingsplots[[i]] <- ggplot( data = as_tibble( pca_results$rotation ) ) +
+  									              xlim( -1, 1 ) +
+                  								ylim( -1, 1 ) +
+                  								stat_ellipse( aes( x, y ), 
+                                									data = circle_df, 
+                                									color = "grey80", 
+                                									type = "euclid", 
+                                									level = 0.5 ) +
+                  								xlab( "Loadings PC3" ) + 
+                  								ylab( "Loadings PC4" ) +
+                  								geom_segment( aes(x = 0, y = 0, xend = xvalue*0.9, yend = yvalue*0.9 ),
+                  								              arrow = arrow( length = unit( 1/2, "picas" ) ), 
+                                								color = "grey50" ) +
+                  								geom_text( aes( x = xvalue, y = yvalue,
+                                  					   label = c( "Wing length", "Tail length", "Bill length", "Bill depth", "Bill width", "Tarsus length" ) ), 
+                             							   size = 4.5, 
+                             							   check_overlap = TRUE, 
+                             							   color = "black", 
+                             							   fontface = "bold" ) +
+                  								theme( axis.line = element_line( color = "transparent"),
+                         								 axis.title = element_text( size = 15 ), 
+                         								 axis.text = element_text( size = 13, color = "black" ),
+                                         panel.background = element_blank( ),
+                                         panel.border = element_blank( ),
+                                         panel.grid.major.x = element_line( size = 0.1, color = "grey" ),
+                                         panel.grid.major.y = element_line( size = 0.1, color = "grey" ),
+                                         legend.position = "none" )
+  }
 
 # Plot loadings --------------------
 
@@ -191,20 +245,20 @@ circle_df <- data.frame( x = sin( angle ), y = cos( angle ) )
 
 as_tibble( pca_results$rotation ) %>%
   ggplot( ) +
+    xlim(-1,1) +
+    ylim(-1,1) +
     stat_ellipse( aes( x, y ), 
                   data = circle_df, 
                   color = "grey80", 
                   type = "euclid", 
                   level = 0.5 ) +
-    xlim(-1,1) +
-    ylim(-1,1) +
     xlab( "Loadings PC3" ) + 
     ylab( "Loadings PC4" ) +
     geom_segment( aes( x = 0, y = 0, xend = PC3*0.9, yend = PC4*0.9 ), 
-                  arrow = arrow( length = unit( 1/2, 'picas' ) ), 
+                  arrow = arrow( length = unit( 1/2, "picas" ) ), 
                   color = "grey50" ) +
     geom_text( aes( x = PC3, y = PC4,
-                    label = c("Wing length", "Tail length", "Bill length", "Bill depth", "Bill width", "Tarsus length")), 
+                    label = c( "Wing length", "Tail length", "Bill length", "Bill depth", "Bill width", "Tarsus length" ) ), 
                size = 4.5, 
                check_overlap = TRUE, color = "black", fontface = "bold" ) +
     theme( axis.line = element_line( color = "transparent"),
@@ -216,15 +270,24 @@ as_tibble( pca_results$rotation ) %>%
            panel.grid.major.y = element_line( size = 0.1, color = "grey" ),
            legend.position = "none" )
 
+
+# General Legend
+plot(c(0,1), c(0,1), type="n", axes=F, bty="n", 
+    xlab="", ylab="")
+legend(0.2, 0.9,
+	paste("Morphological group", 1:7),
+	col=morpho.groups.colors[1:8], 	pch=21, pt.lwd=2, pt.cex=1.5, cex=1.15, bty="o")
+
+
 # Compare assignment of specimens to groups between the best Mclust 
-# model and alternative hypotheses -------------------------
+# model (8 groups) and alternative taxonomic hypotheses -------------------------
 
 clean_data_pca_mclust  %>% 
   ggplot(aes (mcluster_classification, fill = factor( mcluster_classification ) ) ) + 
     geom_histogram( binwidth = 1 ) + 
     scale_fill_manual( values = morphogroups_colors ) +
     scale_x_continuous( breaks = 1:8 ) +
-    facet_grid( ~ New_taxonomy ) + # Change to Taxon to generate histrogram for Lack's taxonomy
+    facet_grid( ~ New_Taxonomy ) + # Change to Taxon to generate histrogram for Lack's taxonomy
     xlab( "Morphological groups" ) +
     ylab( "Specimens" ) +
     theme( axis.line = element_line( color = "black", size = 0.3 ),
@@ -235,6 +298,27 @@ clean_data_pca_mclust  %>%
            panel.background = element_rect( color = "grey" , fill = NA ),
            strip.text = element_text( face = "italic" ),
            legend.position = "none" )
+
+
+# Compare assignment of specimens to groups between the two equally supported 
+# Mclust models (8 and 7 groups) -------------------------
+
+clean_data_pca_mclust  %>% 
+  ggplot(aes (mcluster_classification, fill = factor( mcluster_classification ) ) ) + 
+  geom_histogram( binwidth = 1 ) + 
+  scale_fill_manual( values = morphogroups_colors ) +
+  scale_x_continuous( breaks = 1:8 ) +
+  facet_grid( ~ mcluster_classification7 ) + # 
+  xlab( "Morphological groups" ) +
+  ylab( "Specimens" ) +
+  theme( axis.line = element_line( color = "black", size = 0.3 ),
+         axis.text = element_text( size = 12 ),
+         axis.title = element_text( size = 15 ),
+         panel.border = element_rect( color = "transparent", fill = NA ),
+         panel.grid.minor.y = element_line( size = 0.1, color = "grey" ),
+         panel.background = element_rect( color = "grey" , fill = NA ),
+         legend.position = "none" )
+
 
 # Exploratory Data Analysis (EDA) -------------------------
 
