@@ -70,13 +70,16 @@ clean_data_pca_varsel_gmm <-
 # Extract BIC values for the best model conditional on the number of groups
 bic_best_model_per_group <- apply( clean_data_pca_varsel_gmm$BIC, 1, max, na.rm = T )
 
-# Because model with 7 groups is equally supported, this is the classification of specimens to 7 groups
+# Because model with 7 groups is equally supported, 
+# this is the classification of specimens to 7 groups --------------------
 
 clean_data_pca_varsel_gmm_7groups <-
   clean_data_pca %>%
   select( PC1:PC4 ) %>%
   Mclust( G = 7 )
 
+#summary(clean_data_pca_varsel_gmm_7groups) # Uncomment to see details
+#clean_data_pca_varsel_gmm_7groups$bic # 
 
 # Empirical support for the hypothesis of species limits by Lack (1947) -------------------------
 h_lack <-
@@ -105,16 +108,47 @@ as_tibble( bic_best_model_per_group ) %>%
                 scale_x_continuous( breaks = 1:30 ) +
                 xlab( "Number of morphological groups" ) +
                 ylab( "Empirical support (BIC)" ) +
-                geom_point( ) +
-                geom_vline( xintercept = clean_data_pca_varsel_gmm$G, linetype = "dashed" ) +
-                geom_vline( xintercept = length(unique(clean_data_pca$Taxon)), linetype = "dashed" ) +
-                geom_vline( xintercept = length(unique(clean_data_pca$New_Taxonomy)), linetype = "dashed" ) +
+                geom_point( size = 3, #Add all points
+                            shape = 21 ) +
+                geom_point( data = as_tibble( h_lack$bic ), # Add hypothesis by Lack
+                            shape = 25, 
+                            x = length(unique( clean_data_pca$Taxon ) ), 
+                            fill = "black", 
+                            size = 4) +
+                geom_point( data = as_tibble( h_current_taxonomy$bic ), # Add hypothesis of current taxonomy.
+                            shape = 15, 
+                            x = length( unique( clean_data_pca$New_Taxonomy ) ), 
+                            fill = "black",
+                            size = 4 ) +
+                geom_point( data = as_tibble( min( bic_best_model_per_group ) ), # Add hypothesis McKay & Zink
+                            shape = 24,
+                            x = clean_data_pca_varsel_gmm$G - 7,
+                            fill = "black",
+                            size = 4 ) +
+                geom_point(data = as_tibble( max( bic_best_model_per_group ) ), # Add best mclust model
+                           shape = 19,
+                           x = clean_data_pca_varsel_gmm$G,
+                           fill = "black",
+                           size = 4 ) +
+                geom_point( data = as_tibble( clean_data_pca_varsel_gmm_7groups$bic ), # Add equally supported mclust model
+                            shape = 19,
+                            x = clean_data_pca_varsel_gmm$G - 1,
+                            size = 4 ) +
+                #geom_vline( xintercept = clean_data_pca_varsel_gmm$G, linetype = "dashed" ) +
+                #geom_vline( xintercept = length(unique(clean_data_pca$Taxon)), linetype = "dashed" ) +
+                #geom_vline( xintercept = length(unique(clean_data_pca$New_Taxonomy)), linetype = "dashed" ) +
                 theme( axis.line = element_line( color = "black", size = 0.5), 
                        axis.title = element_text( size = 15 ), 
                        axis.text = element_text( size = 10 ),
                        panel.border = element_rect( color = "transparent", fill = NA ),
                        panel.grid.minor.y = element_line( size = 0.1, color = "grey" ),
-                       panel.background = element_rect( fill = "transparent" ) )  
+                       panel.background = element_rect( fill = "transparent" ) ) 
+                #annotate( "rect", xmin = 14, xmax = 30, ymin = 3060, ymax = 3500, color= "black", fill="white", size = 0.2 ) +
+                #annotate( "text", x = 21.5, y = 3450, label = "Sysphean Evolution (McKay and Zink (2015)", size = 3 ) +
+                #annotate( "text", x = 22.5, y = 3350, label = "Previous taxonomy (Lack 1947), Rising et al. 2011)", size = 3 )
+                  
+
+
 
 # Usueful summaries -------------------------
 
@@ -183,11 +217,12 @@ pairwise_scatterplots <- list( )
 pairwise_loadingsplots <- list( )
 dimensions <- c( "PC1", "PC2", "PC3", "PC4" )
 
+angle <- seq( -pi, pi, length = 50 ) 
+circle_df <- data.frame( x = sin( angle ), y = cos( angle ) )
+
 for (i in 1:nrow(t(combn( dimensions, 2 ) ) ) ) {
   xvalue = t( combn( dimensions, 2 ) )[i,][1]
   yvalue = t( combn( dimensions, 2 ) )[i,][2]
-  angle <- seq( -pi, pi, length = 50 ) 
-  circle_df <- data.frame( x = sin( angle ), y = cos( angle ) )
 
   pairwise_scatterplots[[i]] <- ggplot( data = clean_data_pca_mclust, 
                                         mapping = aes_string( x = xvalue, y = yvalue ) ) +
@@ -207,26 +242,26 @@ for (i in 1:nrow(t(combn( dimensions, 2 ) ) ) ) {
                                          panel.border = element_rect( color = "transparent", fill = NA ),
                                          panel.background = element_rect( fill = "transparent" ),
                                          legend.position = "none" )  
-        
+  
   pairwise_loadingsplots[[i]] <- ggplot( data = as_tibble( pca_results$rotation ) ) +
-  									              xlim( -1, 1 ) +
-                  								ylim( -1, 1 ) +
-                  								stat_ellipse( aes( x, y ), 
-                                									data = circle_df, 
-                                									color = "grey80", 
-                                									type = "euclid", 
-                                									level = 0.5 ) +
-                  								xlab( "Loadings PC3" ) + 
-                  								ylab( "Loadings PC4" ) +
-                  								geom_segment( aes(x = 0, y = 0, xend = xvalue*0.9, yend = yvalue*0.9 ),
+                  								geom_segment( aes(x = 0, y = 0, xend = PC1*0.9, yend = PC2*0.9),
                   								              arrow = arrow( length = unit( 1/2, "picas" ) ), 
-                                								color = "grey50" ) +
-                  								geom_text( aes( x = xvalue, y = yvalue,
+                                								color = "grey60" ) +
+                  								geom_text( aes( x = PC1, y = PC2,
                                   					   label = c( "Wing length", "Tail length", "Bill length", "Bill depth", "Bill width", "Tarsus length" ) ), 
                              							   size = 4.5, 
                              							   check_overlap = TRUE, 
                              							   color = "black", 
                              							   fontface = "bold" ) +
+                                  xlim( -1, 1 ) +
+                                  ylim( -1, 1 ) +
+                                  stat_ellipse( aes( x, y ), 
+                                                data = circle_df, 
+                                                color = "grey80", 
+                                                type = "euclid", 
+                                                level = 0.5 ) +
+                                  xlab( "Loadings PC3" ) + 
+                                  ylab( "Loadings PC4" ) +
                   								theme( axis.line = element_line( color = "transparent"),
                          								 axis.title = element_text( size = 15 ), 
                          								 axis.text = element_text( size = 13, color = "black" ),
@@ -245,22 +280,22 @@ circle_df <- data.frame( x = sin( angle ), y = cos( angle ) )
 
 as_tibble( pca_results$rotation ) %>%
   ggplot( ) +
-    xlim(-1,1) +
-    ylim(-1,1) +
-    stat_ellipse( aes( x, y ), 
-                  data = circle_df, 
-                  color = "grey80", 
-                  type = "euclid", 
-                  level = 0.5 ) +
-    xlab( "Loadings PC3" ) + 
-    ylab( "Loadings PC4" ) +
     geom_segment( aes( x = 0, y = 0, xend = PC3*0.9, yend = PC4*0.9 ), 
                   arrow = arrow( length = unit( 1/2, "picas" ) ), 
-                  color = "grey50" ) +
+                  color = "grey60" ) +
     geom_text( aes( x = PC3, y = PC4,
                     label = c( "Wing length", "Tail length", "Bill length", "Bill depth", "Bill width", "Tarsus length" ) ), 
                size = 4.5, 
                check_overlap = TRUE, color = "black", fontface = "bold" ) +
+  xlim(-1,1) +
+  ylim(-1,1) +
+  stat_ellipse( aes( x, y ), 
+                data = circle_df, 
+                color = "grey80", 
+                type = "euclid", 
+                level = 0.5 ) +
+  xlab( "Loadings PC3" ) + 
+  ylab( "Loadings PC4" ) +
     theme( axis.line = element_line( color = "transparent"),
            axis.title = element_text( size = 15 ), 
            axis.text = element_text( size = 13, color = "black" ),
@@ -272,11 +307,20 @@ as_tibble( pca_results$rotation ) %>%
 
 
 # General Legend
-plot(c(0,1), c(0,1), type="n", axes=F, bty="n", 
-    xlab="", ylab="")
-legend(0.2, 0.9,
-	paste("Morphological group", 1:7),
-	col=morpho.groups.colors[1:8], 	pch=21, pt.lwd=2, pt.cex=1.5, cex=1.15, bty="o")
+plot(c(0,1), c(0,1), 
+     type="n", 
+     axes = F, 
+     bty ="n",
+     xlab="", 
+     ylab="") 
+legend(0, 1, 
+       paste( "Morphological group", 1:8 ),
+       col = morphogroups_colors[1:8],
+       pch = 21,
+       pt.lwd = 2,
+       pt.cex = 1.5, 
+       cex = 1.15,
+       bty="o" ) 
 
 
 # Compare assignment of specimens to groups between the best Mclust 
