@@ -1,0 +1,487 @@
+"Taxon","Institution","Museum No.","Island","Taxon-Island","New_Taxonomy","New_Taxonomy_Island","Sex","Wing","Tail","Blength","Bdepth","Bwidth","Tarsus"
+"G. conirostris","Rotheschild Mus.",1916,"Darwin","conirostrisDarwin","G. propinqua","propinquaDarwin","Male",78.2,46,19.5,14,11,25.2
+"G. conirostris","Rotheschild Mus.",1918,"Darwin","conirostrisDarwin","G. propinqua","propinquaDarwin","Male",81.5,53,22.2,17.2,13.5,26.5
+"G. conirostris","Rotheschild Mus.",1931,"Darwin","conirostrisDarwin","G. propinqua","propinquaDarwin","Male",81,49.5,21.2,16.2,12.2,23.5
+"G. conirostris","Rotheschild Mus.",NA,"Darwin","conirostrisDarwin","G. propinqua","propinquaDarwin","Male",78,48.8,20,14.2,11,25.2
+"G. conirostris","Rotheschild Mus.",1930,"Darwin","conirostrisDarwin","G. propinqua","propinquaDarwin","Male",84,53.2,22.2,19.5,14,24.5
+"G. conirostris","Rotheschild Mus.",157,"Darwin","conirostrisDarwin","G. propinqua","propinquaDarwin","Male",82,50,22.8,19.5,14,25.5
+"G. conirostris","Harris",104,"Darwin","conirostrisDarwin","G. propinqua","propinquaDarwin","Male",82,50.5,22.5,17,13.8,25.5
+"G. conirostris","G. W. Hull",105,"Darwin","conirostrisDarwin","G. propinqua","propinquaDarwin","Male",78.2,47,21.2,15.2,11.5,24.5
+"G. conirostris","Rotheschild Mus.",160,"Darwin","conirostrisDarwin","G. propinqua","propinquaDarwin","Male",80.5,48.5,20.8,17,12.5,25
+"G. conirostris","Rotheschild Mus.",159,"Darwin","conirostrisDarwin","G. propinqua","propinquaDarwin","Male",81.5,50.5,21,18,13.2,25.5
+"G. magnirostris","CAS",37920,"Genovesa","magnirostrisGenovesa","G. magnirostris","magnirostrisGenovesa","Male",86.5,54.5,26,23,17,25.5
+"G. magnirostris","CAS",37919,"Genovesa","magnirostrisGenovesa","G. magnirostris","magnirostrisGenovesa","Male",84,52,23.2,20,15.5,25
+"G. magnirostris","CAS",37921,"Genovesa","magnirostrisGenovesa","G. magnirostris","magnirostrisGenovesa","Male",83.2,57.5,25,22,17,26
+"G. magnirostris","CAS",37925,"Santiago","magnirostrisSantiago","G. magnirostris","magnirostrisSantiago","Male",80.5,46,22,20,15.2,26
+"G. magnirostris","CAS",37932,"Santiago","magnirostrisSantiago","G. magnirostris","magnirostrisSantiago","Male",78.5,47,23.5,21.2,16,26.5
+"G. magnirostris","CAS",5105,"Santa Cruz","magnirostrisSanta Cruz","G. magnirostris","magnirostrisSanta Cruz","Male",81.2,50.5,22.5,20.5,15.5,25
+"G. magnirostris","CAS",5316,"Santa Cruz","magnirostrisSanta Cruz","G. magnirostris","magnirostrisSanta Cruz","Male",83.5,49.5,22.5,21,16,24.5
+"G. magnirostris","CAS",5112,"Santa Cruz","magnirostrisSanta Cruz","G. magnirostris","magnirostrisSanta Cruz","Male",81,50.5,21.5,21,16.5,24
+"G. magnirostris","CAS",5153,"Santa Cruz","magnirostrisSanta Cruz","G. magnirostris","magnirostrisSanta Cruz","Male",78,53.5,21.5,19.8,16,25
+"G. magnirostris","CAS",5550,"Santa Cruz","magnirostrisSanta Cruz","G. magnirostris","magnirostrisSanta Cruz","Male",74,44,20.5,17.2,12.5,23
+"G. magnirostris","CAS",5319,"Darwin","magnirostrisDarwin","G. magnirostris","magnirostrisDarwin","Male",85,52.2,21.5,18.2,14,25.5
+"G. magnirostris","CAS",5327,"Darwin","magnirostrisDarwin","G. magnirostris","magnirostrisDarwin","Male",85.5,54.5,22,17.5,13.5,26
+"G. magnirostris","CAS",5157,"Darwin","magnirostrisDarwin","G. magnirostris","magnirostrisDarwin","Male",80.2,51.5,23,18.8,14.2,26
+"G. magnirostris","CAS",5318,"Wolf","magnirostrisWolf","G. magnirostris","magnirostrisWolf","Male",84,52.5,23,20,14.5,26
+"G. magnirostris","CAS",5323,"Wolf","magnirostrisWolf","G. magnirostris","magnirostrisWolf","Male",85,53,24,20,15,25.5
+"G. magnirostris","CAS",5155,"Marchena","magnirostrisMarchena","G. magnirostris","magnirostrisMarchena","Male",78,47.5,21.8,18.8,14.8,26
+"G. magnirostris","CAS",5102,"Marchena","magnirostrisMarchena","G. magnirostris","magnirostrisMarchena","Male",78,48,21,18.2,14,23
+"G. magnirostris","Stanford University",1254,"Marchena","magnirostrisMarchena","G. magnirostris","magnirostrisMarchena","Male",81,48.5,22.2,20.8,15.5,24.5
+"G. magnirostris","Stanford University",1530,"Marchena","magnirostrisMarchena","G. magnirostris","magnirostrisMarchena","Male",80.2,51,22.2,18.2,14,23
+"G. magnirostris","Stanford University",1162,"Pinta","magnirostrisPinta","G. magnirostris","magnirostrisPinta","Male",79,45.2,22,19,14.5,25.5
+"G. magnirostris","Stanford University",1400,"Pinta","magnirostrisPinta","G. magnirostris","magnirostrisPinta","Male",81,42,21,20,15.2,24.5
+"G. magnirostris","Stanford University",1261,"Pinta","magnirostrisPinta","G. magnirostris","magnirostrisPinta","Male",80,47.5,22.5,20.5,15,25.2
+"G. magnirostris","Stanford University",1110,"Pinta","magnirostrisPinta","G. magnirostris","magnirostrisPinta","Male",78,49,22.5,19.5,15,26
+"G. magnirostris","CAS",5322,"Pinta","magnirostrisPinta","G. magnirostris","magnirostrisPinta","Male",81.2,51,21,19.2,15.2,23.5
+"G. magnirostris","CAS",5137,"Pinta","magnirostrisPinta","G. magnirostris","magnirostrisPinta","Male",77,49,23.5,20.2,15.5,25
+"G. magnirostris","CAS",5123,"Pinta","magnirostrisPinta","G. magnirostris","magnirostrisPinta","Male",80,50.5,21.2,20,15,24.2
+"G. magnirostris","CAS",5124,"Pinta","magnirostrisPinta","G. magnirostris","magnirostrisPinta","Male",79.5,52,22.5,21,16.5,25
+"G. magnirostris","CAS",5134,"Pinta","magnirostrisPinta","G. magnirostris","magnirostrisPinta","Male",81.2,50.5,23,20,14.5,25.5
+"G. magnirostris","CAS",5141,"Pinta","magnirostrisPinta","G. magnirostris","magnirostrisPinta","Male",83,52.2,23,22,16.2,25
+"G. magnirostris","CAS",5324,"Santiago","magnirostrisSantiago","G. magnirostris","magnirostrisSantiago","Male",84.5,51.5,24,20,14.5,26
+"G. magnirostris","CAS",5321,"Santiago","magnirostrisSantiago","G. magnirostris","magnirostrisSantiago","Male",85.5,53.5,21,20,15,24
+"G. magnirostris","CAS",5099,"Santiago","magnirostrisSantiago","G. magnirostris","magnirostrisSantiago","Male",81,48,22.5,21,16.2,25
+"G. magnirostris","CAS",5110,"Santiago","magnirostrisSantiago","G. magnirostris","magnirostrisSantiago","Male",82,47.8,22,22,16.2,24.5
+"G. magnirostris","CAS",5315,"Santiago","magnirostrisSantiago","G. magnirostris","magnirostrisSantiago","Male",82.2,50,23,21,16.2,25
+"G. magnirostris","CAS",5313,"Santiago","magnirostrisSantiago","G. magnirostris","magnirostrisSantiago","Male",81.8,51.2,22,21.2,15.5,26
+"G. magnirostris","CAS",5111,"Santiago","magnirostrisSantiago","G. magnirostris","magnirostrisSantiago","Male",81,47,22.5,22,16,25
+"G. magnirostris","CAS",5311,"Santiago","magnirostrisSantiago","G. magnirostris","magnirostrisSantiago","Male",83.5,51.5,23,22,15,24.5
+"G. magnirostris","CAS",5109,"Santiago","magnirostrisSantiago","G. magnirostris","magnirostrisSantiago","Male",78.5,49.5,23,21.2,15.2,25
+"G. magnirostris","CAS",5104,"Santiago","magnirostrisSantiago","G. magnirostris","magnirostrisSantiago","Male",83,50,24,22,16.2,25.2
+"G. magnirostris","CAS",5320,"Rabida","magnirostrisRabida","G. magnirostris","magnirostrisRabida","Male",83,51.5,22.2,19.2,14,24
+"G. magnirostris","CAS",5329,"Rabida","magnirostrisRabida","G. magnirostris","magnirostrisRabida","Male",80,48.5,21.5,18.5,14,24
+"G. magnirostris","CAS",5332,"Rabida","magnirostrisRabida","G. magnirostris","magnirostrisRabida","Male",83.5,52.5,20.2,17.5,13.5,23.5
+"G. magnirostris","CAS",5333,"Rabida","magnirostrisRabida","G. magnirostris","magnirostrisRabida","Male",77.5,48,20.8,18,13,24
+"G. magnirostris","CAS",5325,"Rabida","magnirostrisRabida","G. magnirostris","magnirostrisRabida","Male",80,51,21.5,17.2,13.5,24
+"G. magnirostris","CAS",5331,"Rabida","magnirostrisRabida","G. magnirostris","magnirostrisRabida","Male",81.2,50,20,18.5,14,23.5
+"G. magnirostris","CAS",5334,"Rabida","magnirostrisRabida","G. magnirostris","magnirostrisRabida","Male",81,54,21,18,14,23.5
+"G. magnirostris","CAS",5328,"Rabida","magnirostrisRabida","G. magnirostris","magnirostrisRabida","Male",81,50.5,21,18,14,23.5
+"G. magnirostris","CAS",5330,"Rabida","magnirostrisRabida","G. magnirostris","magnirostrisRabida","Male",83,51,21.5,20,14,24.5
+"G. magnirostris","CAS",5337,"Rabida","magnirostrisRabida","G. magnirostris","magnirostrisRabida","Male",77,48,19,17,12.5,21
+"G. fortis","Stanford University",5073,"Pinta","fortisPinta","G. fortis","fortisPinta","Male",64.5,37,16,11,9,20.2
+"G. fortis","Stanford University",5203,"Pinta","fortisPinta","G. fortis","fortisPinta","Male",64.8,42,17,12,10,20.5
+"G. fortis","CAS",5409,"Pinta","fortisPinta","G. fortis","fortisPinta","Male",71,44.5,16.5,12.5,10.5,21.5
+"G. fortis","CAS",5181,"Pinta","fortisPinta","G. fortis","fortisPinta","Male",62,39.5,15,10.2,8.5,19
+"G. fortis","CAS",5184,"Pinta","fortisPinta","G. fortis","fortisPinta","Male",61,37.5,15.2,11,9,19.2
+"G. fortis","CAS",5183,"Pinta","fortisPinta","G. fortis","fortisPinta","Male",65.5,40.2,15,11.5,9.5,19.8
+"G. fortis","CAS",5180,"Pinta","fortisPinta","G. fortis","fortisPinta","Male",62,41.8,16,11.5,9.2,20
+"G. fortis","CAS",5188,"Pinta","fortisPinta","G. fortis","fortisPinta","Male",67,39,16,12,9.2,20.2
+"G. fortis","CAS",5186,"Pinta","fortisPinta","G. fortis","fortisPinta","Male",67,40,15.2,11,9,20.2
+"G. fortis","CAS",5187,"Pinta","fortisPinta","G. fortis","fortisPinta","Male",65.5,41.8,16,12.5,10,20
+"G. fortis","Stanford University",5223,"Marchena","fortisMarchena","G. fortis","fortisMarchena","Male",64,38,16.8,12.2,9.8,20
+"G. fortis","Stanford University",5256,"Marchena","fortisMarchena","G. fortis","fortisMarchena","Male",66,39,16.8,12.2,9,19
+"G. fortis","CAS",5178,"Marchena","fortisMarchena","G. fortis","fortisMarchena","Male",65,39.5,16,12,9.2,20.2
+"G. fortis","CAS",5179,"Marchena","fortisMarchena","G. fortis","fortisMarchena","Male",65.5,40.5,16,11.5,9.2,20
+"G. fortis","CAS",5177,"Marchena","fortisMarchena","G. fortis","fortisMarchena","Male",65.8,41.8,16,12,9.5,19.5
+"G. fortis","CAS",5407,"Marchena","fortisMarchena","G. fortis","fortisMarchena","Male",65.5,39,17.2,12.8,9,19.5
+"G. fortis","CAS",6768,"Marchena","fortisMarchena","G. fortis","fortisMarchena","Male",68,42.5,16,12.2,9.2,20.5
+"G. fortis","CAS",5406,"Marchena","fortisMarchena","G. fortis","fortisMarchena","Male",65.2,41.2,15.8,12,9,19
+"G. fortis","CAS",5182,"Marchena","fortisMarchena","G. fortis","fortisMarchena","Male",66,40.5,15.2,11.5,9.2,19.5
+"G. fortis","CAS",5190,"Marchena","fortisMarchena","G. fortis","fortisMarchena","Male",67,39,16.5,11.8,9.2,20
+"G. fortis","CAS",5309,"Fernandina","fortisFernandina","G. fortis","fortisFernandina","Male",69.5,45,15.2,11.5,9,20
+"G. fortis","CAS",5403,"Fernandina","fortisFernandina","G. fortis","fortisFernandina","Male",69.5,44,17,12,9,21
+"G. fortis","CAS",5357,"Fernandina","fortisFernandina","G. fortis","fortisFernandina","Male",68,43,17,12,9.2,21
+"G. fortis","CAS",5404,"Fernandina","fortisFernandina","G. fortis","fortisFernandina","Male",72,42.2,16.5,13,10,22.2
+"G. fortis","Stanford University",3933,"Fernandina","fortisFernandina","G. fortis","fortisFernandina","Male",67,41.5,15.5,12.2,9.8,20.5
+"G. fortis","Stanford University",3950,"Fernandina","fortisFernandina","G. fortis","fortisFernandina","Male",68,39,16.5,11,9.2,20.5
+"G. fortis","Stanford University",4006,"Fernandina","fortisFernandina","G. fortis","fortisFernandina","Male",72,39.5,14.8,12.2,9.2,21
+"G. fortis","Stanford University",4459,"Fernandina","fortisFernandina","G. fortis","fortisFernandina","Male",70.5,43,17.2,12.5,9.5,20.8
+"G. fortis","Stanford University",4440,"Fernandina","fortisFernandina","G. fortis","fortisFernandina","Male",67,38,15.8,12,9,22
+"G. fortis","Stanford University",4463,"Fernandina","fortisFernandina","G. fortis","fortisFernandina","Male",71,41,16.2,12,9.8,21.8
+"G. fortis","CAS",5237,"Isabela","fortisIsabela","G. fortis","fortisIsabela","Male",68,39.5,14.8,11.2,8.8,21.5
+"G. fortis","CAS",5292,"Isabela","fortisIsabela","G. fortis","fortisIsabela","Male",66.5,40.8,15.8,12.2,9.2,21
+"G. fortis","CAS",5225,"Isabela","fortisIsabela","G. fortis","fortisIsabela","Male",66,41,15,11,8.5,20
+"G. fortis","CAS",5411,"Isabela","fortisIsabela","G. fortis","fortisIsabela","Male",71,41,15.5,12,10,22
+"G. fortis","CAS",5212,"Isabela","fortisIsabela","G. fortis","fortisIsabela","Male",66,38.5,16,11.5,9,21
+"G. fortis","CAS",5208,"Isabela","fortisIsabela","G. fortis","fortisIsabela","Male",69.5,43,15.5,11.2,9,20.5
+"G. fortis","CAS",5200,"Isabela","fortisIsabela","G. fortis","fortisIsabela","Male",69.5,44,16,12.5,9.2,21.5
+"G. fortis","CAS",5468,"Isabela","fortisIsabela","G. fortis","fortisIsabela","Male",74,48,18.5,14.5,12,22.8
+"G. fortis","Stanford University",4008,"Isabela","fortisIsabela","G. fortis","fortisIsabela","Male",74,47,17.5,13.5,9.8,21.5
+"G. fortis","Stanford University",4201,"Isabela","fortisIsabela","G. fortis","fortisIsabela","Male",71.5,43,16.5,12.2,9.5,21.5
+"G. fortis","CAS",5340,"Isabela","fortisIsabela","G. fortis","fortisIsabela","Male",77.2,47.8,19.5,16.2,11.5,24.5
+"G. fortis","CAS",5202,"Isabela","fortisIsabela","G. fortis","fortisIsabela","Male",72.5,42.2,17.5,14,11.5,21.5
+"G. fortis","CAS",5211,"Isabela","fortisIsabela","G. fortis","fortisIsabela","Male",74,43,18,14,11.2,21.5
+"G. fortis","CAS",5379,"Isabela","fortisIsabela","G. fortis","fortisIsabela","Male",71,44,15.8,12.8,10,21
+"G. fortis","CAS",5453,"Isabela","fortisIsabela","G. fortis","fortisIsabela","Male",74,49,19,14.2,11.2,23.2
+"G. fortis","CAS",5233,"Isabela","fortisIsabela","G. fortis","fortisIsabela","Male",73,44.2,18.5,15,11,24
+"G. fortis","CAS",5376,"Isabela","fortisIsabela","G. fortis","fortisIsabela","Male",74,44.2,19.5,15.5,11.2,22.2
+"G. fortis","CAS",5342,"Isabela","fortisIsabela","G. fortis","fortisIsabela","Male",75.5,46,18.8,14.2,11.2,21.8
+"G. fortis","CAS",5217,"Isabela","fortisIsabela","G. fortis","fortisIsabela","Male",77,47,18,13.5,11.5,23.2
+"G. fortis","CAS",5366,"Isabela","fortisIsabela","G. fortis","fortisIsabela","Male",73.5,46.5,17,12.2,9,21.5
+"G. fortis","Stanford University",4535,"Santiago","fortisSantiago","G. fortis","fortisSantiago","Male",69.2,43,17.5,13.2,10,21
+"G. fortis","CAS",5302,"Santiago","fortisSantiago","G. fortis","fortisSantiago","Male",68,41.5,16,12,9.8,21
+"G. fortis","CAS",5353,"Santiago","fortisSantiago","G. fortis","fortisSantiago","Male",71.5,42,16.2,14,10.2,22
+"G. fortis","CAS",5268,"Santiago","fortisSantiago","G. fortis","fortisSantiago","Male",69,41,17,13,10,22
+"G. fortis","CAS",5261,"Santiago","fortisSantiago","G. fortis","fortisSantiago","Male",70,45,17,13,10.2,21
+"G. fortis","CAS",5383,"Santiago","fortisSantiago","G. fortis","fortisSantiago","Male",70.8,44.2,16,12.5,9.8,22
+"G. fortis","CAS",5400,"Santiago","fortisSantiago","G. fortis","fortisSantiago","Male",70,43.2,15.5,12.5,9.5,21
+"G. fortis","CAS",5245,"Santiago","fortisSantiago","G. fortis","fortisSantiago","Male",68,41,17,13,9.5,22
+"G. fortis","CAS",6905,"Santiago","fortisSantiago","G. fortis","fortisSantiago","Male",72,43.2,15,10,8,23.5
+"G. fortis","CAS",5451,"Santiago","fortisSantiago","G. fortis","fortisSantiago","Male",70,44,15.5,11.5,9.2,21.5
+"G. fortis","CAS",5418,"Pinzon","fortisPinzon","G. fortis","fortisPinzon","Male",68,44.2,14,10.8,8.2,20.5
+"G. fortis","CAS",6779,"Pinzon","fortisPinzon","G. fortis","fortisPinzon","Male",67,43.2,15,10,8,19.5
+"G. fortis","CAS",5234,"Pinzon","fortisPinzon","G. fortis","fortisPinzon","Male",64.2,40.8,15,10.2,8.5,20.5
+"G. fortis","CAS",6777,"Pinzon","fortisPinzon","G. fortis","fortisPinzon","Male",67,40.5,14.8,11.2,8.5,20.2
+"G. fortis","CAS",5219,"Pinzon","fortisPinzon","G. fortis","fortisPinzon","Male",70.8,40.5,15,12,9,21
+"G. fortis","CAS",5385,"Pinzon","fortisPinzon","G. fortis","fortisPinzon","Male",68,43,14.8,12,9,22
+"G. fortis","CAS",5213,"Pinzon","fortisPinzon","G. fortis","fortisPinzon","Male",71.5,42.5,15.5,12,9,23
+"G. fortis","CAS",5248,"Pinzon","fortisPinzon","G. fortis","fortisPinzon","Male",69,40,16.5,13,9,21.8
+"G. fortis","CAS",5232,"Pinzon","fortisPinzon","G. fortis","fortisPinzon","Male",69.2,41.2,14.8,11,8.2,21.2
+"G. fortis","CAS",5257,"Pinzon","fortisPinzon","G. fortis","fortisPinzon","Male",69,44.8,15,10,8,21.2
+"G. fortis","CAS",5413,"Daphne","fortisDaphne","G. fortis","fortisDaphne","Male",66,41,15.8,11,8.8,20
+"G. fortis","CAS",5416,"Daphne","fortisDaphne","G. fortis","fortisDaphne","Male",68,42,15.5,10.2,8.2,21
+"G. fortis","CAS",5420,"Daphne","fortisDaphne","G. fortis","fortisDaphne","Male",63.2,40,14,10.8,8,21
+"G. fortis","CAS",5421,"Daphne","fortisDaphne","G. fortis","fortisDaphne","Male",64,40,13,9,7.5,21.2
+"G. fortis","CAS",5423,"Daphne","fortisDaphne","G. fortis","fortisDaphne","Male",67,40,13,9.5,8,21
+"G. fortis","CAS",6773,"Daphne","fortisDaphne","G. fortis","fortisDaphne","Male",64,38,15,12,8.2,20
+"G. fortis","CAS",5415,"Daphne","fortisDaphne","G. fortis","fortisDaphne","Male",66.5,42.5,15,10.5,8.5,21
+"G. fortis","CAS",5417,"Daphne","fortisDaphne","G. fortis","fortisDaphne","Male",66.5,41,13.5,10.5,8,21
+"G. fortis","CAS",5422,"Daphne","fortisDaphne","G. fortis","fortisDaphne","Male",65.5,39,14,10,7.5,20
+"G. fortis","CAS",5275,"Daphne","fortisDaphne","G. fortis","fortisDaphne","Male",67.5,40.2,15,10.5,8.2,21
+"G. fortis","CAS",5196,"Baltra","fortisBaltra","G. fortis","fortisBaltra","Male",73,45.5,16,12,9.5,21.2
+"G. fortis","CAS",5384,"Baltra","fortisBaltra","G. fortis","fortisBaltra","Male",70,43,15.5,12,9,22
+"G. fortis","CAS",6778,"Baltra","fortisBaltra","G. fortis","fortisBaltra","Male",68.5,41.5,17,12,9.2,21.5
+"G. fortis","CAS",5222,"Baltra","fortisBaltra","G. fortis","fortisBaltra","Male",68,44.5,16,11.8,9.5,21.5
+"G. fortis","CAS",6782,"Baltra","fortisBaltra","G. fortis","fortisBaltra","Male",66,44,15.2,10.2,8.5,20.5
+"G. fortis","CAS",5198,"Baltra","fortisBaltra","G. fortis","fortisBaltra","Male",68,42.5,15.2,11.5,9,21.5
+"G. fortis","CAS",5762,"Baltra","fortisBaltra","G. fortis","fortisBaltra","Male",69.2,43,15,10.8,8.2,21.8
+"G. fortis","CAS",5218,"Baltra","fortisBaltra","G. fortis","fortisBaltra","Male",72.2,42.5,16,12.8,10,21.5
+"G. fortis","CAS",6776,"Baltra","fortisBaltra","G. fortis","fortisBaltra","Male",70,45.5,16.5,12.5,10,22
+"G. fortis","CAS",5251,"Baltra","fortisBaltra","G. fortis","fortisBaltra","Male",71.2,45.2,16,13,10,21.2
+"G. fortis","Stanford University",4668,"Santa Cruz","fortisSanta Cruz","G. fortis","fortisSanta Cruz","Male",63.5,40,16,11,9,20
+"G. fortis","Stanford University",4702,"Santa Cruz","fortisSanta Cruz","G. fortis","fortisSanta Cruz","Male",69.5,41,16,12,9,21.2
+"G. fortis","CAS",5247,"Santa Cruz","fortisSanta Cruz","G. fortis","fortisSanta Cruz","Male",70,44,16,12,9.2,21
+"G. fortis","CAS",5392,"Santa Cruz","fortisSanta Cruz","G. fortis","fortisSanta Cruz","Male",70,43.5,16.2,11.2,9.2,20.5
+"G. fortis","CAS",5301,"Santa Cruz","fortisSanta Cruz","G. fortis","fortisSanta Cruz","Male",70.5,42,16.5,12,9.5,22
+"G. fortis","CAS",5509,"Santa Cruz","fortisSanta Cruz","G. fortis","fortisSanta Cruz","Male",66,41,17,12.2,10,22
+"G. fortis","Stanford University",4667,"Santa Cruz","fortisSanta Cruz","G. fortis","fortisSanta Cruz","Male",68,40,17,12,8.5,22
+"G. fortis","CAS",5475,"Santa Cruz","fortisSanta Cruz","G. fortis","fortisSanta Cruz","Male",68.5,43.5,17,13,10.2,22
+"G. fortis","Stanford University",4707,"Santa Cruz","fortisSanta Cruz","G. fortis","fortisSanta Cruz","Male",68.5,40,17.5,12.5,10,22
+"G. fortis","CAS",5295,"Santa Cruz","fortisSanta Cruz","G. fortis","fortisSanta Cruz","Male",72,44.5,17.5,13,10.8,21.2
+"G. fortis","CAS",6780,"Santa Cruz","fortisSanta Cruz","G. fortis","fortisSanta Cruz","Male",74.2,46,18,15,12,22.5
+"G. fortis","CAS",5462,"Santa Cruz","fortisSanta Cruz","G. fortis","fortisSanta Cruz","Male",76,44.5,18.5,14.2,11,23
+"G. fortis","CAS",5336,"Santa Cruz","fortisSanta Cruz","G. fortis","fortisSanta Cruz","Male",77,47,19,15.5,12,23.5
+"G. fortis","CAS",5258,"Santa Cruz","fortisSanta Cruz","G. fortis","fortisSanta Cruz","Male",76,44.5,19.5,15,11.2,22.5
+"G. fortis","CAS",5223,"Santa Cruz","fortisSanta Cruz","G. fortis","fortisSanta Cruz","Male",79,47,19.5,16.5,12.5,24.5
+"G. fortis","CAS",5341,"San Cristobal","fortisSan Cristobal","G. fortis","fortisSan Cristobal","Male",75.2,45.5,19,14.8,11.5,22.5
+"G. fortis","CAS",5169,"San Cristobal","fortisSan Cristobal","G. fortis","fortisSan Cristobal","Male",76,44.8,18,14,11.2,22
+"G. fortis","CAS",5171,"San Cristobal","fortisSan Cristobal","G. fortis","fortisSan Cristobal","Male",74,46.5,19,16.2,12.5,23.2
+"G. fortis","CAS",5339,"San Cristobal","fortisSan Cristobal","G. fortis","fortisSan Cristobal","Male",75.2,44.8,18,14,11.5,23
+"G. fortis","CAS",5377,"San Cristobal","fortisSan Cristobal","G. fortis","fortisSan Cristobal","Male",76,45.5,18.5,14.2,12.2,23.2
+"G. fortis","CAS",5344,"San Cristobal","fortisSan Cristobal","G. fortis","fortisSan Cristobal","Male",72.2,46,18.5,14.8,12,23
+"G. fortis","CAS",5352,"San Cristobal","fortisSan Cristobal","G. fortis","fortisSan Cristobal","Male",74.5,46.8,17.2,15.2,11,22.2
+"G. fortis","CAS",5170,"San Cristobal","fortisSan Cristobal","G. fortis","fortisSan Cristobal","Male",73,45.5,17,14,11,23.2
+"G. fortis","CAS",5172,"San Cristobal","fortisSan Cristobal","G. fortis","fortisSan Cristobal","Male",74.2,47,17.8,15,12,23
+"G. fortis","CAS",5173,"San Cristobal","fortisSan Cristobal","G. fortis","fortisSan Cristobal","Male",72.5,47,18,15.5,11.5,22.2
+"G. fortis","CAS",5259,"San Cristobal","fortisSan Cristobal","G. fortis","fortisSan Cristobal","Male",72.5,44.5,17,13.5,11,22
+"G. fortis","CAS",6772,"San Cristobal","fortisSan Cristobal","G. fortis","fortisSan Cristobal","Male",68,40,17,11.8,9.5,21
+"G. fortis","CAS",5277,"San Cristobal","fortisSan Cristobal","G. fortis","fortisSan Cristobal","Male",70.5,41,17.2,14,11,22.5
+"G. fortis","CAS",5370,"San Cristobal","fortisSan Cristobal","G. fortis","fortisSan Cristobal","Male",72.8,44,17.5,13.2,10.2,21.5
+"G. fortis","CAS",5229,"San Cristobal","fortisSan Cristobal","G. fortis","fortisSan Cristobal","Male",70,45,17.5,12.5,9.5,22.2
+"G. fortis","CAS",5350,"San Cristobal","fortisSan Cristobal","G. fortis","fortisSan Cristobal","Male",71.5,45.5,17,13,10,23
+"G. fortis","CAS",5360,"San Cristobal","fortisSan Cristobal","G. fortis","fortisSan Cristobal","Male",69.2,41.2,17,13,11,22
+"G. fortis","CAS",5354,"San Cristobal","fortisSan Cristobal","G. fortis","fortisSan Cristobal","Male",72,46,17.5,13.5,11,21.5
+"G. fortis","CAS",5355,"San Cristobal","fortisSan Cristobal","G. fortis","fortisSan Cristobal","Male",71.5,44,17,12,9.5,21.5
+"G. fortis","CAS",5362,"San Cristobal","fortisSan Cristobal","G. fortis","fortisSan Cristobal","Male",73,44,17,13,10.5,22
+"G. fortis","CAS",5349,"San Cristobal","fortisSan Cristobal","G. fortis","fortisSan Cristobal","Male",72.5,43,17,13.2,10.2,22.5
+"G. fortis","CAS",5347,"San Cristobal","fortisSan Cristobal","G. fortis","fortisSan Cristobal","Male",74.5,46,17,14.5,12,22.2
+"G. fortis","CAS",5391,"San Cristobal","fortisSan Cristobal","G. fortis","fortisSan Cristobal","Male",70,47,16.5,12.5,9.5,21
+"G. fortis","CAS",5394,"San Cristobal","fortisSan Cristobal","G. fortis","fortisSan Cristobal","Male",74,44,17,12.2,10,21.2
+"G. fortis","CAS",5405,"San Cristobal","fortisSan Cristobal","G. fortis","fortisSan Cristobal","Male",72,45.5,17,13.5,10,21
+"G. fortis","CAS",5419,"Floreana","fortisFloreana","G. fortis","fortisFloreana","Male",71,42,15,11.2,8.5,22
+"G. fortis","CAS",5231,"Floreana","fortisFloreana","G. fortis","fortisFloreana","Male",68,41,15.5,11.2,8.5,22
+"G. fortis","CAS",5401,"Floreana","fortisFloreana","G. fortis","fortisFloreana","Male",73,43.5,15,11.5,9.5,22
+"G. fortis","CAS",5359,"Floreana","fortisFloreana","G. fortis","fortisFloreana","Male",70.5,40,15.5,11,9,21.5
+"G. fortis","CAS",5393,"Floreana","fortisFloreana","G. fortis","fortisFloreana","Male",72.5,45.5,15.5,12,9.5,22
+"G. fortis","CAS",5358,"Floreana","fortisFloreana","G. fortis","fortisFloreana","Male",71,44,15,11.5,9,20.2
+"G. fortis","CAS",5397,"Floreana","fortisFloreana","G. fortis","fortisFloreana","Male",68.5,44,15,11,9,21
+"G. fortis","CAS",5199,"Floreana","fortisFloreana","G. fortis","fortisFloreana","Male",70,45,16,12,9.8,21
+"G. fortis","CAS",5255,"Floreana","fortisFloreana","G. fortis","fortisFloreana","Male",71.2,41.5,16,12.2,9.5,22.2
+"G. fortis","CAS",5298,"Floreana","fortisFloreana","G. fortis","fortisFloreana","Male",70.2,43,17,11.8,9.8,22.5
+"G. fortis","CAS",5214,"Floreana","fortisFloreana","G. fortis","fortisFloreana","Male",74,48.5,18,14,11.2,22.2
+"G. fortis","CAS",5260,"Floreana","fortisFloreana","G. fortis","fortisFloreana","Male",73.2,48.5,19,15,11,23
+"G. fortis","CAS",5227,"Floreana","fortisFloreana","G. fortis","fortisFloreana","Male",74.5,42,19.8,15,11.8,23
+"G. fortis","CAS",5371,"Floreana","fortisFloreana","G. fortis","fortisFloreana","Male",75.2,47,19.8,14,11.2,23.5
+"G. fortis","CAS",5161,"Floreana","fortisFloreana","G. fortis","fortisFloreana","Male",78,48,20.2,16,12,23
+"G. fortis","CAS",5269,"Floreana","fortisFloreana","G. fortis","fortisFloreana","Male",74,44.2,17.5,13,10,24
+"G. fortis","CAS",5351,"Floreana","fortisFloreana","G. fortis","fortisFloreana","Male",73.5,44,18,14.2,10.5,23
+"G. fortis","CAS",5243,"Floreana","fortisFloreana","G. fortis","fortisFloreana","Male",74,48.5,18.2,15,12,24
+"G. fortis","CAS",5346,"Floreana","fortisFloreana","G. fortis","fortisFloreana","Male",75,46.5,17.8,13,11.5,23
+"G. fortis","CAS",5345,"Floreana","fortisFloreana","G. fortis","fortisFloreana","Male",75.5,44.5,17.5,14.5,11,23
+"G. fuliginosa","CAS",5431,"Pinta","fuliginosaPinta","G. fuliginosa","fuliginosaPinta","Male",60,37,11,7.2,6,18
+"G. fuliginosa","CAS",5932,"Pinta","fuliginosaPinta","G. fuliginosa","fuliginosaPinta","Male",58.5,38,11.2,8,6.2,19
+"G. fuliginosa","Stanford University",5251,"Pinta","fuliginosaPinta","G. fuliginosa","fuliginosaPinta","Male",55.2,34,12,8.2,6.5,17.5
+"G. fuliginosa","Stanford University",5195,"Pinta","fuliginosaPinta","G. fuliginosa","fuliginosaPinta","Male",58,34.5,10.5,7,6,17
+"G. fuliginosa","Stanford University",5158,"Pinta","fuliginosaPinta","G. fuliginosa","fuliginosaPinta","Male",58.5,35.5,11.2,7.5,6.2,18.5
+"G. fuliginosa","CAS",5935,"Pinta","fuliginosaPinta","G. fuliginosa","fuliginosaPinta","Male",57.2,36.8,11.5,7,6,18.5
+"G. fuliginosa","CAS",5939,"Pinta","fuliginosaPinta","G. fuliginosa","fuliginosaPinta","Male",57.5,34.8,10,6.5,6,18
+"G. fuliginosa","CAS",5931,"Pinta","fuliginosaPinta","G. fuliginosa","fuliginosaPinta","Male",58.8,39,11.2,7.5,6,19
+"G. fuliginosa","CAS",5934,"Pinta","fuliginosaPinta","G. fuliginosa","fuliginosaPinta","Male",57.8,35.2,11.2,7.5,6.2,17.2
+"G. fuliginosa","CAS",5930,"Pinta","fuliginosaPinta","G. fuliginosa","fuliginosaPinta","Male",58,36.5,11.5,7.5,6.2,17.5
+"G. fuliginosa","CAS",6859,"Marchena","fuliginosaMarchena","G. fuliginosa","fuliginosaMarchena","Male",59.2,36,10.2,7,6,18
+"G. fuliginosa","CAS",5927,"Marchena","fuliginosaMarchena","G. fuliginosa","fuliginosaMarchena","Male",57.8,36,11.2,7.2,6.2,18.2
+"G. fuliginosa","CAS",5928,"Marchena","fuliginosaMarchena","G. fuliginosa","fuliginosaMarchena","Male",59,35.8,11.8,6.8,6,18
+"G. fuliginosa","CAS",5432,"Marchena","fuliginosaMarchena","G. fuliginosa","fuliginosaMarchena","Male",57.5,36,11.5,7.8,6.5,18.2
+"G. fuliginosa","CAS",5929,"Marchena","fuliginosaMarchena","G. fuliginosa","fuliginosaMarchena","Male",59,37,11,7.2,6,18.2
+"G. fuliginosa","CAS",5933,"Marchena","fuliginosaMarchena","G. fuliginosa","fuliginosaMarchena","Male",59.2,36.8,11,7.2,5.8,18
+"G. fuliginosa","Stanford University",5128,"Marchena","fuliginosaMarchena","G. fuliginosa","fuliginosaMarchena","Male",55.2,36.2,11,6.5,5.8,18
+"G. fuliginosa","Stanford University",5165,"Marchena","fuliginosaMarchena","G. fuliginosa","fuliginosaMarchena","Male",57.8,37,11,7,6,18
+"G. fuliginosa","Stanford University",5117,"Marchena","fuliginosaMarchena","G. fuliginosa","fuliginosaMarchena","Male",56,37,11.2,6.2,6,19
+"G. fuliginosa","Stanford University",4119,"Fernandina","fuliginosaFernandina","G. fuliginosa","fuliginosaFernandina","Male",62.5,37.5,11,7.5,6.2,18.2
+"G. fuliginosa","Stanford University",4164,"Fernandina","fuliginosaFernandina","G. fuliginosa","fuliginosaFernandina","Male",63,38,11,7.5,6.2,20.5
+"G. fuliginosa","Stanford University",4151,"Fernandina","fuliginosaFernandina","G. fuliginosa","fuliginosaFernandina","Male",62,37.8,11.2,7.5,6,18.5
+"G. fuliginosa","Stanford University",4159,"Fernandina","fuliginosaFernandina","G. fuliginosa","fuliginosaFernandina","Male",63,38.2,10.5,7.8,6.5,20
+"G. fuliginosa","Stanford University",4426,"Fernandina","fuliginosaFernandina","G. fuliginosa","fuliginosaFernandina","Male",62.2,38,11.5,7.5,6.2,20
+"G. fuliginosa","Stanford University",4009,"Fernandina","fuliginosaFernandina","G. fuliginosa","fuliginosaFernandina","Male",61.5,38,10,7.5,6.5,18.5
+"G. fuliginosa","Stanford University",4465,"Fernandina","fuliginosaFernandina","G. fuliginosa","fuliginosaFernandina","Male",62,38,11.2,7.2,6.2,18.2
+"G. fuliginosa","Stanford University",4413,"Fernandina","fuliginosaFernandina","G. fuliginosa","fuliginosaFernandina","Male",62,40,11.2,7.2,6.2,20
+"G. fuliginosa","Stanford University",4460,"Fernandina","fuliginosaFernandina","G. fuliginosa","fuliginosaFernandina","Male",62.2,37,11.2,8,7,20
+"G. fuliginosa","Stanford University",4045,"Fernandina","fuliginosaFernandina","G. fuliginosa","fuliginosaFernandina","Male",65,36,11,8,6.5,20
+"G. fuliginosa","CAS",5684,"Isabela","fuliginosaIsabela","G. fuliginosa","fuliginosaIsabela","Male",63.2,38.5,12.5,8.2,7,19
+"G. fuliginosa","CAS",5629,"Isabela","fuliginosaIsabela","G. fuliginosa","fuliginosaIsabela","Male",65.2,40.8,11.2,8,6.8,19.8
+"G. fuliginosa","CAS",5687,"Isabela","fuliginosaIsabela","G. fuliginosa","fuliginosaIsabela","Male",66.5,41,11.5,8,7,20
+"G. fuliginosa","CAS",5647,"Isabela","fuliginosaIsabela","G. fuliginosa","fuliginosaIsabela","Male",63.2,41,11,7.8,6.2,19.2
+"G. fuliginosa","CAS",5694,"Isabela","fuliginosaIsabela","G. fuliginosa","fuliginosaIsabela","Male",63.8,39.8,12.5,9,6.5,20
+"G. fuliginosa","CAS",5427,"Isabela","fuliginosaIsabela","G. fuliginosa","fuliginosaIsabela","Male",62,42.5,12,8.5,7,20.5
+"G. fuliginosa","CAS",5691,"Isabela","fuliginosaIsabela","G. fuliginosa","fuliginosaIsabela","Male",64,43,13,8.2,7,20
+"G. fuliginosa","CAS",5674,"Isabela","fuliginosaIsabela","G. fuliginosa","fuliginosaIsabela","Male",65,41.5,11.5,8.2,6.5,20
+"G. fuliginosa","CAS",5650,"Isabela","fuliginosaIsabela","G. fuliginosa","fuliginosaIsabela","Male",64,40.2,11.2,7.2,6.5,20
+"G. fuliginosa","CAS",5615,"Isabela","fuliginosaIsabela","G. fuliginosa","fuliginosaIsabela","Male",65.5,41,11.5,8.8,7,19.5
+"G. fuliginosa","CAS",5677,"Santiago","fuliginosaSantiago","G. fuliginosa","fuliginosaSantiago","Male",63,35.2,11.5,8,6.5,18.5
+"G. fuliginosa","CAS",6820,"Santiago","fuliginosaSantiago","G. fuliginosa","fuliginosaSantiago","Male",64.2,39,12,8,6.5,20
+"G. fuliginosa","CAS",5764,"Santiago","fuliginosaSantiago","G. fuliginosa","fuliginosaSantiago","Male",58,33.5,11,8,7,18.5
+"G. fuliginosa","CAS",5707,"Santiago","fuliginosaSantiago","G. fuliginosa","fuliginosaSantiago","Male",61.5,37.2,11.5,7.5,6.5,19.2
+"G. fuliginosa","CAS",5724,"Santiago","fuliginosaSantiago","G. fuliginosa","fuliginosaSantiago","Male",62,42,10.2,7.5,6.2,18.8
+"G. fuliginosa","Stanford University",4534,"Santiago","fuliginosaSantiago","G. fuliginosa","fuliginosaSantiago","Male",62.2,39.2,12,8,6.2,20
+"G. fuliginosa","CAS",5815,"Santiago","fuliginosaSantiago","G. fuliginosa","fuliginosaSantiago","Male",61.5,37,11,8,6.5,20
+"G. fuliginosa","CAS",5772,"Rabida","fuliginosaRabida","G. fuliginosa","fuliginosaRabida","Male",62.2,36,12,9,7,20
+"G. fuliginosa","CAS",5701,"Rabida","fuliginosaRabida","G. fuliginosa","fuliginosaRabida","Male",61,36.2,11,7.2,6.2,19
+"G. fuliginosa","CAS",5665,"Rabida","fuliginosaRabida","G. fuliginosa","fuliginosaRabida","Male",62.2,39.8,12,7.5,6.5,19.8
+"G. fuliginosa","CAS",5787,"Rabida","fuliginosaRabida","G. fuliginosa","fuliginosaRabida","Male",61,39,12,7.5,6.2,19
+"G. fuliginosa","CAS",6818,"Rabida","fuliginosaRabida","G. fuliginosa","fuliginosaRabida","Male",62,38,12,8,6.2,19.8
+"G. fuliginosa","CAS",5668,"Pinzon","fuliginosaPinzon","G. fuliginosa","fuliginosaPinzon","Male",63.5,39,12.2,7.8,7,20.5
+"G. fuliginosa","CAS",5688,"Pinzon","fuliginosaPinzon","G. fuliginosa","fuliginosaPinzon","Male",60.8,38,11,8,6.5,20.2
+"G. fuliginosa","CAS",5700,"Pinzon","fuliginosaPinzon","G. fuliginosa","fuliginosaPinzon","Male",60,37,11.5,8,6.5,19
+"G. fuliginosa","CAS",5715,"Pinzon","fuliginosaPinzon","G. fuliginosa","fuliginosaPinzon","Male",64.5,37,11,7.5,6.8,20
+"G. fuliginosa","CAS",5663,"Pinzon","fuliginosaPinzon","G. fuliginosa","fuliginosaPinzon","Male",63.2,40,12,8.2,6.2,21
+"G. fuliginosa","CAS",5655,"Pinzon","fuliginosaPinzon","G. fuliginosa","fuliginosaPinzon","Male",62.2,37,11,8,6.5,19.8
+"G. fuliginosa","CAS",5654,"Pinzon","fuliginosaPinzon","G. fuliginosa","fuliginosaPinzon","Male",63.5,38.5,11.5,7.5,7,20
+"G. fuliginosa","CAS",5430,"Pinzon","fuliginosaPinzon","G. fuliginosa","fuliginosaPinzon","Male",62,38.2,13,8.5,7,19
+"G. fuliginosa","CAS",5631,"Pinzon","fuliginosaPinzon","G. fuliginosa","fuliginosaPinzon","Male",60,37,11,7.5,6.5,19.2
+"G. fuliginosa","CAS",5429,"Pinzon","fuliginosaPinzon","G. fuliginosa","fuliginosaPinzon","Male",64,37.5,12.5,8,7,20
+"G. fuliginosa","CAS",5620,"Santa Cruz","fuliginosaSanta Cruz","G. fuliginosa","fuliginosaSanta Cruz","Male",62.5,39.5,12,8.2,7,20.5
+"G. fuliginosa","CAS",6368,"Santa Cruz","fuliginosaSanta Cruz","G. fuliginosa","fuliginosaSanta Cruz","Male",64.5,38,11,7.5,6.5,20.5
+"G. fuliginosa","CAS",5666,"Santa Cruz","fuliginosaSanta Cruz","G. fuliginosa","fuliginosaSanta Cruz","Male",62,39.2,12,8,6.5,20
+"G. fuliginosa","CAS",5649,"Santa Cruz","fuliginosaSanta Cruz","G. fuliginosa","fuliginosaSanta Cruz","Male",60.5,41.5,11,7.2,6,19
+"G. fuliginosa","CAS",5656,"Santa Cruz","fuliginosaSanta Cruz","G. fuliginosa","fuliginosaSanta Cruz","Male",63.2,39.5,11,7.2,6,20
+"G. fuliginosa","CAS",5673,"Santa Cruz","fuliginosaSanta Cruz","G. fuliginosa","fuliginosaSanta Cruz","Male",62.2,37.5,11,7.8,6.2,20
+"G. fuliginosa","CAS",5709,"Santa Cruz","fuliginosaSanta Cruz","G. fuliginosa","fuliginosaSanta Cruz","Male",62.5,39.2,11.5,7.8,6.2,19
+"G. fuliginosa","CAS",5669,"Santa Cruz","fuliginosaSanta Cruz","G. fuliginosa","fuliginosaSanta Cruz","Male",62.2,37.5,12,7.5,6,19.5
+"G. fuliginosa","CAS",5679,"Santa Cruz","fuliginosaSanta Cruz","G. fuliginosa","fuliginosaSanta Cruz","Male",62,39.5,12,7.2,6.5,19
+"G. fuliginosa","CAS",5699,"Santa Cruz","fuliginosaSanta Cruz","G. fuliginosa","fuliginosaSanta Cruz","Male",62,37.8,11.5,8,6.2,20.2
+"G. fuliginosa","CAS",5614,"Santa Fe","fuliginosaSanta Fe","G. fuliginosa","fuliginosaSanta Fe","Male",61.2,37,12.5,7.5,6.2,19
+"G. fuliginosa","CAS",6821,"Santa Fe","fuliginosaSanta Fe","G. fuliginosa","fuliginosaSanta Fe","Male",61.2,38,10.5,7,6,21
+"G. fuliginosa","CAS",5618,"Santa Fe","fuliginosaSanta Fe","G. fuliginosa","fuliginosaSanta Fe","Male",64,39.2,13,8.2,6.8,18.5
+"G. fuliginosa","CAS",5645,"Santa Fe","fuliginosaSanta Fe","G. fuliginosa","fuliginosaSanta Fe","Male",63,38.8,11.5,8,6.5,19.8
+"G. fuliginosa","CAS",5633,"Santa Fe","fuliginosaSanta Fe","G. fuliginosa","fuliginosaSanta Fe","Male",61.5,39.2,12.2,8.2,7,20
+"G. fuliginosa","CAS",5617,"Santa Fe","fuliginosaSanta Fe","G. fuliginosa","fuliginosaSanta Fe","Male",62.2,38,12,7.5,6.5,19.2
+"G. fuliginosa","CAS",5622,"Santa Fe","fuliginosaSanta Fe","G. fuliginosa","fuliginosaSanta Fe","Male",60.5,38,12,8.2,6.5,19.5
+"G. fuliginosa","CAS",5619,"Santa Fe","fuliginosaSanta Fe","G. fuliginosa","fuliginosaSanta Fe","Male",60.2,37,12,8,6.5,18.5
+"G. fuliginosa","CAS",5611,"Santa Fe","fuliginosaSanta Fe","G. fuliginosa","fuliginosaSanta Fe","Male",64.5,39.8,12.2,8.2,6.5,19
+"G. fuliginosa","CAS",5726,"Santa Fe","fuliginosaSanta Fe","G. fuliginosa","fuliginosaSanta Fe","Male",62,38,12,8.2,6.5,20
+"G. fuliginosa","CAS",5874,"San Cristobal","fuliginosaSan Cristobal","G. fuliginosa","fuliginosaSan Cristobal","Male",65,40.5,13.2,8,6.5,19
+"G. fuliginosa","CAS",5887,"San Cristobal","fuliginosaSan Cristobal","G. fuliginosa","fuliginosaSan Cristobal","Male",63.5,40,12.5,8.2,6.5,20.2
+"G. fuliginosa","CAS",5894,"San Cristobal","fuliginosaSan Cristobal","G. fuliginosa","fuliginosaSan Cristobal","Male",63.2,39,12,7.5,6.5,20
+"G. fuliginosa","CAS",5896,"San Cristobal","fuliginosaSan Cristobal","G. fuliginosa","fuliginosaSan Cristobal","Male",65,41,12.5,8.5,7,20
+"G. fuliginosa","CAS",5870,"San Cristobal","fuliginosaSan Cristobal","G. fuliginosa","fuliginosaSan Cristobal","Male",63.2,38.5,11.5,8,7,20.2
+"G. fuliginosa","CAS",5428,"San Cristobal","fuliginosaSan Cristobal","G. fuliginosa","fuliginosaSan Cristobal","Male",63.2,42,13,9,7.2,20.2
+"G. fuliginosa","CAS",5866,"San Cristobal","fuliginosaSan Cristobal","G. fuliginosa","fuliginosaSan Cristobal","Male",64,41,12,8.2,6.5,20.2
+"G. fuliginosa","CAS",5868,"San Cristobal","fuliginosaSan Cristobal","G. fuliginosa","fuliginosaSan Cristobal","Male",63,39,12,8.5,7,20
+"G. fuliginosa","CAS",5882,"San Cristobal","fuliginosaSan Cristobal","G. fuliginosa","fuliginosaSan Cristobal","Male",62.5,36.5,11.5,7.5,6.5,19.5
+"G. fuliginosa","CAS",5897,"San Cristobal","fuliginosaSan Cristobal","G. fuliginosa","fuliginosaSan Cristobal","Male",61,39,10.8,7,6.5,20.2
+"G. fuliginosa","CAS",6854,"San Cristobal","fuliginosaSan Cristobal","G. fuliginosa","fuliginosaSan Cristobal","Male",61,37,10.5,7.2,6,19
+"G. fuliginosa","CAS",5895,"San Cristobal","fuliginosaSan Cristobal","G. fuliginosa","fuliginosaSan Cristobal","Male",63,37,10,7,5.5,20
+"G. fuliginosa","CAS",5869,"San Cristobal","fuliginosaSan Cristobal","G. fuliginosa","fuliginosaSan Cristobal","Male",60,38,11.2,7.2,6.2,19
+"G. fuliginosa","CAS",5891,"San Cristobal","fuliginosaSan Cristobal","G. fuliginosa","fuliginosaSan Cristobal","Male",63.5,36.5,10.8,7.2,6,20
+"G. fuliginosa","CAS",6852,"San Cristobal","fuliginosaSan Cristobal","G. fuliginosa","fuliginosaSan Cristobal","Male",61.5,36.8,10.5,7.2,5.8,18
+"G. fuliginosa","CAS",5901,"San Cristobal","fuliginosaSan Cristobal","G. fuliginosa","fuliginosaSan Cristobal","Male",60.5,37,10.5,7.5,6,20.5
+"G. fuliginosa","CAS",5908,"San Cristobal","fuliginosaSan Cristobal","G. fuliginosa","fuliginosaSan Cristobal","Male",60.2,37,10,7,6,20
+"G. fuliginosa","CAS",5905,"San Cristobal","fuliginosaSan Cristobal","G. fuliginosa","fuliginosaSan Cristobal","Male",62.2,38,10.5,7,6,19
+"G. fuliginosa","CAS",5915,"San Cristobal","fuliginosaSan Cristobal","G. fuliginosa","fuliginosaSan Cristobal","Male",62,36.5,10.2,7,5.5,19.2
+"G. fuliginosa","CAS",5922,"San Cristobal","fuliginosaSan Cristobal","G. fuliginosa","fuliginosaSan Cristobal","Male",57,34,10.5,7,6,18
+"G. fuliginosa","CAS",5689,"Floreana","fuliginosaFloreana","G. fuliginosa","fuliginosaFloreana","Male",65,42.2,10.8,8.5,7,20
+"G. fuliginosa","CAS",5634,"Floreana","fuliginosaFloreana","G. fuliginosa","fuliginosaFloreana","Male",63.5,41,11.2,8,7,19.5
+"G. fuliginosa","CAS",5754,"Floreana","fuliginosaFloreana","G. fuliginosa","fuliginosaFloreana","Male",60.5,38,10,7.5,6.2,19.5
+"G. fuliginosa","CAS",5639,"Floreana","fuliginosaFloreana","G. fuliginosa","fuliginosaFloreana","Male",61.2,37.5,11,7.2,6,19
+"G. fuliginosa","CAS",5640,"Floreana","fuliginosaFloreana","G. fuliginosa","fuliginosaFloreana","Male",61.5,39.2,12.2,8,6.5,20
+"G. fuliginosa","CAS",5708,"Floreana","fuliginosaFloreana","G. fuliginosa","fuliginosaFloreana","Male",61,40,11.5,7.5,6.5,20
+"G. fuliginosa","CAS",5779,"Floreana","fuliginosaFloreana","G. fuliginosa","fuliginosaFloreana","Male",60.5,41,12,7.8,6.5,20
+"G. fuliginosa","CAS",5697,"Floreana","fuliginosaFloreana","G. fuliginosa","fuliginosaFloreana","Male",63,37.8,11,8,6.5,20
+"G. fuliginosa","CAS",5661,"Floreana","fuliginosaFloreana","G. fuliginosa","fuliginosaFloreana","Male",61,38.5,10.5,7.2,6,20
+"G. fuliginosa","CAS",5729,"Floreana","fuliginosaFloreana","G. fuliginosa","fuliginosaFloreana","Male",65,39,12.2,8,6.8,20
+"G. fuliginosa","CAS",5690,"Espanola","fuliginosaEspanola","G. fuliginosa","fuliginosaEspanola","Male",64,41,11.5,7.5,6.5,20.2
+"G. fuliginosa","CAS",5696,"Espanola","fuliginosaEspanola","G. fuliginosa","fuliginosaEspanola","Male",62.2,39,12,7.5,6.8,21
+"G. fuliginosa","CAS",5704,"Espanola","fuliginosaEspanola","G. fuliginosa","fuliginosaEspanola","Male",64,39.5,12,7.5,7,19.8
+"G. fuliginosa","CAS",5637,"Espanola","fuliginosaEspanola","G. fuliginosa","fuliginosaEspanola","Male",63.5,40,11.5,7.5,6.5,19.2
+"G. fuliginosa","CAS",5659,"Espanola","fuliginosaEspanola","G. fuliginosa","fuliginosaEspanola","Male",63.2,39.5,12,7.2,6.5,18.5
+"G. fuliginosa","CAS",5681,"Espanola","fuliginosaEspanola","G. fuliginosa","fuliginosaEspanola","Male",63,38.8,12,8,6.5,20
+"G. fuliginosa","CAS",5712,"Espanola","fuliginosaEspanola","G. fuliginosa","fuliginosaEspanola","Male",65,41,12,8,6.5,20.5
+"G. fuliginosa","CAS",5612,"Espanola","fuliginosaEspanola","G. fuliginosa","fuliginosaEspanola","Male",63.2,38.8,12.5,8.5,6.5,20
+"G. fuliginosa","CAS",5613,"Espanola","fuliginosaEspanola","G. fuliginosa","fuliginosaEspanola","Male",63,40.5,12,8,6.5,20
+"G. fuliginosa","CAS",5638,"Espanola","fuliginosaEspanola","G. fuliginosa","fuliginosaEspanola","Male",63.5,41,11.5,7.2,6.5,20
+"G. difficilis","CAS",6981,"Darwin","difficilisDarwin","G. septentrionalis","septentrionalisDarwin","Male",71.5,49,15.5,9,7.8,22
+"G. difficilis","CAS",6982,"Darwin","difficilisDarwin","G. septentrionalis","septentrionalisDarwin","Male",72,47,16,9,7.2,23.2
+"G. difficilis","CAS",6983,"Darwin","difficilisDarwin","G. septentrionalis","septentrionalisDarwin","Male",71.2,47,14.5,8.2,6.8,23
+"G. difficilis","CAS",6984,"Darwin","difficilisDarwin","G. septentrionalis","septentrionalisDarwin","Male",72,48,16.2,9.2,8,23
+"G. difficilis","CAS",6985,"Darwin","difficilisDarwin","G. septentrionalis","septentrionalisDarwin","Male",72,48,16,8.8,7.2,23
+"G. difficilis","CAS",6986,"Darwin","difficilisDarwin","G. septentrionalis","septentrionalisDarwin","Male",72,48,16.2,9,7.8,23.2
+"G. difficilis","CAS",6992,"Darwin","difficilisDarwin","G. septentrionalis","septentrionalisDarwin","Male",73,49,15,9,7.5,23.5
+"G. difficilis","Stanford University",5406,"Darwin","difficilisDarwin","G. septentrionalis","septentrionalisDarwin","Male",72,47,15,9,7.2,23
+"G. difficilis","Stanford University",5408,"Darwin","difficilisDarwin","G. septentrionalis","septentrionalisDarwin","Male",70,46,15,8.5,7,22
+"G. difficilis","Stanford University",5412,"Darwin","difficilisDarwin","G. septentrionalis","septentrionalisDarwin","Male",73,50,17,9.2,8,23
+"G. difficilis","CAS",6947,"Wolf","difficilisWolf","G. septentrionalis","septentrionalisWolf","Male",68,45.5,14,7.5,7,22
+"G. difficilis","CAS",6948,"Wolf","difficilisWolf","G. septentrionalis","septentrionalisWolf","Male",74,48,13.2,8.8,7,23
+"G. difficilis","CAS",6949,"Wolf","difficilisWolf","G. septentrionalis","septentrionalisWolf","Male",71.5,47.5,14,8,6.8,23
+"G. difficilis","CAS",6950,"Wolf","difficilisWolf","G. septentrionalis","septentrionalisWolf","Male",72,47,14,7.5,7,22
+"G. difficilis","CAS",6951,"Wolf","difficilisWolf","G. septentrionalis","septentrionalisWolf","Male",72,45.5,13.5,8,6.5,21.2
+"G. difficilis","CAS",6952,"Wolf","difficilisWolf","G. septentrionalis","septentrionalisWolf","Male",71.2,48,13.5,7.5,7,21.5
+"G. difficilis","Stanford University",3857,"Wolf","difficilisWolf","G. septentrionalis","septentrionalisWolf","Male",70,44.5,15,8.5,7.2,22.5
+"G. difficilis","Stanford University",3863,"Wolf","difficilisWolf","G. septentrionalis","septentrionalisWolf","Male",72,44.5,15,8,7,22
+"G. difficilis","Stanford University",3864,"Wolf","difficilisWolf","G. septentrionalis","septentrionalisWolf","Male",71,44,14.2,8.5,7.2,22.2
+"G. difficilis","Stanford University",3873,"Wolf","difficilisWolf","G. septentrionalis","septentrionalisWolf","Male",69.5,43.5,14.5,8,6.8,22
+"G. difficilis","Stanford University",5254,"Pinta","difficilisPinta","G. difficilis","difficilisPinta","Male",62.2,39.2,14.5,8,6,20.5
+"G. difficilis","Stanford University",5192,"Pinta","difficilisPinta","G. difficilis","difficilisPinta","Male",60.5,35,14.5,8.2,6.5,21
+"G. difficilis","Stanford University",5216,"Pinta","difficilisPinta","G. difficilis","difficilisPinta","Male",60.5,38,14.5,8.5,7,20.5
+"G. difficilis","Stanford University",5246,"Pinta","difficilisPinta","G. difficilis","difficilisPinta","Male",61,38,14.5,8,6.5,21
+"G. difficilis","Stanford University",5095,"Pinta","difficilisPinta","G. difficilis","difficilisPinta","Male",60.5,37.5,14.2,8.2,7,21.2
+"G. difficilis","CAS",5943,"Genovesa","difficilisGenovesa","G. acutirostris","acutirostrisGenovesa","Male",61,36,12.5,8,6,18.8
+"G. difficilis","CAS",5944,"Genovesa","difficilisGenovesa","G. acutirostris","acutirostrisGenovesa","Male",64,40,12.5,8,6.5,19.2
+"G. difficilis","CAS",5945,"Genovesa","difficilisGenovesa","G. acutirostris","acutirostrisGenovesa","Male",65,41.2,12.5,8,6.2,19
+"G. difficilis","CAS",5951,"Genovesa","difficilisGenovesa","G. acutirostris","acutirostrisGenovesa","Male",65,40,12.8,7.5,6.5,19.2
+"G. difficilis","CAS",5947,"Genovesa","difficilisGenovesa","G. acutirostris","acutirostrisGenovesa","Male",61.5,40,12,7.2,6.2,18.2
+"G. difficilis","CAS",5948,"Genovesa","difficilisGenovesa","G. acutirostris","acutirostrisGenovesa","Male",61,38.5,12.8,8,6.8,18.5
+"G. difficilis","CAS",5950,"Genovesa","difficilisGenovesa","G. acutirostris","acutirostrisGenovesa","Male",62,39,12.2,8,6.8,19.2
+"G. difficilis","CAS",5942,"Genovesa","difficilisGenovesa","G. acutirostris","acutirostrisGenovesa","Male",61.5,36.5,11.5,7.8,6.2,18.8
+"G. difficilis","CAS",5946,"Genovesa","difficilisGenovesa","G. acutirostris","acutirostrisGenovesa","Male",61.2,39.5,12.2,7.5,6.2,20
+"G. difficilis","CAS",5949,"Genovesa","difficilisGenovesa","G. acutirostris","acutirostrisGenovesa","Male",61.2,37,12.8,8,6.2,19
+"G. difficilis","CAS",6888,"Santiago","difficilisSantiago","G. difficilis","difficilisSantiago","Male",71.2,40.2,15.2,9.5,8,23.2
+"G. difficilis","CAS",6889,"Santiago","difficilisSantiago","G. difficilis","difficilisSantiago","Male",70.5,41.5,14.5,10.2,7.5,23
+"G. difficilis","CAS",6890,"Santiago","difficilisSantiago","G. difficilis","difficilisSantiago","Male",72.5,45,15,9.5,8,24
+"G. difficilis","CAS",6902,"Santiago","difficilisSantiago","G. difficilis","difficilisSantiago","Male",72.5,40.5,14.5,9,7.8,23.2
+"G. difficilis","CAS",6903,"Santiago","difficilisSantiago","G. difficilis","difficilisSantiago","Male",71.5,45,15,9.5,7.8,23
+"G. difficilis","CAS",6906,"Santiago","difficilisSantiago","G. difficilis","difficilisSantiago","Male",68.5,40.5,14,9,7.5,24
+"G. difficilis","CAS",6909,"Santiago","difficilisSantiago","G. difficilis","difficilisSantiago","Male",68.5,39.5,15.8,9.5,7.2,24
+"G. difficilis","CAS",6910,"Santiago","difficilisSantiago","G. difficilis","difficilisSantiago","Male",69,40,15,9.5,7.8,26
+"G. difficilis","CAS",6911,"Santiago","difficilisSantiago","G. difficilis","difficilisSantiago","Male",68.2,40.5,14.2,8.5,7.5,24
+"G. difficilis","CAS",6913,"Santiago","difficilisSantiago","G. difficilis","difficilisSantiago","Male",70.2,39.5,15.2,9.5,8,24.2
+"G. difficilis","CAS",6876,"Santa Cruz","difficilisSanta Cruz","G. difficilis","difficilisSanta Cruz","Male",66.5,40,13.8,8.2,7.2,21.8
+"G. difficilis","CAS",6878,"Santa Cruz","difficilisSanta Cruz","G. difficilis","difficilisSanta Cruz","Male",69,41.5,14.2,8.5,7.2,20.5
+"G. difficilis","CAS",6879,"Santa Cruz","difficilisSanta Cruz","G. difficilis","difficilisSanta Cruz","Male",67.5,39.5,15,9.2,7.2,22
+"G. difficilis","CAS",6880,"Santa Cruz","difficilisSanta Cruz","G. difficilis","difficilisSanta Cruz","Male",68,39,14,8.2,7.2,23.5
+"G. difficilis","CAS",6872,"Santa Cruz","difficilisSanta Cruz","G. difficilis","difficilisSanta Cruz","Male",68,44.5,14,8.5,7.2,22.5
+"G. difficilis","CAS",6874,"Santa Cruz","difficilisSanta Cruz","G. difficilis","difficilisSanta Cruz","Male",68.2,40.5,14.2,9,7.5,22.5
+"G. difficilis","CAS",6875,"Santa Cruz","difficilisSanta Cruz","G. difficilis","difficilisSanta Cruz","Male",69,44.2,14.5,8.5,7,21.5
+"G. difficilis","CAS",6881,"Santa Cruz","difficilisSanta Cruz","G. difficilis","difficilisSanta Cruz","Male",67,41,14.5,9.2,7.5,23
+"G. difficilis","CAS",6917,"Santa Cruz","difficilisSanta Cruz","G. difficilis","difficilisSanta Cruz","Male",67.2,41,14.5,8.2,7.2,22
+"G. difficilis","CAS",6918,"Santa Cruz","difficilisSanta Cruz","G. difficilis","difficilisSanta Cruz","Male",66,41.5,14.2,8,7,22
+"G. scandens","CAS",7226,"Marchena","scandensMarchena","G. scandens","scandensMarchena","Male",69.5,42.5,20,10.5,8.8,22.5
+"G. scandens","CAS",7227,"Marchena","scandensMarchena","G. scandens","scandensMarchena","Male",73,43.5,18.5,9.8,8.2,22
+"G. scandens","CAS",7228,"Marchena","scandensMarchena","G. scandens","scandensMarchena","Male",71.2,44,18,9.5,7.5,22
+"G. scandens","CAS",7229,"Marchena","scandensMarchena","G. scandens","scandensMarchena","Male",75,44,21,11.5,9.5,23.5
+"G. scandens","Stanford University",5237,"Marchena","scandensMarchena","G. scandens","scandensMarchena","Male",69,43.5,18,10.5,8,21
+"G. scandens","Stanford University",5145,"Marchena","scandensMarchena","G. scandens","scandensMarchena","Male",67.5,41,21,10,7.5,21.5
+"G. scandens","Stanford University",5146,"Marchena","scandensMarchena","G. scandens","scandensMarchena","Male",71.2,43,20.2,11,9,21
+"G. scandens","Stanford University",5122,"Marchena","scandensMarchena","G. scandens","scandensMarchena","Male",69,43.5,18,10,8,21.5
+"G. scandens","CAS",7223,"Pinta","scandensPinta","G. scandens","scandensPinta","Male",71,47.2,18.5,10,8.5,22.5
+"G. scandens","CAS",7222,"Pinta","scandensPinta","G. scandens","scandensPinta","Male",73,48,19.8,9.5,8.5,22
+"G. scandens","CAS",7224,"Pinta","scandensPinta","G. scandens","scandensPinta","Male",69,43,18.5,10,8.2,22.2
+"G. scandens","CAS",7225,"Pinta","scandensPinta","G. scandens","scandensPinta","Male",70.5,45,18.5,9,8,21
+"G. scandens","CAS",7221,"Pinta","scandensPinta","G. scandens","scandensPinta","Male",71,46,18,9,7.2,22
+"G. scandens","CAS",7206,"Isabela","scandensIsabela","G. scandens","scandensIsabela","Male",72,43.5,17.5,9.2,7.5,21.2
+"G. scandens","CAS",7207,"Isabela","scandensIsabela","G. scandens","scandensIsabela","Male",73.5,42,19.2,9.5,8,23
+"G. scandens","CAS",7210,"Isabela","scandensIsabela","G. scandens","scandensIsabela","Male",71.5,43.2,18,9,8,22.2
+"G. scandens","CAS",7211,"Isabela","scandensIsabela","G. scandens","scandensIsabela","Male",68.5,44,18.5,9,8,23
+"G. scandens","CAS",7213,"Isabela","scandensIsabela","G. scandens","scandensIsabela","Male",70.2,42.2,19.5,10,8.2,22
+"G. scandens","CAS",7208,"Isabela","scandensIsabela","G. scandens","scandensIsabela","Male",72.5,41.2,19.8,10,7.8,23
+"G. scandens","CAS",7212,"Isabela","scandensIsabela","G. scandens","scandensIsabela","Male",71.5,42.5,18,9,8,22.2
+"G. scandens","CAS",7205,"Isabela","scandensIsabela","G. scandens","scandensIsabela","Male",74,40,19.8,9.8,8.5,23.2
+"G. scandens","CAS",7209,"Isabela","scandensIsabela","G. scandens","scandensIsabela","Male",71,43.8,17.5,9,7.5,22.2
+"G. scandens","Stanford University",5098,"Isabela","scandensIsabela","G. scandens","scandensIsabela","Male",70,43.2,17.5,9,8,21.5
+"G. scandens","CAS",7018,"Santiago","scandensSantiago","G. scandens","scandensSantiago","Male",70.5,43.5,17.2,8.8,7.5,21.5
+"G. scandens","CAS",7290,"Santiago","scandensSantiago","G. scandens","scandensSantiago","Male",69.5,42,16.5,8,7,20.5
+"G. scandens","Stanford University",4518,"Santiago","scandensSantiago","G. scandens","scandensSantiago","Male",68.5,41.5,16,9,7.2,20.2
+"G. scandens","Stanford University",4592,"Santiago","scandensSantiago","G. scandens","scandensSantiago","Male",70.2,43,17.5,8.2,7.5,21
+"G. scandens","Stanford University",4543,"Santiago","scandensSantiago","G. scandens","scandensSantiago","Male",69,41.2,17.2,8,7,20.5
+"G. scandens","Stanford University",4594,"Santiago","scandensSantiago","G. scandens","scandensSantiago","Male",71,43,17,9,7.5,22
+"G. scandens","Stanford University",4595,"Santiago","scandensSantiago","G. scandens","scandensSantiago","Male",67.5,40,17.2,8.5,7.2,20.2
+"G. scandens","Stanford University",4596,"Santiago","scandensSantiago","G. scandens","scandensSantiago","Male",68,41.2,17,9,7.2,22.2
+"G. scandens","Stanford University",4597,"Santiago","scandensSantiago","G. scandens","scandensSantiago","Male",68,42,17.8,9,8,22.5
+"G. scandens","CAS",7200,"Pinzon","scandensPinzon","G. scandens","scandensPinzon","Male",70,43,18.5,9,7.2,21.5
+"G. scandens","CAS",7201,"Pinzon","scandensPinzon","G. scandens","scandensPinzon","Male",70,41,19.5,9.5,8,21.2
+"G. scandens","CAS",7202,"Pinzon","scandensPinzon","G. scandens","scandensPinzon","Male",70.2,43,18.2,9.5,7.5,22.2
+"G. scandens","CAS",7203,"Pinzon","scandensPinzon","G. scandens","scandensPinzon","Male",70,42,19.5,10,8,23
+"G. scandens","CAS",7204,"Pinzon","scandensPinzon","G. scandens","scandensPinzon","Male",69,40.5,18.2,9.5,8,22.8
+"G. scandens","CAS",7153,"Santa Cruz","scandensSanta Cruz","G. scandens","scandensSanta Cruz","Male",72.5,43.2,21,10,7.5,22.5
+"G. scandens","CAS",7147,"Santa Cruz","scandensSanta Cruz","G. scandens","scandensSanta Cruz","Male",71,42,19.8,9,8,22.5
+"G. scandens","CAS",7146,"Santa Cruz","scandensSanta Cruz","G. scandens","scandensSanta Cruz","Male",73,43,20.2,10,8,23
+"G. scandens","CAS",7148,"Santa Cruz","scandensSanta Cruz","G. scandens","scandensSanta Cruz","Male",70,43,19.5,9.2,8,23
+"G. scandens","CAS",7151,"Santa Cruz","scandensSanta Cruz","G. scandens","scandensSanta Cruz","Male",72,42.8,21,10,8.2,22.5
+"G. scandens","CAS",7251,"Santa Cruz","scandensSanta Cruz","G. scandens","scandensSanta Cruz","Male",70,43.2,20.5,10,8.2,22
+"G. scandens","CAS",7162,"Santa Cruz","scandensSanta Cruz","G. scandens","scandensSanta Cruz","Male",70.5,41.5,19.8,9.2,8,22
+"G. scandens","CAS",7149,"Santa Cruz","scandensSanta Cruz","G. scandens","scandensSanta Cruz","Male",72.5,43.5,20.2,10,8.2,22.5
+"G. scandens","CAS",7150,"Santa Cruz","scandensSanta Cruz","G. scandens","scandensSanta Cruz","Male",70.5,44,19.5,9.5,7.8,22
+"G. scandens","CAS",7165,"Santa Cruz","scandensSanta Cruz","G. scandens","scandensSanta Cruz","Male",70,41.5,20,9.5,8,21.5
+"G. scandens","CAS",7195,"Rabida","scandensRabida","G. scandens","scandensRabida","Male",70.5,43.5,17.2,9,6.2,21
+"G. scandens","CAS",7196,"Rabida","scandensRabida","G. scandens","scandensRabida","Male",71,42,19,9,8,21
+"G. scandens","CAS",7197,"Rabida","scandensRabida","G. scandens","scandensRabida","Male",71,45,19.5,8.5,7.5,22
+"G. scandens","CAS",7198,"Rabida","scandensRabida","G. scandens","scandensRabida","Male",72.2,43,16.5,8.5,7.2,21
+"G. scandens","CAS",7199,"Rabida","scandensRabida","G. scandens","scandensRabida","Male",72.5,45,18,9,7.5,21
+"G. scandens","CAS",7124,"Santa Fe","scandensSanta Fe","G. scandens","scandensSanta Fe","Male",68.2,39,17.5,9.8,8.2,22
+"G. scandens","CAS",7113,"Santa Fe","scandensSanta Fe","G. scandens","scandensSanta Fe","Male",67.2,42.5,18,9,8,22.5
+"G. scandens","CAS",7114,"Santa Fe","scandensSanta Fe","G. scandens","scandensSanta Fe","Male",73,44.2,20,10,8,23
+"G. scandens","CAS",7123,"Santa Fe","scandensSanta Fe","G. scandens","scandensSanta Fe","Male",72,45.2,18.2,9.5,8,23.2
+"G. scandens","CAS",7125,"Santa Fe","scandensSanta Fe","G. scandens","scandensSanta Fe","Male",69.8,43.1,17.2,9.8,7.5,22.2
+"G. scandens","CAS",7129,"Santa Fe","scandensSanta Fe","G. scandens","scandensSanta Fe","Male",70,43.2,18,10.2,8.5,22
+"G. scandens","CAS",7116,"Santa Fe","scandensSanta Fe","G. scandens","scandensSanta Fe","Male",67,43.5,18,9.8,8.5,22.5
+"G. scandens","CAS",7117,"Santa Fe","scandensSanta Fe","G. scandens","scandensSanta Fe","Male",71.5,46.5,17,9,7.8,22.2
+"G. scandens","CAS",7118,"Santa Fe","scandensSanta Fe","G. scandens","scandensSanta Fe","Male",69.5,43,18.5,10,8.2,22
+"G. scandens","CAS",7119,"Santa Fe","scandensSanta Fe","G. scandens","scandensSanta Fe","Male",70,44.5,19.8,10,8.2,23.2
+"G. scandens","CAS",7039,"Floreana","scandensFloreana","G. scandens","scandensFloreana","Male",69,43.5,17,8.5,7.5,22.5
+"G. scandens","CAS",7042,"Floreana","scandensFloreana","G. scandens","scandensFloreana","Male",71.2,44.5,17,9.2,7.5,22
+"G. scandens","CAS",7026,"Floreana","scandensFloreana","G. scandens","scandensFloreana","Male",70.5,41.5,18.2,9.2,7.5,22.5
+"G. scandens","CAS",7057,"Floreana","scandensFloreana","G. scandens","scandensFloreana","Male",68.5,44,18,9,7.5,22
+"G. scandens","CAS",7020,"Floreana","scandensFloreana","G. scandens","scandensFloreana","Male",72,44,18.2,9.2,8,23
+"G. scandens","CAS",7022,"Floreana","scandensFloreana","G. scandens","scandensFloreana","Male",71.5,45.5,18.5,9.2,8,22
+"G. scandens","CAS",7041,"Floreana","scandensFloreana","G. scandens","scandensFloreana","Male",66.8,41.5,17.2,9,7.5,21
+"G. scandens","CAS",7021,"Floreana","scandensFloreana","G. scandens","scandensFloreana","Male",71.8,43.5,17.5,9.5,8,21.5
+"G. scandens","CAS",7038,"Floreana","scandensFloreana","G. scandens","scandensFloreana","Male",68.5,45,18,9.2,7.5,22
+"G. scandens","CAS",7054,"Floreana","scandensFloreana","G. scandens","scandensFloreana","Male",71.5,42,18,9.5,7.5,23
+"G. conirostris","CAS",4987,"Genovesa","conirostrisGenovesa","G. propinqua","propinquaGenovesa","Male",77,48.5,19.5,12.2,9.5,23
+"G. conirostris","Stanford University",5005,"Genovesa","conirostrisGenovesa","G. propinqua","propinquaGenovesa","Male",74,46,20.5,13.5,10,23
+"G. conirostris","Stanford University",5233,"Genovesa","conirostrisGenovesa","G. propinqua","propinquaGenovesa","Male",72.5,46.5,18.2,12,9.5,23.5
+"G. conirostris","Stanford University",5109,"Genovesa","conirostrisGenovesa","G. propinqua","propinquaGenovesa","Male",73,43,18,12.2,9.5,25
+"G. conirostris","Stanford University",5171,"Genovesa","conirostrisGenovesa","G. propinqua","propinquaGenovesa","Male",73,46.8,20,13,10,25
+"G. conirostris","Stanford University",5129,"Genovesa","conirostrisGenovesa","G. propinqua","propinquaGenovesa","Male",74.5,46.5,18.8,13.2,10,23
+"G. conirostris","Stanford University",5214,"Genovesa","conirostrisGenovesa","G. propinqua","propinquaGenovesa","Male",77,48,20,13.8,10.5,24.5
+"G. conirostris","Stanford University",5281,"Genovesa","conirostrisGenovesa","G. propinqua","propinquaGenovesa","Male",77,48.5,20.5,14,10.5,24.2
+"G. conirostris","CAS",4988,"Genovesa","conirostrisGenovesa","G. propinqua","propinquaGenovesa","Male",73,43,20.5,12,9.5,25.5
+"G. conirostris","CAS",4992,"Espanola","conirostrisEspanola","G. conirostris","conirostrisEspanola","Male",77.5,50,19,14.5,11,23.2
+"G. conirostris","CAS",5007,"Espanola","conirostrisEspanola","G. conirostris","conirostrisEspanola","Male",83.5,47.5,23.5,18.5,13,24.2
+"G. conirostris","CAS",5010,"Espanola","conirostrisEspanola","G. conirostris","conirostrisEspanola","Male",79,48.2,22.8,17.2,12.5,24
+"G. conirostris","CAS",5011,"Espanola","conirostrisEspanola","G. conirostris","conirostrisEspanola","Male",80.8,51.8,22,18,13,24
+"G. conirostris","CAS",5016,"Espanola","conirostrisEspanola","G. conirostris","conirostrisEspanola","Male",74,45.5,20.5,15.2,11.5,23.5
+"G. conirostris","CAS",5021,"Espanola","conirostrisEspanola","G. conirostris","conirostrisEspanola","Male",77,44.5,21,15.2,11.8,23
+"G. conirostris","CAS",5024,"Espanola","conirostrisEspanola","G. conirostris","conirostrisEspanola","Male",77.2,46,20,16,12.5,24
+"G. conirostris","CAS",5025,"Espanola","conirostrisEspanola","G. conirostris","conirostrisEspanola","Male",79,50,21.5,17,13,24.2
+"G. conirostris","CAS",5030,"Espanola","conirostrisEspanola","G. conirostris","conirostrisEspanola","Male",78.5,46.5,22.2,16.5,12.8,23.8
+"G. conirostris","CAS",5031,"Espanola","conirostrisEspanola","G. conirostris","conirostrisEspanola","Male",76,47,21,15.8,11,22.5
+"G. conirostris","CAS",4996,"Gardner","conirostrisGardner","G. conirostris","conirostrisEspanola","Male",79,48.5,18.5,14,10,23
+"G. conirostris","CAS",4998,"Gardner","conirostrisGardner","G. conirostris","conirostrisEspanola","Male",77,49.5,19.8,14.2,10.8,23.2
+"G. conirostris","CAS",5005,"Gardner","conirostrisGardner","G. conirostris","conirostrisEspanola","Male",79.5,51,18.5,14,11,22.5
+"G. conirostris","CAS",5013,"Gardner","conirostrisGardner","G. conirostris","conirostrisEspanola","Male",78,45.5,19,13.5,11,22.2
+"G. conirostris","CAS",5015,"Gardner","conirostrisGardner","G. conirostris","conirostrisEspanola","Male",75.2,45.5,19.8,15.5,11.2,23
+"G. conirostris","CAS",5046,"Gardner","conirostrisGardner","G. conirostris","conirostrisEspanola","Male",79.2,48,21,15.2,11.5,23.5
+"G. conirostris","CAS",5044,"Gardner","conirostrisGardner","G. conirostris","conirostrisEspanola","Male",74.5,46,19.5,14,10.8,23
+"G. conirostris","CAS",4999,"Gardner","conirostrisGardner","G. conirostris","conirostrisEspanola","Male",79,45.8,20,15.2,11.2,23.2
+"G. conirostris","CAS",4990,"Gardner","conirostrisGardner","G. conirostris","conirostrisEspanola","Male",74,47,18,12.5,9.2,22
+"G. conirostris","CAS",5098,"Gardner","conirostrisGardner","G. conirostris","conirostrisEspanola","Male",75.2,48,22,16.2,12.2,24
