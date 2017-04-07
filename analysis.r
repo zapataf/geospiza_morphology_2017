@@ -57,14 +57,14 @@ data
 # there is not enough resolution in the raster file for these islands -------------------------
 
 allgalapagos_NO_NW = merge( N00W090,
-							 N00W091, 
-							 N00W092, 
-							 S01W091, 
-							 S01W090, 
-							 S01W092, 
-							 S02W090, 
-							 S02W091, 
-							 S02W092 )
+			N00W091, 
+			N00W092, 
+			S01W091, 
+			S01W090, 
+			S01W092, 
+			S02W090, 
+			S02W091, 
+			S02W092 )
 
 ###################
 ## DATA ANALYSES ##
