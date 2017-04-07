@@ -56,7 +56,7 @@ data
 # Create a single raster of islands except islands in the NW; 
 # there is not enough resolution in the raster file for these islands -------------------------
 
-allgalapagos_NO_NW <- merge( N00W090, 
+allgalapagos_NO_NW = merge( N00W090,
 							 N00W091, 
 							 N00W092, 
 							 S01W091, 
