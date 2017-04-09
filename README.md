@@ -9,9 +9,9 @@ This repository contains the code and data of the analyses presented in:
 
 # Dependencies
 
-The scripts require R and several libraries. See `analysis.r` for details.
+The script requires R and several libraries. See `analysis.r` for details.
 
-The code presented here is written using largely the `tidyverse` syntax. To learn more about tidyverse, we recommend this resource: [R for Data Science](http://r4ds.had.co.nz). We also provide the same code for all analyses in `Base R` as supplementary online material to our manuscript. Both versions of the code do **exactly** the same.
+The code presented here is written largely using the `tidyverse` syntax. To learn more about tidyverse, we recommend this resource: [R for Data Science](http://r4ds.had.co.nz). We also provide the same code for all analyses in `Base R` as Supplementary Online Material (SOM) to our manuscript. Both versions of the code do **exactly** the same.
 
 # Data
 
