@@ -413,7 +413,9 @@ gplot( allgalapagos_NO_NW, maxpixels = 1000000 ) +
 	annotate( "text", x = -91.8, y = 0.94, label = "Darwin", size = 3 ) + 
     annotate( "text", x = -91.6, y = 0.55, label = "Wolf", size = 3 )
     
-# Plot rings per island. Note this assumes a new set of coordinates in the plotting canvas, so if there are changes in the axis or margins in map above, the x y positions of each ring must be changed here. --------------------------------------
+# Plot rings per island. Note this assumes a new set of coordinates in the plotting canvas, 
+# so if there are changes in the axis or margins in map above, the x y positions of each 
+# ring must be changed here. --------------------------------------
 
 # Baltra
 baltra_vp <- viewport( width = 0.1, 
@@ -551,7 +553,7 @@ print( ring_plots$Wolf, vp = wolf_vp )
 
 data_pca_mclust %>% 
   group_by( mcluster_classification ) %>% 
-  summarise( n_distinct( Island ) ) #%>% # Uncomment here and below to see median
+  summarise( n_distinct( Island ) ) #%>% # Uncomment here and below to estimate median
   #summarise(median(`n_distinct(Island)`))
 
 # How many morphological groups per island? -------------------------
