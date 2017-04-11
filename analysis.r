@@ -74,7 +74,7 @@ allgalapagos_NO_NW = merge( N00W090,
 
 pca_results = 
   data %>%
-    select( Wing:Tarsus ) %>% # Select traits
+    dplyr::select( Wing:Tarsus ) %>% # Select traits
     mutate_each( funs( log( . ) ) ) %>% # log-transform traits
     rename( LnWing = Wing, 
             LnTail = Tail, 
@@ -92,7 +92,7 @@ data_pca = bind_cols( data, tbl_df( pca_results$x ) ) # Tibble with original dat
 
 data_pca_varsel =
   data_pca %>%
-    select( PC1:PC6 ) %>%
+    dplyr::select( PC1:PC6 ) %>%
     clustvarsel( G = 1:30, search = c( "greedy" ), direction = c( "backward" ) )
 
 #data_pca_varsel$subset # Uncomment to see resulting subset (it should be: PC1, PC2, PC3, PC4)
@@ -105,7 +105,7 @@ mclust.options( hcUse = "VARS" ) # Change default to VARS (ie, original variable
 
 data_pca_varsel_gmm =
   data_pca %>%
-    select( PC1:PC4 ) %>%
+    dplyr::select( PC1:PC4 ) %>%
     Mclust( G = 1:30 )
 
 #summary( data_pca_varsel_gmm ) # uncomment to see results from Mclust, number of groups, and model.
@@ -120,7 +120,7 @@ bic_best_model_per_group = apply( data_pca_varsel_gmm$BIC, 1, max, na.rm = T )
 
 data_pca_varsel_gmm_7groups =
   data_pca %>%
-  select( PC1:PC4 ) %>%
+  dplyr::select( PC1:PC4 ) %>%
   Mclust( G = 7 )
 
 #summary(data_pca_varsel_gmm_7groups) # Uncomment to see details
@@ -129,7 +129,7 @@ data_pca_varsel_gmm_7groups =
 # Empirical support for the hypothesis of species limits by Lack (1947) -------------------------
 h_lack =
   data_pca %>%
-    select( PC1:PC4 ) %>%
+    dplyr::select( PC1:PC4 ) %>%
     MclustDA( G = 1, class = data_pca$Taxon, modelType = "MclustDA" )
 
 #summary(h_lack) # Uncomment to see details
@@ -139,7 +139,7 @@ h_lack =
 # Empirical support for the hypothesis of species limits based on current taxonomy -------------------------
 h_current_taxonomy =
   data_pca %>%
-    select( PC1:PC4 ) %>%
+    dplyr::select( PC1:PC4 ) %>%
     MclustDA( G = 1, class = data_pca$New_Taxonomy, modelType = "MclustDA" )
 
 #summary(h_current_taxonomy) # Uncomment to see details
@@ -627,7 +627,7 @@ data %>%
 
 data_pca_varselfwd =
   data_pca %>%
-  select( PC1:PC6 ) %>%
+  dplyr::select( PC1:PC6 ) %>%
   clustvarsel( G = 1:30, search = c( "greedy" ), direction = c( "forward" ) )
 
 #data_pca_varselfwd$subset # Uncomment to see resulting subset 
