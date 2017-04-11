@@ -365,7 +365,7 @@ gplot( allgalapagos_NO_NW, maxpixels = 1000000 ) +
 	scale_y_continuous( expand = c(0, 0) ) + 
 	xlab( "Longitude (degrees)" ) + 
 	ylab( "Latitude (degrees)" ) + 
-	theme( axis.line.x = element_line( color = "black", size = 0.5), 
+	theme( axis.line.x = element_line( color = "black", size = 0.5 ), 
         axis.line.y = element_line( color = "black", size = 0.5 ), 
         axis.title = element_text( size = 10 ), 
         axis.text = element_text( size = 10 ), 
@@ -377,7 +377,7 @@ gplot( allgalapagos_NO_NW, maxpixels = 1000000 ) +
         legend.key.size = unit( 0.3, "cm" ), 
         legend.justification = 'left', 
         panel.background = element_rect( color = "transparent", fill = NA ) ) + 
-    	scale_bar(lon = -91.9, 
+    scale_bar(lon = -91.9, 
         lat = -1.95,
         distance_lon = 25, 
         distance_lat = 2, 
