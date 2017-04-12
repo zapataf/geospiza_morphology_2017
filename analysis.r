@@ -436,7 +436,7 @@ gplot( allgalapagos_NO_NW, maxpixels = 1000000 ) +
 	annotate( "text", x = -90.7, y = 0.05, label = "Santiago", size = 3 ) + 
 	annotate( "rect", xmin = -91.975, xmax = -91.5, ymin = 0.3, ymax = 0.99, color= "black", fill="transparent", size = 0.2 ) + 
 	annotate( "text", x = -91.8, y = 0.94, label = "Darwin", size = 3 ) + 
-    annotate( "text", x = -91.6, y = 0.55, label = "Wolf", size = 3 )
+    	annotate( "text", x = -91.6, y = 0.55, label = "Wolf", size = 3 )
     
 # Plot rings per island. Note this assumes a new set of coordinates in the plotting canvas, 
 # so if there are changes in the axis or margins in map above, the x y positions of each 
