@@ -173,7 +173,7 @@ as_tibble( bic_best_model_per_group ) %>%
                             shape = 25, 
                             x = length(unique( data_pca$Taxon ) ), 
                             fill = "black", 
-                            size = 4) +
+                            size = 4 ) +
                 geom_segment( aes( x = length(unique( data_pca$Taxon ) ), 
 				  y = min( bic_best_model_per_group ), 
 				  xend = length(unique( data_pca$Taxon ) ), 
@@ -223,7 +223,7 @@ as_tibble( bic_best_model_per_group ) %>%
 				  yend = data_pca_varsel_gmm_7groups$bic ), 
 			     linetype = "dashed", 
 			     size = 0.3 ) +
-                theme( axis.line = element_line( color = "black", size = 0.5), 
+                theme( axis.line = element_line( color = "black", size = 0.5 ), 
                        axis.title = element_text( size = 15 ), 
                        axis.text = element_text( size = 10 ),
                        panel.border = element_rect( color = "transparent", fill = NA ),
@@ -358,19 +358,19 @@ ring_plots = list()
 
 for (i in unique(all_summ$Island)) {
 	ring_plots[[i]] <- ggplot( data = subset( all_summ, Island == paste(i) ),
-                                aes( fill = factor(mcluster_classification), 
+                                aes( fill = factor( mcluster_classification ), 
                                 xmin = 4, 
                                 xmax = 7, 
                                 ymin = ymin, 
                                 ymax = ymax ) ) + 
-                    	geom_rect() + 
+                    	geom_rect( ) + 
                     	coord_polar( theta = "y" ) + 
                     	scale_fill_manual( values = morphogroups_colors ) + 
                     	xlim( c( 0, 7 ) )  + 
-                    	theme( panel.grid = element_blank(),
-                            axis.text = element_blank(), 
-                            axis.ticks = element_blank(), 
-                            axis.title = element_blank(), 
+                    	theme( panel.grid = element_blank( ),
+                            axis.text = element_blank( ), 
+                            axis.ticks = element_blank( ), 
+                            axis.title = element_blank( ), 
                             legend.position = "none", 
                             plot.background = element_rect( fill = "transparent", color = NA ), 
                             panel.background = element_rect( fill = "transparent", color = NA ) ) + 
@@ -383,11 +383,11 @@ gplot( allgalapagos_NO_NW, maxpixels = 1000000 ) +
 	geom_raster( aes( fill = value ) ) + 
 	scale_fill_gradientn( colors = rev( gray.colors(20) ), 
         na.value = "white", 
-        limits = c( 1,1800 ), 
+        limits = c( 1, 1800 ), 
         name = "", labels = c( "1 m", "1700 m" ), 
         breaks = c( 1,1800 ) ) + 
-	scale_x_continuous( expand = c(0, 0.02) ) + 
-	scale_y_continuous( expand = c(0, 0) ) + 
+	scale_x_continuous( expand = c( 0, 0.02 ) ) + 
+	scale_y_continuous( expand = c( 0, 0 ) ) + 
 	xlab( "Longitude (degrees)" ) + 
 	ylab( "Latitude (degrees)" ) + 
 	theme( axis.line.x = element_line( color = "black", size = 0.5 ), 
@@ -629,7 +629,7 @@ data %>%
     theme_bw() +
     theme( axis.text = element_text( size = 14 ),
            axis.title = element_text( size = 15 ),
-           strip.text = element_text( face = "italic") )
+           strip.text = element_text( face = "italic" ) )
 
 data %>%
   ggplot( aes( x = Wing, y = Tail, color = Taxon ) ) + # Change to traits of interest
