@@ -1,6 +1,6 @@
 # This script includes the R code used in the analyses presented in:
 #
-# 	Cadena DC, Jimenez I, Zapata F. Atalantean evolution in Darwin's Finches - 
+# 	Cadena CD, Jimenez I, Zapata F. Atalantean evolution in Darwin's Finches - 
 #	Issues and Perspectives in Species Delimitation using Phenotypic Data
 #	http://biorxiv.org/content/early/2017/04/06/124610
 #
