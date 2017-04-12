@@ -174,30 +174,55 @@ as_tibble( bic_best_model_per_group ) %>%
                             x = length(unique( data_pca$Taxon ) ), 
                             fill = "black", 
                             size = 4) +
-                geom_segment( aes( x = length(unique( data_pca$Taxon ) ), y = min( bic_best_model_per_group ), xend = length(unique( data_pca$Taxon ) ), yend = h_lack$bic ), linetype = "dashed", size = 0.3 ) +
+                geom_segment( aes( x = length(unique( data_pca$Taxon ) ), 
+				  y = min( bic_best_model_per_group ), 
+				  xend = length(unique( data_pca$Taxon ) ), 
+				  yend = h_lack$bic ), 
+			     linetype = "dashed", 
+			     size = 0.3 ) +
                 geom_point( data = as_tibble( h_current_taxonomy$bic ), # Add hypothesis of current taxonomy.
                             shape = 15, 
                             x = length( unique( data_pca$New_Taxonomy ) ), 
                             fill = "black",
                             size = 4 ) +
-                geom_segment( aes( x = length(unique( data_pca$New_Taxonomy ) ), y = min( bic_best_model_per_group ), xend = length(unique( data_pca$New_Taxonomy ) ), yend = h_current_taxonomy$bic ), linetype = "dashed", size = 0.3 ) +
+                geom_segment( aes( x = length(unique( data_pca$New_Taxonomy ) ), 
+				  y = min( bic_best_model_per_group ), 
+				  xend = length(unique( data_pca$New_Taxonomy ) ), 
+				  yend = h_current_taxonomy$bic ), 
+			     linetype = "dashed", 
+			     size = 0.3 ) +
                 geom_point( data = as_tibble( min( bic_best_model_per_group ) ), # Add hypothesis McKay & Zink
                             shape = 24,
                             x = data_pca_varsel_gmm$G - 7,
                             fill = "black",
                             size = 4 ) +
-                geom_segment( aes( x = data_pca_varsel_gmm$G - 7, y = min( bic_best_model_per_group ), xend = data_pca_varsel_gmm$G - 7, yend = min( bic_best_model_per_group ) ), linetype = "dashed", size = 0.3 ) +
+                geom_segment( aes( x = data_pca_varsel_gmm$G - 7, 
+				  y = min( bic_best_model_per_group ), 
+				  xend = data_pca_varsel_gmm$G - 7, 
+				  yend = min( bic_best_model_per_group ) ), 
+			     linetype = "dashed", 
+			     size = 0.3 ) +
                 geom_point(data = as_tibble( max( bic_best_model_per_group ) ), # Add best mclust model
                            shape = 19,
                            x = data_pca_varsel_gmm$G,
                            fill = "black",
                            size = 4 ) +
-                geom_segment( aes( x = data_pca_varsel_gmm$G, y = min( bic_best_model_per_group ), xend = data_pca_varsel_gmm$G, yend = max( bic_best_model_per_group ) ), linetype = "dashed", size = 0.3 ) +
+                geom_segment( aes( x = data_pca_varsel_gmm$G, 
+				  y = min( bic_best_model_per_group ), 
+				  xend = data_pca_varsel_gmm$G, 
+				  yend = max( bic_best_model_per_group ) ), 
+			     linetype = "dashed", 
+			     size = 0.3 ) +
                 geom_point( data = as_tibble( data_pca_varsel_gmm_7groups$bic ), # Add equally supported mclust model
                             shape = 19,
                             x = data_pca_varsel_gmm$G - 1,
                             size = 4 ) +
-                geom_segment( aes( x = data_pca_varsel_gmm$G - 1, y = min( bic_best_model_per_group ), xend = data_pca_varsel_gmm$G - 1, yend = data_pca_varsel_gmm_7groups$bic ), linetype = "dashed", size = 0.3 ) +
+                geom_segment( aes( x = data_pca_varsel_gmm$G - 1, 
+				  y = min( bic_best_model_per_group ), 
+				  xend = data_pca_varsel_gmm$G - 1, 
+				  yend = data_pca_varsel_gmm_7groups$bic ), 
+			     linetype = "dashed", 
+			     size = 0.3 ) +
                 theme( axis.line = element_line( color = "black", size = 0.5), 
                        axis.title = element_text( size = 15 ), 
                        axis.text = element_text( size = 10 ),
