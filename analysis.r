@@ -354,7 +354,7 @@ all_summ = data_pca_mclust %>%
 
 # Create Ring plots per Island 
 
-ring_plots <- list()
+ring_plots = list()
 
 for (i in unique(all_summ$Island)) {
 	ring_plots[[i]] <- ggplot( data = subset( all_summ, Island == paste(i) ),
@@ -443,112 +443,112 @@ gplot( allgalapagos_NO_NW, maxpixels = 1000000 ) +
 # ring must be changed here. --------------------------------------
 
 # Baltra
-baltra_vp <- viewport( width = 0.1, 
+baltra_vp = viewport( width = 0.1, 
                  height = 0.1, 
                  x = 0.65, 
                  y = 0.56 )
 print( ring_plots$Baltra, vp = baltra_vp )                
 
 # Daphne
-daphne_vp <- viewport( width = 0.1, 
+daphne_vp = viewport( width = 0.1, 
                  height = 0.1, 
                  x = 0.57, 
                  y = 0.605 )
 print( ring_plots$Daphne, vp = daphne_vp )  
 
 # Espanola
-espanola_vp <- viewport( width = 0.1, 
+espanola_vp = viewport( width = 0.1, 
                  height = 0.1, 
                  x = 0.765, 
                  y = 0.205 )
 print( ring_plots$Espanola, vp = espanola_vp )
 
 # Fernandina
-fernandia_vp <- viewport( width = 0.1, 
+fernandia_vp = viewport( width = 0.1, 
                  height = 0.1, 
                  x = 0.23, 
                 	 y = 0.495 )
 print( ring_plots$Fernandina, vp = fernandia_vp )
 
 # Floreana
-floreana_vp <- viewport( width = 0.1, 
+floreana_vp = viewport( width = 0.1, 
                  height = 0.1, 
                  x = 0.55, 
                  y = 0.227 )
 print( ring_plots$Floreana, vp = floreana_vp )
 
 # Gardner
-gardner_vp <- viewport( width = 0.1, 
+gardner_vp = viewport( width = 0.1, 
                  height = 0.1, 
                  x = 0.826, 
                  y = 0.30 )
 print( ring_plots$Gardner, vp = gardner_vp )
 
 # Genovesa
-genovesa_vp <- viewport( width = 0.1, 
+genovesa_vp = viewport( width = 0.1, 
                  height = 0.1, 
                  x = 0.695, 
                  y = 0.815 )
 print( ring_plots$Genovesa, vp = genovesa_vp )
 
 # Isabela                
-isabela_vp <- viewport( width = 0.1, 
+isabela_vp = viewport( width = 0.1, 
                  height = 0.1, 
                  x = 0.32, 
                  y = 0.315 )
 print( ring_plots$Isabela, vp = isabela_vp )
 
 # Marchena
-marchena_vp <- viewport( width = 0.1, 
+marchena_vp = viewport( width = 0.1, 
                  height = 0.1, 
                  x = 0.54, 
                  y = 0.825 )
 print( ring_plots$Marchena, vp = marchena_vp )
 
 # Pinta
-pinta_vp <- viewport( width = 0.1, 
+pinta_vp = viewport( width = 0.1, 
                  height = 0.1, 
                  x = 0.455, 
                  y = 0.9 )
 print( ring_plots$Pinta, vp = pinta_vp )
 
 # Pinzon
-pinzon_vp <- viewport( width = 0.1, 
+pinzon_vp = viewport( width = 0.1, 
                  height = 0.1, 
                  x = 0.465, 
                  y = 0.44 )
 print( ring_plots$Pinzon, vp = pinzon_vp )
 
 # Rabida
-rabida_vp <- viewport( width = 0.1, 
+rabida_vp = viewport( width = 0.1, 
                  height = 0.1, 
                  x = 0.432, 
                  y = 0.55 )
 print( ring_plots$Rabida, vp = rabida_vp )
 
 # San Cristobal
-sancristobal_vp <- viewport( width = 0.1, 
+sancristobal_vp = viewport( width = 0.1, 
                  height = 0.1, 
                  x = 0.88, 
                  y = 0.51 )
 print( ring_plots$"San Cristobal", vp = sancristobal_vp )
 
 # Santa Cruz
-santacruz_vp <- viewport( width = 0.1, 
+santacruz_vp = viewport( width = 0.1, 
                  height = 0.1, 
                  x = 0.57, 
                  y = 0.405 )
 print( ring_plots$"Santa Cruz", vp = santacruz_vp )
 
 # Santa Fe
-santafe_vp <- viewport( width = 0.1, 
+santafe_vp = viewport( width = 0.1, 
                  height = 0.1, 
                  x = 0.665, 
                  y = 0.38 )
 print( ring_plots$"Santa Fe", vp = santafe_vp )
 
 # Santiago
-santiago_vp <- viewport( width = 0.1, 
+santiago_vp = viewport( width = 0.1, 
                  height = 0.1, 
                  x = 0.48, 
                  y = 0.66 )
@@ -556,14 +556,14 @@ print( ring_plots$Santiago, vp = santiago_vp )
 
 # NW ISLANDS
 # Darwin
-darwin_vp <- viewport( width = 0.1, 
+darwin_vp = viewport( width = 0.1, 
                  height = 0.1, 
                  x = 0.13, 
                  y = 0.925 )
 print( ring_plots$Darwin, vp = darwin_vp )  
 
 # Wolf
-wolf_vp <- viewport( width = 0.1, 
+wolf_vp = viewport( width = 0.1, 
                  height = 0.1, 
                  x = 0.2, 
                  y = 0.81 )
