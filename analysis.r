@@ -603,9 +603,9 @@ data_pca_mclust %>%
   tally() %>%
   mutate( fraction = n / sum(n) )
 
-##############################
-## EXPORATORY DATA ANALYSES ##
-##############################
+###############################
+## EXPLORATORY DATA ANALYSES ##
+###############################
 
 # Univariate plots of orignal data -------------------------
 data %>%
