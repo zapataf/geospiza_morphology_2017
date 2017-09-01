@@ -1,10 +1,10 @@
 # This script includes the R code used in the analyses presented in:
 #
-# 	Cadena CD, Jimenez I, Zapata F. Atlantean evolution in Darwin's Finches - 
-#	Issues and Perspectives in Species Delimitation using Phenotypic Data
-#	http://biorxiv.org/content/early/2017/04/06/124610
+# 	Cadena CD, Jimenez I, Zapata F. Issues and Perspectives in Species 
+#	Delimitation using Phenotypic Data - Atlantean evolution in Darwin's Finches
+#	https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syx071/4102004/Issues-and-Perspectives-in-Species-Delimitation
 #
-# This code was written collaboratively by C.D. Cadena, I. Jimenez and F. Zapata
+# This code was written collaboratively by all authors
 # 
 #
 # Code sections: preliminaries,  data organization, analyses, plots, data summaries,
