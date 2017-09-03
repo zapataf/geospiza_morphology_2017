@@ -1,6 +1,6 @@
 # This script includes the R code used in the analyses presented in:
 #
-# 	Cadena CD, Jimenez I, Zapata F. Issues and Perspectives in Species 
+# 	Cadena CD, Zapata F, Jimenez I. Issues and Perspectives in Species 
 #	Delimitation using Phenotypic Data - Atlantean evolution in Darwin's Finches
 #	https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syx071/4102004/Issues-and-Perspectives-in-Species-Delimitation
 # 
