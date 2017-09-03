@@ -2,9 +2,7 @@
 #
 # 	Cadena CD, Jimenez I, Zapata F. Issues and Perspectives in Species 
 #	Delimitation using Phenotypic Data - Atlantean evolution in Darwin's Finches
-#	https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syx071/4102004/Issues-and-Perspectives-in-Species-Delimitation
-#
-# This code was written collaboratively by all authors
+#	[Systematic Biology](https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syx071/4102004/Issues-and-Perspectives-in-Species-Delimitation)
 # 
 #
 # Code sections: preliminaries,  data organization, analyses, plots, data summaries,
