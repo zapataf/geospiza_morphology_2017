@@ -75,7 +75,7 @@ allgalapagos_NO_NW = merge( N00W090,
 pca_results = 
   data %>%
     dplyr::select( Wing:Tarsus ) %>% # Select traits
-    mutate_each( funs( log( . ) ) ) %>% # log-transform traits
+    mutate_all( funs( log( . ) ) ) %>% # log-transform traits
     rename( LnWing = Wing, 
             LnTail = Tail, 
             LnBlength = Blength, 
