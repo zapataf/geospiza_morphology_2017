@@ -5,7 +5,7 @@
 #	https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syx071/4102004/Issues-and-Perspectives-in-Species-Delimitation
 # 
 #
-# This code was written and reviewd by all authors.
+# This code was written and reviewed by all authors.
 #
 # Code sections: preliminaries,  data organization, analyses, plots, data summaries,
 # and exploratory data analyses. Each subsection is separated by -------------------------
